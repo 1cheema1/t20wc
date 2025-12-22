@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Suriname
+info,team,Argentina
+info,gender,male
+info,season,2024/25
+info,date,2024/12/11
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,20
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Suriname
+info,toss_decision,bat
+info,player_of_match,P Baron
+info,umpire,H Grewal
+info,umpire,Vijaya Mallela
+info,reserve_umpire,M Abbott
+info,match_referee,Phil Whitticase
+info,winner,Argentina
+info,winner_wickets,6
+info,player,Suriname,K Hardat
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,G Singh
+info,player,Suriname,YP Dayal
+info,player,Suriname,XSD Smith
+info,player,Suriname,V Shaw
+info,player,Suriname,K Jaikaran
+info,player,Suriname,AK Gokoel
+info,player,Suriname,V Hirlal
+info,player,Suriname,GI Gokoel
+info,player,Suriname,AAH Bhikari
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,A Ferguson
+info,player,Argentina,AAP Rivero
+info,player,Argentina,B Angeltti
+info,player,Argentina,Manuel Iturbe
+info,player,Argentina,Santiago Iturbe
+info,player,Argentina,H Fennell
+info,player,Argentina,Santiago Duggan
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAH Bhikari,9dba7a41
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GI Gokoel,72caebdc
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,H Grewal,1172f36e
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Nigeria
+info,gender,male
+info,season,2025
+info,date,2025/07/22
+info,event,Pearl of Africa T20I Series
+info,match_number,10
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,SG Mangela
+info,umpire,J Bamulese
+info,umpire,S Kintu
+info,reserve_umpire,IO Oyieko
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,38
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Obuya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,CN Kakuru
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,J Miyaji
+info,player,Uganda,M Musinguzi
+info,player,Uganda,I Mwebaze
+info,player,Uganda,J Baguma
+info,player,Uganda,C Watuwa
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,S Chilemanya
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,I Danladi
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Nigeria,AA Jimoh
+info,registry,people,AA Jimoh,b506636b
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,C Watuwa,121d97fb
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,I Mwebaze,b4b88cdd
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,J Bamulese,e8c8f086
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,M Musinguzi,34712b35
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,S Chilemanya,e1fe58ad
+info,registry,people,S Kintu,ff387f93
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Sulaimon Runsewe,c25d26dc

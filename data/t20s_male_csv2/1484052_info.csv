@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/05/19
+info,event,Bangladesh tour of United Arab Emirates
+info,match_number,2
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,Waseem Muhammad
+info,umpire,Aasif Iqbal
+info,umpire,Shiju Sam
+info,reserve_umpire,Nadeem Anjum
+info,tv_umpire,Akbar Ali
+info,match_referee,GF Labrooy
+info,winner,United Arab Emirates
+info,winner_wickets,2
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Tanvir Islam
+info,player,Bangladesh,Nahid Rana
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Saghir Khan
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Matiullah Khan
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Sharma,5661ef90
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,D Parashar,395179e8
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Haider Ali,dd572696
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Matiullah Khan,083e01d9
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,Nadeem Anjum,7ccbae86
+info,registry,people,Nahid Rana,5318ee68
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Saghir Khan,730d2283
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Waseem Muhammad,6f02fe2a

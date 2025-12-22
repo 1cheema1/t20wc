@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Cambodia
+info,gender,male
+info,season,2024/25
+info,date,2024/11/28
+info,event,ICC Men's T20 World Cup Asia Qualifier B
+info,match_number,19
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Cambodia
+info,toss_decision,field
+info,player_of_match,GC Murtaza
+info,umpire,Akbar Ali
+info,umpire,Shivani Mishra
+info,reserve_umpire,Izatullah Safi
+info,match_referee,Ali Naqvi
+info,winner,Cambodia
+info,winner_wickets,5
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,J Singye
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,S Loday
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,D Dawa
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,M Chadha
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,E Beukes
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,Shah Abrar Hussain
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,NT Gireesh
+info,player,Cambodia,Phon Bunthean
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,D Dawa,676aeb1b
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,J Singye,28574428
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,M Chadha,93a77ad4
+info,registry,people,NT Gireesh,32190239
+info,registry,people,Phon Bunthean,8981deb8
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Shah Abrar Hussain,6ec13131
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5

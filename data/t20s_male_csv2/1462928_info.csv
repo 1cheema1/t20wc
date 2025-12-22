@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Botswana
+info,gender,male
+info,season,2024/25
+info,date,2024/12/09
+info,event,Africa Continental Cup
+info,match_number,11
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Botswana
+info,toss_decision,field
+info,player_of_match,S Sesazi
+info,umpire,D Hagenimana
+info,umpire,Habib Enesi
+info,reserve_umpire,Gasana Christian
+info,match_referee,ET Dube
+info,winner,Uganda
+info,winner_runs,108
+info,player,Uganda,S Sesazi
+info,player,Uganda,F Achelam
+info,player,Uganda,SG Mangela
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,AR Ramjani
+info,player,Uganda,J Baguma
+info,player,Uganda,P Murungi
+info,player,Uganda,F Nsubuga
+info,player,Uganda,H Ssenyondo
+info,player,Botswana,M Kasselman
+info,player,Botswana,K Motlanka
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,T Perera
+info,player,Botswana,P Silas
+info,player,Botswana,V Mbazo
+info,player,Botswana,T Tshose
+info,player,Botswana,M Badenhorst
+info,player,Botswana,K Piet
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Khumalo
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,D Hagenimana,de167462
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Badenhorst,8a22e5f0
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,P Silas,9f2e1944
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14

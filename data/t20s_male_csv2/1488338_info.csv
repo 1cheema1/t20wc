@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Finland
+info,gender,male
+info,season,2025
+info,date,2025/06/13
+info,event,Nordic T20 Cup
+info,match_number,1
+info,venue,"Ishoj Cricket Club, Vejledalen"
+info,city,Ishoj
+info,toss_winner,Finland
+info,toss_decision,field
+info,player_of_match,S Thanikaithasan
+info,umpire,AK Saini
+info,umpire,SB Ravindra
+info,winner,Denmark
+info,winner_runs,121
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,Lucky Ali
+info,player,Denmark,E Karimi
+info,player,Denmark,Saud Munir
+info,player,Denmark,Shakeel Zeb
+info,player,Finland,AK Mohan
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,NM Salonen
+info,player,Finland,Faraaz Mehti Abbas
+info,player,Finland,A Pusthay
+info,player,Finland,Jordan O'Brien
+info,player,Finland,Atif Rasheed
+info,player,Finland,Amjad Sher
+info,player,Finland,Madhawa Basnayaka
+info,player,Finland,Raaz Mohammad
+info,player,Finland,Akhil Arjunan
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,AK Saini,894ebe7e
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,E Karimi,95bd9407
+info,registry,people,Faraaz Mehti Abbas,4233080d
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,Madhawa Basnayaka,6f337915
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Shakeel Zeb,4709e746
+info,registry,people,T Bharaj,49556abb

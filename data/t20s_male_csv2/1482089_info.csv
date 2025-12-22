@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Singapore
+info,gender,male
+info,season,2025
+info,date,2025/04/24
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Virandeep Singh
+info,umpire,N Sivan
+info,umpire,V Kalidas
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,R Madhavan
+info,winner,Malaysia
+info,winner_runs,28
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Singapore,JS Iggo
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,G Gune
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,SH Venugopal
+info,player,Singapore,Aslan Jafri
+info,player,Singapore,MA Sherry
+info,player,Singapore,C Sridev
+info,player,Singapore,DPS Tyagi
+info,player,Singapore,V Nagpaul
+info,player,Singapore,SA Pradhan
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Aslan Jafri,a14b5f3c
+info,registry,people,C Sridev,5d17f075
+info,registry,people,DPS Tyagi,d5f96736
+info,registry,people,G Gune,5491a9ff
+info,registry,people,JS Iggo,6af31962
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,MA Sherry,77eb2d60
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,R Madhavan,d0cff8fd
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,SA Pradhan,f1c8a09b
+info,registry,people,SH Venugopal,9f542219
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Nagpaul,6d1db278
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

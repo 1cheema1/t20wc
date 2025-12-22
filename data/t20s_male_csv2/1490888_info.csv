@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/06/28
+info,event,Continental Cup
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,Karanbir Singh
+info,winner,Austria
+info,winner_wickets,4
+info,player,Belgium,A Raza
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,F Khaliq
+info,player,Belgium,Zaki Ul Hassan
+info,player,Belgium,Shafiullah Zakhel
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Iftikhar Kankhel
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,H Khogiyani
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Sahel Zadran
+info,player,Austria,Mansoor Safi
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Baseer Khan
+info,player,Austria,MPS Cheema
+info,player,Austria,SFS Cheema
+info,registry,people,A Raza,838bc6ab
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,B Niaz,b7824537
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,H Khogiyani,b85c0597
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shafiullah Zakhel,ec59f49f
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zaki Ul Hassan,1d6d8a8b

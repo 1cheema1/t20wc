@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Slovenia
+info,gender,male
+info,season,2024
+info,date,2024/07/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,11
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Gibraltar
+info,toss_decision,bat
+info,player_of_match,Izaz Ali
+info,umpire,M Jameson
+info,umpire,M Burns
+info,reserve_umpire,Rizwan Akram
+info,match_referee,H Pack
+info,winner,Slovenia
+info,winner_wickets,1
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,M Raikes
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,K Mirpuri
+info,player,Slovenia,Muhammad Siddiqui
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,Waqar Khan
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,DK Pallekonda
+info,player,Slovenia,Merwais Shinwari
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,DK Pallekonda,e77c9807
+info,registry,people,H Pack,fed53c91
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Raikes,a9b998d9
+info,registry,people,Merwais Shinwari,6755b6c7
+info,registry,people,Muhammad Siddiqui,b46b3d9b
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,Waqar Khan,da21531c

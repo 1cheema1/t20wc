@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Gibraltar
+info,gender,male
+info,season,2025
+info,date,2025/07/12
+info,event,Bulgaria Tri-Nation T20I Series
+info,match_number,6
+info,venue,"Vassil Levski National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Turkey
+info,toss_decision,bat
+info,player_of_match,PA Raikes
+info,winner,Gibraltar
+info,winner_wickets,5
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,Muhammad Fahad
+info,player,Turkey,Hasan Yanar
+info,player,Turkey,A Turkmen
+info,player,Turkey,GG Alta
+info,player,Turkey,Zafer Durmaz
+info,player,Turkey,E Yaver
+info,player,Turkey,Serdar Burak Emir
+info,player,Turkey,Murat Yilmaz
+info,player,Turkey,Ibrahim Altinoluk
+info,player,Turkey,Ilyas Cetin
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,M Raikes
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,J Wilson
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,N Advani
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,C Pyle,d278b70b
+info,registry,people,E Yaver,14e58d17
+info,registry,people,GG Alta,c7bb2416
+info,registry,people,Hasan Yanar,c8c4709d
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Ibrahim Altinoluk,965e5b62
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,Ilyas Cetin,8357fc3e
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Wilson,1a3295a1
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,M Raikes,a9b998d9
+info,registry,people,Muhammad Fahad,3f778477
+info,registry,people,Murat Yilmaz,f2990906
+info,registry,people,N Advani,e4f6147b
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Serdar Burak Emir,6d9238ac
+info,registry,people,Zafer Durmaz,755819f4

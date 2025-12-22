@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Thailand
+info,gender,male
+info,season,2025
+info,date,2025/05/11
+info,event,Japan Twenty20 Tri-Series
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,AV Lazarus
+info,umpire,C Thurgate
+info,umpire,Mumtaz Alam
+info,winner,Thailand
+info,winner_wickets,6
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,Abhishek Anand
+info,player,Japan,D Suzuki
+info,player,Japan,C Hinze
+info,player,Japan,S Ravichandran
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,I Takahashi
+info,player,Japan,A Patmore
+info,player,Japan,M Taniyama
+info,player,Japan,S Sugaya-Slater
+info,player,Japan,Abdul Samad
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,S Desungnoen
+info,player,Thailand,J Coetzee
+info,player,Thailand,AV Lazarus
+info,player,Thailand,MK Thakur
+info,player,Thailand,N Nuntarach
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,P Thongsa
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,A Patmore,85119526
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Abdul Samad,21dbacff
+info,registry,people,Abhishek Anand,2c12bc65
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Hinze,626af7ff
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,Mumtaz Alam,6627fc27
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,P Thongsa,62318525
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,S Sugaya-Slater,2d02f041
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Y Saranonnakkun,9c93c0a3

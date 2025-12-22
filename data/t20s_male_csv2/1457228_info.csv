@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Cambodia
+info,gender,male
+info,season,2024/25
+info,date,2024/11/23
+info,event,ICC Men's T20 World Cup Asia Qualifier B
+info,match_number,12
+info,venue,University of Doha for Science and Technology
+info,city,Doha
+info,toss_winner,Qatar
+info,toss_decision,bat
+info,player_of_match,I Liyanage
+info,umpire,BB Pradhan
+info,umpire,Izatullah Safi
+info,reserve_umpire,VG Rathi
+info,match_referee,Ali Naqvi
+info,winner,Qatar
+info,winner_runs,48
+info,player,Qatar,I Liyanage
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Nouman Sarwar
+info,player,Qatar,Amir Farooq
+info,player,Qatar,A Nagarajan
+info,player,Qatar,Mohammed Aslam
+info,player,Qatar,Owais Ahmed
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Shah Abrar Hussain
+info,player,Cambodia,M Chadha
+info,player,Cambodia,E Beukes
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,NT Gireesh
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Phon Bunthean
+info,registry,people,A Nagarajan,856dcfa8
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,M Chadha,93a77ad4
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Aslam,83b3a4eb
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,NT Gireesh,32190239
+info,registry,people,Nouman Sarwar,6adabee6
+info,registry,people,Owais Ahmed,cef52835
+info,registry,people,Phon Bunthean,8981deb8
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shah Abrar Hussain,6ec13131
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,VG Rathi,144e5b16

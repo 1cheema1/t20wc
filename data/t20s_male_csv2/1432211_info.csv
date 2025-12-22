@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,Pakistan tour of South Africa
+info,match_number,1
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,GF Linde
+info,umpire,A Paleker
+info,umpire,Stephen Harris
+info,reserve_umpire,BP Jele
+info,tv_umpire,LB Gcuma
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_runs,11
+info,player,South Africa,RR Hendricks
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,MP Breetzke
+info,player,South Africa,DA Miller
+info,player,South Africa,H Klaasen
+info,player,South Africa,D Ferreira
+info,player,South Africa,GF Linde
+info,player,South Africa,A Simelane
+info,player,South Africa,N Peter
+info,player,South Africa,KT Maphaka
+info,player,South Africa,OEG Baartman
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Tayyab Tahir
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Irfan Khan
+info,player,Pakistan,Abbas Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Sufiyan Muqeem
+info,player,Pakistan,Abrar Ahmed
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Simelane,ebb74564
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,N Peter,212aeedd
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usman Khan,bafb9238

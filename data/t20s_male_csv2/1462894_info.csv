@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/11
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,19
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Brazil
+info,toss_decision,field
+info,player_of_match,D Sabir
+info,umpire,Jermaine Lindo
+info,umpire,R Shah
+info,reserve_umpire,C La Borde
+info,match_referee,Phil Whitticase
+info,winner,Bermuda
+info,winner_runs,87
+info,player,Bermuda,TS Fray
+info,player,Bermuda,T Manders
+info,player,Bermuda,AD Dore
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,D Sabir
+info,player,Bermuda,JDA Richardson
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,J Proctor
+info,player,Bermuda,K Fubler
+info,player,Bermuda,Chare Smith
+info,player,Brazil,W Maximo
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,G Caisley
+info,player,Brazil,LF Muller
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,Kawsar Khan
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,CC Machado
+info,player,Brazil,R Avery
+info,player,Brazil,IC Simao
+info,registry,people,AD Dore,aa867444
+info,registry,people,C La Borde,32157f67
+info,registry,people,CC Machado,5992ef03
+info,registry,people,Chare Smith,4e1b7998
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,G Caisley,0f06d3cd
+info,registry,people,IC Simao,dcc76384
+info,registry,people,J Proctor,01b0d0a4
+info,registry,people,JDA Richardson,e8c00c13
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,Kawsar Khan,a14b3bc0
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,R Shah,3424e050
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e
+info,registry,people,Z Burgess,d0042e16

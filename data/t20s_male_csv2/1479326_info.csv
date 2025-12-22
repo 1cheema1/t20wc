@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Qatar
+info,gender,male
+info,season,2025
+info,date,2025/04/13
+info,event,Quadrangular Twenty20 Series (Hong Kong)
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Anshuman Rath
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,Tabarak Dar
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_runs,1
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Shahid Wasif
+info,player,Hong Kong,Waqas Barkat
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Qatar,A Nagarajan
+info,player,Qatar,R Theruvath
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,Jassim Khan
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,Mohammad Abrar
+info,player,Qatar,Bipin Kumar
+info,player,Qatar,Muhammad Jabir
+info,registry,people,A Nagarajan,856dcfa8
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Jassim Khan,67e36e53
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,Mohammad Abrar,5923eebb
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R Theruvath,eb6d1f4d
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Shahid Wasif,2cc08c3c
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Waqas Barkat,a2eac9df
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

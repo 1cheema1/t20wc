@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Belize
+info,gender,male
+info,season,2024/25
+info,date,2024/12/14
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,27
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Panama
+info,toss_decision,bat
+info,player_of_match,L Bonner
+info,umpire,C La Borde
+info,umpire,M Abbott
+info,reserve_umpire,H Grewal
+info,match_referee,Phil Whitticase
+info,winner,Belize
+info,winner_wickets,7
+info,player,Panama,Breeze Ahir
+info,player,Panama,P Jayeshbhai Patel
+info,player,Panama,Irfan Hafejee
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,YI Kachhalia
+info,player,Panama,RDB Ahir
+info,player,Panama,Sohel Ebrahim Desai
+info,player,Panama,AM Patel
+info,player,Panama,DK Dahyabhai Ahir
+info,player,Panama,Sanjay Kumar Ahir
+info,player,Belize,O Casasola
+info,player,Belize,L Bonner
+info,player,Belize,ML Castillo
+info,player,Belize,Kristan Tillett
+info,player,Belize,BS Stephenson
+info,player,Belize,NN Banner
+info,player,Belize,A Oxley
+info,player,Belize,Garret Banner
+info,player,Belize,GG Banner
+info,player,Belize,J Pakeman
+info,player,Belize,B Lewis
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,A Oxley,d1317833
+info,registry,people,AM Patel,a09323d8
+info,registry,people,B Lewis,f68bac56
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,Breeze Ahir,da09ca26
+info,registry,people,C La Borde,32157f67
+info,registry,people,DK Dahyabhai Ahir,ce9ee68f
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,H Grewal,1172f36e
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,J Pakeman,0cea2730
+info,registry,people,Kristan Tillett,4e31ea36
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,ML Castillo,9853b404
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,P Jayeshbhai Patel,3317dc7a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Sanjay Kumar Ahir,d11e0c76
+info,registry,people,Sohel Ebrahim Desai,3ec178e7
+info,registry,people,YI Kachhalia,61650adb
+info,registry,people,Yusuf Ebrahim,2d5c6e88

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2024/25
+info,date,2024/11/14
+info,event,Pakistan tour of Australia
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,DM Koch
+info,umpire,PJ Gillespie
+info,reserve_umpire,SAJ Craig
+info,tv_umpire,SB Haig
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_runs,29
+info,player,Australia,MW Short
+info,player,Australia,J Fraser-McGurk
+info,player,Australia,GJ Maxwell
+info,player,Australia,TH David
+info,player,Australia,MP Stoinis
+info,player,Australia,JP Inglis
+info,player,Australia,AM Hardie
+info,player,Australia,NT Ellis
+info,player,Australia,XC Bartlett
+info,player,Australia,SH Johnson
+info,player,Australia,A Zampa
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Irfan Khan
+info,player,Pakistan,Haseebullah Khan
+info,player,Pakistan,Abbas Afridi
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Haris Rauf
+info,registry,people,A Zampa,14f96089
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JP Inglis,989889ff
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SB Haig,811655b3
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TH David,f1f99156
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,XC Bartlett,3b53243a

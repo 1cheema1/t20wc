@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Uganda
+info,gender,male
+info,season,2025/26
+info,date,2025/09/28
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,6
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,K Juma
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,A Louw
+info,match_referee,GH Pienaar
+info,winner,Tanzania
+info,winner_runs,9
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,A Augastin
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,MS Maker
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,S Selvaraj
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Lutaaya
+info,player,Uganda,GY Tomar
+info,player,Uganda,DM Nakrani
+info,player,Uganda,SL Verma
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,AR Ramjani
+info,player,Uganda,J Miyaji
+info,player,Uganda,C Kyewuta
+info,player,Uganda,J Baguma
+info,player,Uganda,H Ssenyondo
+info,registry,people,A Augastin,056e3558
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GY Tomar,3f4c3313
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MS Maker,14318ae4
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Selvaraj,f70f8dbb
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SL Verma,26b6a4e9
+info,registry,people,Stephen Harris,fdcfd4aa

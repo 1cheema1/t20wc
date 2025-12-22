@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Bermuda
+info,gender,male
+info,season,2025
+info,date,2025/06/15
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,1
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Bermuda
+info,toss_decision,field
+info,player_of_match,H Thaker
+info,umpire,DK Butler
+info,umpire,GO Brathwaite
+info,reserve_umpire,AR Maddela
+info,tv_umpire,Zahid Bassarath
+info,match_referee,Dave Gilbert
+info,winner,Canada
+info,winner_runs,110
+info,player,Canada,YS Samra
+info,player,Canada,A Johnson
+info,player,Canada,Pargat Singh
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,K Tathgur
+info,player,Canada,Jaskaran Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Shivam Sharma
+info,player,Canada,Kaleem Sana
+info,player,Bermuda,TS Fray
+info,player,Bermuda,T Manders
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,MJ Scotland
+info,player,Bermuda,D Sabir
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,J Proctor
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,Chare Smith
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Chare Smith,4e1b7998
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DK Butler,671398e3
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,H Thaker,c01d7726
+info,registry,people,J Proctor,01b0d0a4
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,K Tathgur,f190c775
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,MJ Scotland,a1cc467d
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,S Smith,18a0ba24
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,Z Burgess,d0042e16
+info,registry,people,Zahid Bassarath,ca6bf044

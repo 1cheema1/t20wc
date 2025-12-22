@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Netherlands
+info,gender,male
+info,season,2025
+info,date,2025/07/11
+info,event,ICC Men's T20 World Cup Europe Region Final
+info,match_number,10
+info,venue,"Sportpark Westvliet, Voorburg"
+info,city,The Hague
+info,toss_winner,Italy
+info,toss_decision,bat
+info,player_of_match,RE van der Merwe
+info,umpire,R Black
+info,umpire,RJ Warren
+info,reserve_umpire,Aidan Seaver
+info,match_referee,Denavon Hayles
+info,winner,Netherlands
+info,winner_wickets,9
+info,player,Italy,J Mosca
+info,player,Italy,EN Gay
+info,player,Italy,JA Burns
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,BAD Manenti
+info,player,Italy,G Stewart
+info,player,Italy,AJ Mosca
+info,player,Italy,Jaspreet Singh
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,TJ Draca
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,ZB Lion-Cachet
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,Saqib Zulfiqar
+info,player,Netherlands,RE van der Merwe
+info,player,Netherlands,K Klein
+info,player,Netherlands,A Dutt
+info,player,Netherlands,PA van Meekeren
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,EN Gay,aa710a58
+info,registry,people,G Stewart,a77472dc
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,K Klein,374bb5e7
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,R Black,156c8fb1
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Saqib Zulfiqar,5d38476c
+info,registry,people,TJ Draca,88fac705
+info,registry,people,ZB Lion-Cachet,d99de998

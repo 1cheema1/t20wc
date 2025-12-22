@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Cambodia
+info,gender,male
+info,season,2025
+info,date,2025/06/12
+info,event,Cambodia tour of Indonesia
+info,match_number,3
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Indonesia
+info,toss_decision,bat
+info,player_of_match,M Chadha
+info,umpire,S Hawoe
+info,umpire,Yeri Rosongna
+info,match_referee,F Shony
+info,winner,Cambodia
+info,winner_wickets,6
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,TNM Soleh
+info,player,Indonesia,Vineet Shah
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,AA Rahayu
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,DK Shetty
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,M Chadha
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,E Beukes
+info,player,Cambodia,Shah Abrar Hussain
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,NT Gireesh
+info,player,Cambodia,S Godara
+info,registry,people,AA Rahayu,2327fdc7
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,DK Shetty,65cfc56b
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,F Shony,85712af4
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,M Chadha,93a77ad4
+info,registry,people,NT Gireesh,32190239
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,S Hawoe,e773dfe5
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Shah Abrar Hussain,6ec13131
+info,registry,people,TNM Soleh,905c09dd
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,Vineet Shah,ad85a036
+info,registry,people,Yeri Rosongna,161c019d

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Bahrain
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,Gulf T20I Championship
+info,match_number,7
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Haider Butt
+info,umpire,Shiju Sam
+info,umpire,Zahid Usman
+info,reserve_umpire,Mohammad Nasim
+info,tv_umpire,G Pillai
+info,match_referee,Iftikhar Ali
+info,winner,Bahrain
+info,winner_wickets,8
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Nawazish Akhtar
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Choudhry Md Imran
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Ahmad Raza
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,S Sarthak
+info,player,Bahrain,Ahmer Bin Nisar
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmad Raza,6bfa638b
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Choudhry Md Imran,d92d4f5e
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,G Pillai,c363921c
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Nawazish Akhtar,7503149b
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Sarthak,9f2c6cd3
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zahid Usman,5ee3b5bd
+info,registry,people,Zain Ul Abidin,b93b87ae

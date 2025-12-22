@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Norway
+info,gender,male
+info,season,2025
+info,date,2025/08/17
+info,event,Norway Tri-Nation T20I Series
+info,match_number,1
+info,venue,"Stubberudmyra Cricket Ground, Oslo"
+info,city,Oslo
+info,toss_winner,Sweden
+info,toss_decision,bat
+info,winner,Norway
+info,winner_wickets,3
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,A Mundra
+info,player,Sweden,YS Chauhan
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Ihsanullah Wafa
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,SK Gedara
+info,player,Sweden,A Dhabe
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Walid Ghauri
+info,player,Norway,D Abeyrathna
+info,player,Norway,Faisal Raza
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,AJ Parmar
+info,player,Norway,Ahmadullah Shinwari
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Ihsanullah Wafa,75a58f94
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,SK Gedara,84c5c2f2
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,YS Chauhan,fb3233d4

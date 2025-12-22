@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Cayman Islands
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,33
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,Z Burgess
+info,umpire,AR Maddela
+info,umpire,Vijaya Mallela
+info,reserve_umpire,R Shah
+info,match_referee,Phil Whitticase
+info,winner,Bermuda
+info,winner_runs,13
+info,player,Bermuda,TS Fray
+info,player,Bermuda,T Manders
+info,player,Bermuda,AD Dore
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,D Sabir
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,Jonte Smith
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,K Fubler
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,D Johnson
+info,player,Cayman Islands,Ronald Ebanks
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,AF Ifill
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AD Dore,aa867444
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Johnson,d406e303
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,J Baker,a12672e0
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Shah,3424e050
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ronald Ebanks,e21ef7ec
+info,registry,people,S Foster,3595ad3b
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,YSD Seneveratne,0f71478c
+info,registry,people,Z Burgess,d0042e16

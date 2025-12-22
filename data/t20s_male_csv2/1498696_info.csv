@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/08/23
+info,event,Belgium tour of Austria
+info,match_number,1
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,Aqib Iqbal
+info,umpire,Abdul Subor Haydari
+info,umpire,Pamir Zarawar Khan
+info,reserve_umpire,Amir Javed
+info,winner,Austria
+info,winner_wickets,6
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,Aziz Mohammad
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Walid Sahibzada
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,OJ Herrington
+info,player,Belgium,Iftikhar Kankhel
+info,player,Belgium,S Jamil
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Amar Naeem
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Hamid Safi
+info,player,Austria,Sahel Zadran
+info,player,Austria,Umair Tariq
+info,player,Austria,SFS Cheema
+info,player,Austria,Ranjit Singh
+info,player,Austria,Baseer Khan
+info,registry,people,Abdul Subor Haydari,c2474a99
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Amir Javed,23a92bd1
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Aziz Mohammad,b3e9555a
+info,registry,people,B Niaz,b7824537
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,OJ Herrington,59fa2bbc
+info,registry,people,Pamir Zarawar Khan,ba44be2a
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,Ranjit Singh,0467bd8d
+info,registry,people,S Jamil,3d6617c6
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Walid Sahibzada,523c8494
+info,registry,people,Waqar Zalmai,74571ec4

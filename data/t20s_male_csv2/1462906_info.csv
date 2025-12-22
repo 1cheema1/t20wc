@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Bahamas
+info,gender,male
+info,season,2024/25
+info,date,2024/12/15
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,31
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,umpire,AR Maddela
+info,umpire,M Abbott
+info,reserve_umpire,C La Borde
+info,match_referee,Phil Whitticase
+info,winner,Bermuda
+info,winner_runs,62
+info,player,Bermuda,TS Fray
+info,player,Bermuda,T Manders
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,AD Dore
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,K Fubler
+info,player,Bermuda,Jonte Smith
+info,player,Bermuda,S Smith
+info,player,Bermuda,D Sabir
+info,player,Bahamas,M Taylor
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,E Duff
+info,player,Bahamas,J Jemison
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,R Davson
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,R Smith
+info,player,Bahamas,J Gallimore
+info,player,Bahamas,A Harris
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,AD Dore,aa867444
+info,registry,people,AR Maddela,5c861579
+info,registry,people,C La Borde,32157f67
+info,registry,people,Chare Smith,4e1b7998
+info,registry,people,D Sabir,04bc296f
+info,registry,people,D Wheatley,04539335
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,E Duff,b7873c81
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,J Gallimore,5bebe726
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M Taylor,92075cdc
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Davson,7804d401
+info,registry,people,R Smith,0b91b5d5
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Z Burgess,d0042e16

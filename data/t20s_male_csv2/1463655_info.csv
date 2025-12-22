@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Qatar
+info,gender,male
+info,season,2024/25
+info,date,2024/12/14
+info,event,Gulf T20I Championship
+info,match_number,4
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Jatinder Singh
+info,umpire,Asim Mehmood
+info,umpire,Rahat Ali
+info,reserve_umpire,G Pillai
+info,tv_umpire,Zahid Usman
+info,match_referee,Iftikhar Ali
+info,winner,Oman
+info,winner_runs,35
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aamir Kaleem
+info,player,Oman,K Sonavale
+info,player,Oman,Hammad Mirza
+info,player,Oman,Wasim Ali
+info,player,Oman,V Shukla
+info,player,Oman,Muzahir Raza
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Jay Odedra
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Shakeel Ahmed
+info,player,Qatar,I Liyanage
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,Amir Farooq
+info,player,Qatar,Mohammed Nadeem
+info,player,Qatar,Muhammad Jabir
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Asim Mehmood,4109cbec
+info,registry,people,G Pillai,c363921c
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,K Sonavale,10c158cc
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Muzahir Raza,60606200
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,V Shukla,101b1180
+info,registry,people,Wasim Ali,ea59139a
+info,registry,people,Zahid Usman,5ee3b5bd

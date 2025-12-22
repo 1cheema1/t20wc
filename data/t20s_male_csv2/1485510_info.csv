@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2025
+info,date,2025/07/16
+info,event,Bangladesh tour of Sri Lanka
+info,match_number,3
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,Mahedi Hasan
+info,umpire,RR Wimalasiri
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RMPJ Rambukwella
+info,tv_umpire,LE Hannibal
+info,match_referee,AJ Pycroft
+info,winner,Bangladesh
+info,winner_wickets,8
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,JDF Vandersay
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,B Fernando
+info,player,Sri Lanka,N Thushara
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414

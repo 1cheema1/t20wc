@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Zimbabwe
+info,gender,male
+info,season,2025/26
+info,date,2025/09/18
+info,event,Namibia tour of Zimbabwe
+info,match_number,3
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,JN Frylinck
+info,umpire,F Mutizwa
+info,umpire,L Rusere
+info,tv_umpire,I Chabi
+info,match_referee,ET Dube
+info,winner,Namibia
+info,winner_runs,28
+info,player,Namibia,JN Frylinck
+info,player,Namibia,L Steenkamp
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,A Busing-Volschenk
+info,player,Namibia,JI de Villiers
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,TT Maposa
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,T Gwandu
+info,registry,people,A Busing-Volschenk,e9e37173
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JI de Villiers,3847ec84
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RP Burl,b08252b8
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TT Maposa,5feead83
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,ZE Green,8716233e

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2025
+info,date,2025/08/16
+info,event,South Africa tour of Australia
+info,match_number,3
+info,venue,"Cazaly's Stadium, Cairns"
+info,city,Cairns
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,DM Koch
+info,umpire,PJ Gillespie
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,SAJ Craig
+info,match_referee,AJ Pycroft
+info,winner,Australia
+info,winner_wickets,2
+info,player,South Africa,AK Markram
+info,player,South Africa,RD Rickelton
+info,player,South Africa,LG Pretorius
+info,player,South Africa,D Brevis
+info,player,South Africa,T Stubbs
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,C Bosch
+info,player,South Africa,S Muthusamy
+info,player,South Africa,K Rabada
+info,player,South Africa,KT Maphaka
+info,player,South Africa,L Ngidi
+info,player,Australia,MR Marsh
+info,player,Australia,TM Head
+info,player,Australia,JP Inglis
+info,player,Australia,C Green
+info,player,Australia,TH David
+info,player,Australia,GJ Maxwell
+info,player,Australia,AM Hardie
+info,player,Australia,BJ Dwarshuis
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Green,eaa76d3c
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

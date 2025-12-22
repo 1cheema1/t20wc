@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Nepal
+info,gender,male
+info,season,2025
+info,date,2025/06/16
+info,event,Scotland T20 Tri-Series
+info,match_number,2
+info,venue,"Titwood, Glasgow"
+info,city,Glasgow
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,ZB Lion-Cachet
+info,umpire,I McDonald
+info,umpire,Ryan Milne
+info,tv_umpire,DH Mclean
+info,match_referee,Philip Thompson
+info,outcome,tie
+info,eliminator,Netherlands
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,ZB Lion-Cachet
+info,player,Netherlands,Saqib Zulfiqar
+info,player,Netherlands,K Klein
+info,player,Netherlands,BE Fletcher
+info,player,Netherlands,DT Doram
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Lokesh Bam
+info,player,Nepal,AK Sah
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,K Thagunna
+info,player,Nepal,Rupesh Singh
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,NK Yadav
+info,player,Nepal,LN Rajbanshi
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BE Fletcher,abd82f3b
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DS Airee,1747ea18
+info,registry,people,DT Doram,3bea1983
+info,registry,people,I McDonald,37b55799
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Klein,374bb5e7
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,NK Yadav,737e595d
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rupesh Singh,30b93df1
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Saqib Zulfiqar,5d38476c
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,ZB Lion-Cachet,d99de998

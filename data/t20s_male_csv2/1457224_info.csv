@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Thailand
+info,gender,male
+info,season,2024/25
+info,date,2024/11/22
+info,event,ICC Men's T20 World Cup Asia Qualifier B
+info,match_number,8
+info,venue,University of Doha for Science and Technology
+info,city,Doha
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,N Salekar
+info,umpire,Izatullah Safi
+info,umpire,Shivani Mishra
+info,reserve_umpire,Akbar Ali
+info,match_referee,Ali Naqvi
+info,winner,Thailand
+info,winner_wickets,2
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Imran Khan
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Salekar
+info,player,Thailand,S Desungnoen
+info,player,Thailand,S Rungrueang
+info,player,Thailand,C Pengkumta
+info,player,Thailand,N Nuntarach
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Salekar,54403333
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Y Saranonnakkun,9c93c0a3

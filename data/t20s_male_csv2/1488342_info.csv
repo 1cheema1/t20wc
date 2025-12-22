@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Finland
+info,gender,male
+info,season,2025
+info,date,2025/06/14
+info,event,Nordic T20 Cup
+info,match_number,5
+info,venue,"Ishoj Cricket Club, Vejledalen"
+info,city,Ishoj
+info,toss_winner,Finland
+info,toss_decision,field
+info,player_of_match,Imal Zuwak
+info,umpire,B Timilsena
+info,umpire,Ishaq Saqi
+info,winner,Sweden
+info,winner_runs,71
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,Samarth Shetty
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,J Stanigze
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,A Dhabe
+info,player,Finland,VS Padhaal
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,AK Mohan
+info,player,Finland,Faraaz Mehti Abbas
+info,player,Finland,A Pusthay
+info,player,Finland,Jordan O'Brien
+info,player,Finland,NM Salonen
+info,player,Finland,PUKK Arachchige
+info,player,Finland,Amjad Sher
+info,player,Finland,Akhil Arjunan
+info,player,Finland,E Kuchey
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,B Timilsena,826718d0
+info,registry,people,E Kuchey,5d6064b0
+info,registry,people,Faraaz Mehti Abbas,4233080d
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Ishaq Saqi,dc48b49e
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,PUKK Arachchige,1ef6ed2b
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samarth Shetty,324e5c36
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,VS Padhaal,c4fb0b39

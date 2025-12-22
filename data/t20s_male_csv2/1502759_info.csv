@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Tanzania
+info,gender,male
+info,season,2025/26
+info,date,2025/10/04
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,DM Gondaria
+info,umpire,BP Jele
+info,umpire,I Chabi
+info,reserve_umpire,LB Gcuma
+info,match_referee,GH Pienaar
+info,winner,Kenya
+info,winner_runs,51
+info,player,Kenya,DM Gondaria
+info,player,Kenya,N Mugabe
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,JS Kundi
+info,player,Kenya,S Singh
+info,player,Kenya,F Mutua
+info,player,Kenya,N Hirani
+info,player,Kenya,S Gill
+info,player,Kenya,P Koech
+info,player,Kenya,Vraj Patel
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,A Augastin
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,MS Maker
+info,player,Tanzania,Simba Mbaki
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,S Selvaraj
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,registry,people,A Augastin,056e3558
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,F Mutua,21b67523
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,K Juma,089ebf89
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MS Maker,14318ae4
+info,registry,people,N Hirani,4d290e7a
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,P Koech,f4a0a615
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Selvaraj,f70f8dbb
+info,registry,people,S Singh,612a395c
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Simba Mbaki,5941e35c
+info,registry,people,Vraj Patel,2af28253

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Bahamas
+info,gender,male
+info,season,2025
+info,date,2025/04/20
+info,event,North America T20 Cup
+info,match_number,3
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,United States of America
+info,toss_decision,bat
+info,player_of_match,MD Patel
+info,umpire,C Young
+info,umpire,L Watson
+info,reserve_umpire,D Smith
+info,winner,United States of America
+info,winner_runs,149
+info,player,United States of America,RM Jariwala
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,Milind Kumar
+info,player,United States of America,SP Krishnamurthi
+info,player,United States of America,B Akhilesh Reddy
+info,player,United States of America,A Desai
+info,player,United States of America,Yasir Mohammad
+info,player,United States of America,AS Nadkarni
+info,player,United States of America,VM Vaghela
+info,player,Bahamas,M Taylor
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,RA Tappin
+info,player,Bahamas,E Duff
+info,player,Bahamas,K Hinds
+info,player,Bahamas,R Davson
+info,player,Bahamas,J Jemison
+info,player,Bahamas,A Harris
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,R Patten
+info,player,Bahamas,R Smith
+info,registry,people,A Desai,9c1b1f4b
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,AS Nadkarni,d2a6614c
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,B Akhilesh Reddy,2df72aae
+info,registry,people,C Young,169c473b
+info,registry,people,D Smith,388bbca2
+info,registry,people,E Duff,b7873c81
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,K Hinds,a268c07b
+info,registry,people,L Watson,f6f4b730
+info,registry,people,M Taylor,92075cdc
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,R Davson,7804d401
+info,registry,people,R Patten,4437df8c
+info,registry,people,R Smith,0b91b5d5
+info,registry,people,RA Tappin,7ce244fd
+info,registry,people,RM Jariwala,20f3a03d
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,VM Vaghela,b6e29ef5
+info,registry,people,Yasir Mohammad,fe5175ce

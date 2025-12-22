@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Hong Kong
+info,gender,male
+info,season,2025/26
+info,date,2025/11/12
+info,event,Hong Kong in Qatar T20I Series
+info,match_number,1
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Qatar
+info,toss_decision,bat
+info,player_of_match,MM Baig
+info,umpire,Asghar Ali Bhatti
+info,umpire,Tahir Mehmood
+info,reserve_umpire,Muhammad Usman
+info,match_referee,Aminul Islam
+info,winner,Qatar
+info,winner_runs,6
+info,player,Qatar,I Liyanage
+info,player,Qatar,Zubair Ali
+info,player,Qatar,Shariq Munir
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,MM Baig
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mokbul Ahammed
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,Owais Ahmed
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,S Mathur
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Mohammad Waheed
+info,player,Hong Kong,Ateeq Iqbal
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Aminul Islam,6e60a05f
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Asghar Ali Bhatti,1f1f823a
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,MM Baig,add288ea
+info,registry,people,Mohammad Waheed,e345bcdc
+info,registry,people,Mokbul Ahammed,0f6ffe16
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Usman,05b35689
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Owais Ahmed,cef52835
+info,registry,people,S Mathur,11378dda
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Shariq Munir,298d9b83
+info,registry,people,Tahir Mehmood,3b6e4c78
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9
+info,registry,people,Zubair Ali,f16e776a

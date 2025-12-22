@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Czech Republic
+info,gender,male
+info,season,2025
+info,date,2025/06/08
+info,event,Central Europe Cup
+info,match_number,2
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,Mansoor Shah
+info,winner,Norway
+info,winner_runs,37
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Walid Ghauri
+info,player,Norway,D Abeyrathna
+info,player,Norway,Sher Sahak
+info,player,Norway,Faisal Raza
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Mansoor Shah
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,AJ Parmar
+info,player,Czech Republic,RM Magare
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,M Vandrasi
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,S Davizi
+info,player,Czech Republic,S Chaudhary
+info,player,Czech Republic,V Marghashayam
+info,player,Czech Republic,Abul Farhad
+info,player,Czech Republic,Neeraj Mishra
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Vandrasi,e82543d5
+info,registry,people,Mansoor Shah,d09615c8
+info,registry,people,Neeraj Mishra,43e2e8c3
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,RM Magare,d5966b42
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Davizi,5787be00
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,V Marghashayam,0d7e506a
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Walid Ghauri,331e137f

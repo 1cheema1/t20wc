@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Belize
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,14
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Belize
+info,toss_decision,field
+info,player_of_match,K Hinds
+info,umpire,C La Borde
+info,umpire,Jermaine Lindo
+info,reserve_umpire,AR Maddela
+info,match_referee,Phil Whitticase
+info,winner,Bahamas
+info,winner_runs,3
+info,player,Bahamas,M Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,R Davson
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,A Harris
+info,player,Bahamas,R Smith
+info,player,Bahamas,Sandeep Goud
+info,player,Belize,A Oxley
+info,player,Belize,O Casasola
+info,player,Belize,Garret Banner
+info,player,Belize,BS Stephenson
+info,player,Belize,ML Castillo
+info,player,Belize,GG Banner
+info,player,Belize,L Bonner
+info,player,Belize,NN Banner
+info,player,Belize,C Stephenson
+info,player,Belize,Kristan Tillett
+info,player,Belize,R Jones
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,A Oxley,d1317833
+info,registry,people,AR Maddela,5c861579
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Stephenson,c2123fd0
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,Kristan Tillett,4e31ea36
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,M Taylor,92075cdc
+info,registry,people,ML Castillo,9853b404
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Davson,7804d401
+info,registry,people,R Jones,835aa08f
+info,registry,people,R Smith,0b91b5d5
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,Sandeep Goud,c83ef4d6

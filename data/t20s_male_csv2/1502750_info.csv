@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Kenya
+info,gender,male
+info,season,2025/26
+info,date,2025/09/28
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,9
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Malawi
+info,toss_decision,bat
+info,player_of_match,Sami Sohail
+info,umpire,A Louw
+info,umpire,I Chabi
+info,reserve_umpire,LB Gcuma
+info,match_referee,GH Pienaar
+info,winner,Malawi
+info,winner_runs,3
+info,player,Malawi,A Limdawala
+info,player,Malawi,Sami Sohail
+info,player,Malawi,G Kansonkho
+info,player,Malawi,M Choamba
+info,player,Malawi,SZ Vayani
+info,player,Malawi,D Jakiel
+info,player,Malawi,SY Nihute
+info,player,Malawi,MA Baig
+info,player,Malawi,K Thuchila
+info,player,Malawi,B Balala
+info,player,Malawi,Kazim Somani
+info,player,Kenya,DM Gondaria
+info,player,Kenya,N Mugabe
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,JS Kundi
+info,player,Kenya,S Gill
+info,player,Kenya,SR Bhudia
+info,player,Kenya,LN Oluoch
+info,player,Kenya,F Mutua
+info,player,Kenya,Vishil Patel
+info,player,Kenya,Vraj Patel
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,A Louw,5eecae5d
+info,registry,people,B Balala,a2f8e873
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,F Mutua,21b67523
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,Kazim Somani,d2ebebbe
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,MA Baig,89394502
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Singh,612a395c
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,SY Nihute,56b41ed3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,Vraj Patel,2af28253

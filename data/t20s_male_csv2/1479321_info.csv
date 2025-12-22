@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Kuwait
+info,gender,male
+info,season,2025
+info,date,2025/04/09
+info,event,Quadrangular Twenty20 Series (Hong Kong)
+info,match_number,2
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,MNM Aslam
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,R McDonald
+info,winner,Kuwait
+info,winner_wickets,4
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Kalhan Challu
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Waqas Barkat
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,A Shukla
+info,player,Kuwait,CV Anto
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,A Chenthamara
+info,player,Kuwait,Yasin Patel
+info,registry,people,A Chenthamara,e7e14ecc
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,Kalhan Challu,cc6b0cda
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mirza Ahmed,9a54c30a
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R McDonald,ce2fdf8f
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Waqas Barkat,a2eac9df
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zeeshan Ali,987187b9

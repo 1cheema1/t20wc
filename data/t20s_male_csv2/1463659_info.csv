@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Kuwait
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,Gulf T20I Championship
+info,match_number,8
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,T Suri
+info,umpire,Asim Mehmood
+info,umpire,Mohammad Nasim
+info,reserve_umpire,G Pillai
+info,tv_umpire,Rahat Ali
+info,match_referee,Iftikhar Ali
+info,winner,United Arab Emirates
+info,winner_runs,11
+info,player,United Arab Emirates,T Suri
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United Arab Emirates,SS Kang
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Mirza Ahmed
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Asim Mehmood,4109cbec
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,D Parashar,395179e8
+info,registry,people,G Pillai,c363921c
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mirza Ahmed,9a54c30a
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,SS Kang,797ee165
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,T Suri,a76d4082
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zuhaib Zubair,9124aa4c

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2025
+info,date,2025/07/22
+info,event,Zimbabwe Twenty20 Tri-Series
+info,match_number,5
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TL Seifert
+info,umpire,L Rusere
+info,umpire,P Sizara
+info,reserve_umpire,I Chabi
+info,tv_umpire,F Mutizwa
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RA Herman
+info,player,South Africa,D Brevis
+info,player,South Africa,LG Pretorius
+info,player,South Africa,A Simelane
+info,player,South Africa,GF Linde
+info,player,South Africa,G Coetzee
+info,player,South Africa,S Muthusamy
+info,player,South Africa,N Peter
+info,player,South Africa,KT Maphaka
+info,player,New Zealand,DP Conway
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,AF Milne
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,ZGF Foulkes
+info,player,New Zealand,W O'Rourke
+info,registry,people,A Simelane,ebb74564
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,N Peter,212aeedd
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334

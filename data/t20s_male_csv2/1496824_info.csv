@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/08/09
+info,event,Viking Cup
+info,match_number,6
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,Jamshid Nasiri
+info,umpire,Bilal Munir
+info,umpire,Madhava Rao
+info,winner,Austria
+info,winner_wickets,6
+info,player,France,Mukhtar Ghulami
+info,player,France,Mustafa Omer
+info,player,France,L Smith
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Jamshid Nasiri
+info,player,France,Noman Amjad
+info,player,France,Rahmatullah Mangal
+info,player,France,Zaheer Zahiri
+info,player,France,Dawood Ahmadzai
+info,player,France,R Mangal
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,I Asif
+info,player,Austria,Hamid Safi
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Zeshan Arif
+info,player,Austria,Arsalan Arif
+info,player,Austria,Baseer Khan
+info,player,Austria,Umair Tariq
+info,player,Austria,Ziaurahman Shinwari
+info,player,Austria,J Ghelzai
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Munir,c35c63b9
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,I Asif,663ad386
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,L Smith,7e64e33f
+info,registry,people,Madhava Rao,66ac328c
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Mustafa Omer,3bd52be1
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zeshan Arif,6829b373
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,West Indies
+info,gender,male
+info,season,2025
+info,date,2025/08/02
+info,event,Pakistan tour of West Indies
+info,match_number,2
+info,venue,"Central Broward Regional Park Stadium Turf Ground, Lauderhill"
+info,city,Lauderhill
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,JO Holder
+info,umpire,DK Butler
+info,umpire,GO Brathwaite
+info,reserve_umpire,Zahid Bassarath
+info,tv_umpire,LS Reifer
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_wickets,2
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Sufiyan Muqeem
+info,player,West Indies,A Athanaze
+info,player,West Indies,J Andrew
+info,player,West Indies,SD Hope
+info,player,West Indies,SE Rutherford
+info,player,West Indies,RL Chase
+info,player,West Indies,G Motie
+info,player,West Indies,KU Carty
+info,player,West Indies,JO Holder
+info,player,West Indies,R Shepherd
+info,player,West Indies,S Joseph
+info,player,West Indies,AJ Hosein
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Agha Salman,89c16049
+info,registry,people,DK Butler,671398e3
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,J Andrew,6b0db726
+info,registry,people,JO Holder,0f721006
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,S Joseph,97290faf
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,Zahid Bassarath,ca6bf044

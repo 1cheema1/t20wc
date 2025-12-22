@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Uganda
+info,gender,male
+info,season,2025/26
+info,date,2025/09/30
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,10
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Uganda
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,L Rusere
+info,match_referee,GH Pienaar
+info,winner,Uganda
+info,winner_wickets,8
+info,player,Botswana,M Kasselman
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,R Nehonde
+info,player,Botswana,T Perera
+info,player,Botswana,T Tshose
+info,player,Botswana,K Piet
+info,player,Botswana,JB Richards
+info,player,Botswana,D Maisuria
+info,player,Botswana,B Kgosiemang
+info,player,Botswana,R Aurora
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Lutaaya
+info,player,Uganda,R Obuya
+info,player,Uganda,SL Verma
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,CN Kakuru
+info,player,Uganda,AR Ramjani
+info,player,Uganda,F Nsubuga
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,C Kyewuta
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,JB Richards,76917ef1
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,R Aurora,97555d44
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,SL Verma,26b6a4e9
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4

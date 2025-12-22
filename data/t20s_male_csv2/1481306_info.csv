@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Cayman Islands
+info,gender,male
+info,season,2025
+info,date,2025/04/20
+info,event,North America T20 Cup
+info,match_number,4
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,D Sabir
+info,umpire,M Thetchanamurthy
+info,umpire,NH Ekanayake
+info,reserve_umpire,A Gajjar
+info,winner,Bermuda
+info,winner_runs,30
+info,player,Bermuda,TS Fray
+info,player,Bermuda,AD Dore
+info,player,Bermuda,JDA Richardson
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,D Sabir
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,K Fubler
+info,player,Bermuda,J Proctor
+info,player,Bermuda,S Smith
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,D Johnson
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,R Edwards
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,Davion Codner
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,A Wright
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,AD Dore,aa867444
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Johnson,d406e303
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Davion Codner,6a84b40e
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Proctor,01b0d0a4
+info,registry,people,JDA Richardson,e8c00c13
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,M Thetchanamurthy,23c364a2
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,R Edwards,4c5a72e2
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,S Foster,3595ad3b
+info,registry,people,S Smith,18a0ba24
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,YSD Seneveratne,0f71478c
+info,registry,people,Z Burgess,d0042e16

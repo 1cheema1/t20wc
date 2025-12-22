@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/06/09
+info,event,Central Europe Cup
+info,match_number,3
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,Walid Ghauri
+info,winner,Norway
+info,winner_runs,22
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Walid Ghauri
+info,player,Norway,D Abeyrathna
+info,player,Norway,Faisal Raza
+info,player,Norway,Sher Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Mansoor Shah
+info,player,Norway,AJ Parmar
+info,player,Norway,Ahmadullah Shinwari
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Aqib Iqbal
+info,player,Austria,H Khogiyani
+info,player,Austria,Zeshan Arif
+info,player,Austria,Amar Naeem
+info,player,Austria,Hamid Safi
+info,player,Austria,Sahel Zadran
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Baseer Khan
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,H Khogiyani,b85c0597
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,Mansoor Shah,d09615c8
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zeshan Arif,6829b373

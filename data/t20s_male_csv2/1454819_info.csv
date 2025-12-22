@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Oman
+info,gender,male
+info,season,2024/25
+info,date,2024/11/13
+info,event,Netherlands tour of Oman
+info,match_number,1
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,Hammad Mirza
+info,umpire,Rahul Asher
+info,umpire,Vinod Babu
+info,reserve_umpire,Harikrishna Pillai
+info,match_referee,Neeyamur Rashid
+info,winner,Oman
+info,winner_wickets,3
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,CN Ackermann
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,T van der Gugten
+info,player,Netherlands,RE van der Merwe
+info,player,Netherlands,A Dutt
+info,player,Netherlands,PA van Meekeren
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aamir Kaleem
+info,player,Oman,AR Odedara
+info,player,Oman,Wasim Ali
+info,player,Oman,Hammad Mirza
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Mehran Khan
+info,player,Oman,B Siddharth
+info,player,Oman,Muzahir Raza
+info,player,Oman,S Shrivastava
+info,player,Oman,Shakeel Ahmed
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,AR Odedara,a7a6c1c2
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,B Siddharth,80de053e
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Harikrishna Pillai,ed918c90
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Muzahir Raza,60606200
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Wasim Ali,ea59139a

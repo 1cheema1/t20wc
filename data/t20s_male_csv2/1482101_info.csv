@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Saudi Arabia
+info,gender,male
+info,season,2025
+info,date,2025/05/02
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Ahmed Aqeel
+info,umpire,N Sivan
+info,reserve_umpire,D Sevakumaran
+info,match_referee,Edwin Seah
+info,winner,Malaysia
+info,winner_runs,18
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Amir Khan
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Syed Faizan Tahir
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Nawazish Akhtar
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Imtiaz Khan
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Amir Khan,a7bc0f3d
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Imtiaz Khan,1500d104
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nawazish Akhtar,7503149b
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Faizan Tahir,123ab754
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zain Ul Abidin,b93b87ae

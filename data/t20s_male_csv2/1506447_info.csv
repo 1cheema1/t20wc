@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Cyprus
+info,gender,male
+info,season,2025/26
+info,date,2025/11/03
+info,event,Bulgaria in Cyprus T20I Series
+info,match_number,2
+info,venue,Happy Valley Ground 2
+info,city,Episkopi
+info,toss_winner,Bulgaria
+info,toss_decision,bat
+info,winner,Cyprus
+info,winner_wickets,6
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,K Krishnakumar
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Jakob Gul
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,J Dowling
+info,player,Bulgaria,P Mishra
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,AA Senn
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,Ashish Bam
+info,player,Cyprus,S Austin
+info,player,Cyprus,Adam Senn
+info,player,Cyprus,A Shahi
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,Waqar Ali
+info,player,Cyprus,R Siriwardena
+info,registry,people,A Shahi,2011735e
+info,registry,people,AA Senn,719ac15b
+info,registry,people,AUKDS Kalugala,e2d1822f
+info,registry,people,Adam Senn,34c3f7b9
+info,registry,people,Ashish Bam,4a70ca45
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,H Lakov,87a6f411
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,J Dowling,9f16f7c8
+info,registry,people,Jakob Gul,a4696d64
+info,registry,people,K Krishnakumar,ff60c8ba
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,S Austin,40ee633c
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,Waqar Ali,55a73018
+info,registry,people,Zeerak Chughtai,ff0b1636

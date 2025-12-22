@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,United States of America
+info,gender,male
+info,season,2024/25
+info,date,2025/02/20
+info,event,United States of America in Oman T20I Series
+info,match_number,1
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,SR Mukkamalla
+info,umpire,Harikrishna Pillai
+info,umpire,Vinod Babu
+info,reserve_umpire,Rahul Asher
+info,match_referee,V Narayan Kutty
+info,winner,United States of America
+info,winner_wickets,7
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Jatinder Singh
+info,player,Oman,Hammad Mirza
+info,player,Oman,Mujibur Ali
+info,player,Oman,V Shukla
+info,player,Oman,Hassnain Shah
+info,player,Oman,Wasim Ali
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,S Shrivastava
+info,player,United States of America,SR Taylor
+info,player,United States of America,AGS Gous
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,Milind Kumar
+info,player,United States of America,SP Krishnamurthi
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,J Drysdale
+info,player,United States of America,Ali Khan
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Harikrishna Pillai,ed918c90
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Hassnain Shah,7cb931fc
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mujibur Ali,e88468b7
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,V Shukla,101b1180
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Wasim Ali,ea59139a

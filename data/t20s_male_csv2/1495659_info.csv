@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Luxembourg
+info,gender,male
+info,season,2025
+info,date,2025/07/26
+info,event,Budapest Cup
+info,match_number,6
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,Bilal Zalmai
+info,winner,Austria
+info,winner_runs,66
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Zeshan Arif
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Baseer Khan
+info,player,Austria,Amar Naeem
+info,player,Austria,Hamid Safi
+info,player,Austria,Mansoor Safi
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Ziaurahman Shinwari
+info,player,Austria,Umair Tariq
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,Mayank Nagayach
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,Kamal Soukhiya
+info,player,Luxembourg,Vivek Dixit
+info,player,Luxembourg,S Vats
+info,player,Luxembourg,Milad Momend
+info,registry,people,A Manepalli,36101309
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Kamal Soukhiya,64457c72
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,Mayank Nagayach,e401f8a5
+info,registry,people,Milad Momend,84880baf
+info,registry,people,S Vats,1afd4f89
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,V Vijh,b857468a
+info,registry,people,Vivek Dixit,d42de283
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zeshan Arif,6829b373
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

@@ -1,0 +1,57 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Romania
+info,gender,male
+info,season,2025
+info,date,2025/07/27
+info,event,Budapest Cup
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Romania
+info,toss_decision,field
+info,outcome,no result
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Amar Naeem
+info,player,Austria,Zeshan Arif
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Hamid Safi
+info,player,Austria,Baseer Khan
+info,player,Austria,Ziaurahman Shinwari
+info,player,Austria,Umair Tariq
+info,player,Austria,SFS Cheema
+info,player,Austria,Waqar Zalmai
+info,player,Romania,V Saini
+info,player,Romania,Taranjeet Singh
+info,player,Romania,S Vashisht
+info,player,Romania,S Periyalwar
+info,player,Romania,M Koli
+info,player,Romania,Muhammad Moiz
+info,player,Romania,AN Lascu
+info,player,Romania,R Pisal
+info,player,Romania,Ali Hussain
+info,player,Romania,Md Ariyan
+info,player,Romania,Avishka Iroshan
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Avishka Iroshan,2964821b
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Md Ariyan,ff4805ee
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,R Pisal,e072b9d5
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,V Saini,0fa81719
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zeshan Arif,6829b373
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

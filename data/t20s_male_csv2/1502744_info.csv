@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Nigeria
+info,gender,male
+info,season,2025/26
+info,date,2025/09/26
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,2
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,R Abdulkareem
+info,umpire,Claus Schumacher
+info,umpire,L Rusere
+info,reserve_umpire,D Odhiambo
+info,match_referee,GH Pienaar
+info,winner,Nigeria
+info,winner_wickets,9
+info,player,Malawi,A Limdawala
+info,player,Malawi,Sami Sohail
+info,player,Malawi,G Kansonkho
+info,player,Malawi,SY Nihute
+info,player,Malawi,MA Baig
+info,player,Malawi,C Chete
+info,player,Malawi,M Choamba
+info,player,Malawi,SZ Vayani
+info,player,Malawi,D Jakiel
+info,player,Malawi,K Thuchila
+info,player,Malawi,C Tchale
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Nigeria,C Udekwe
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,C Chete,ef4f539a
+info,registry,people,C Tchale,32a85e70
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Odhiambo,45994517
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,MA Baig,89394502
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SY Nihute,56b41ed3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d

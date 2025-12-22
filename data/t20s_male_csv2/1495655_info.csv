@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Romania
+info,gender,male
+info,season,2025
+info,date,2025/07/25
+info,event,Budapest Cup
+info,match_number,2
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Hungary
+info,toss_decision,bat
+info,player_of_match,M Koli
+info,winner,Romania
+info,winner_wickets,10
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,MP Ainsworth
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,Ali Nawaz
+info,player,Hungary,Muhammad Usman
+info,player,Hungary,A Prashar
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Muhammad Saqlain
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,R Satheesan
+info,player,Romania,V Saini
+info,player,Romania,Md Ariyan
+info,player,Romania,Muhammad Moiz
+info,player,Romania,R Pisal
+info,player,Romania,S Vashisht
+info,player,Romania,Ali Hussain
+info,player,Romania,Luca Petre
+info,player,Romania,M Koli
+info,registry,people,A Prashar,b18dbaff
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Ali Nawaz,deef8879
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Md Ariyan,ff4805ee
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Usman,b7621723
+info,registry,people,R Pisal,e072b9d5
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,V Saini,0fa81719
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

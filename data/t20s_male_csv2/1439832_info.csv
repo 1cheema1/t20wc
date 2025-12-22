@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Slovenia
+info,team,Sweden
+info,gender,male
+info,season,2024
+info,date,2024/07/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,20
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,A Mundra
+info,umpire,M Burns
+info,umpire,Rizwan Akram
+info,reserve_umpire,Jonathan Kennedy
+info,match_referee,H Pack
+info,winner,Sweden
+info,winner_wickets,6
+info,player,Slovenia,Muhammad Siddiqui
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Mazhar Khan
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Waqar Khan
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,Merwais Shinwari
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Abdur Rahman Sudais
+info,player,Sweden,Choudry Share Ali
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,SKR Mallidi
+info,player,Sweden,J Stanigze
+info,player,Sweden,Prashant Shukla
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abdur Rahman Sudais,edaae5f4
+info,registry,people,Choudry Share Ali,5c037734
+info,registry,people,H Pack,fed53c91
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,M Burns,b3bd0666
+info,registry,people,Mazhar Khan,7b10c047
+info,registry,people,Merwais Shinwari,6755b6c7
+info,registry,people,Muhammad Siddiqui,b46b3d9b
+info,registry,people,Prashant Shukla,0a15f357
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,SKR Mallidi,74d82e24
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,Waqar Khan,da21531c

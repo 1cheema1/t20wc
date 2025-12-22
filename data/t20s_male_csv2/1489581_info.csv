@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Bahamas
+info,gender,male
+info,season,2025
+info,date,2025/06/12
+info,event,No Frills T20I Series
+info,match_number,2
+info,venue,"Maple Leaf North-East Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,M Taylor
+info,umpire,AR Maddela
+info,umpire,Bijal Patel
+info,reserve_umpire,Amol Bhatt
+info,winner,Canada
+info,winner_runs,107
+info,player,Canada,YS Samra
+info,player,Canada,A Johnson
+info,player,Canada,DS Bajwa
+info,player,Canada,NR Kirton
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,K Tathgur
+info,player,Canada,Jaskaran Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Shivam Sharma
+info,player,Canada,Ansh Patel
+info,player,Bahamas,M Taylor
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,E Duff
+info,player,Bahamas,JR Barry
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,A Harris
+info,player,Bahamas,K Burrows
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,E Haven
+info,player,Bahamas,A Gulati
+info,registry,people,A Gulati,82903f3a
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Amol Bhatt,d7e52706
+info,registry,people,Ansh Patel,9e76cdb3
+info,registry,people,Bijal Patel,a56e35ba
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,E Duff,b7873c81
+info,registry,people,E Haven,5190900f
+info,registry,people,GT Taylor,c674f722
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,K Burrows,f11f5a92
+info,registry,people,K Tathgur,f190c775
+info,registry,people,M Taylor,92075cdc
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,YS Samra,d02c40ab

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/07/21
+info,event,Pearl of Africa T20I Series
+info,match_number,7
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,Zuhaib Zubair
+info,umpire,J Bamulese
+info,umpire,S Kintu
+info,reserve_umpire,John Mayeku
+info,match_referee,O Chirombe
+info,winner,United Arab Emirates
+info,winner_wickets,7
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,S Chilemanya
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Nigeria,AA Jimoh
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Saghir Khan
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Muhammad Rohid
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AA Jimoh,b506636b
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,Haider Ali,dd572696
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Bamulese,e8c8f086
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,S Chilemanya,e1fe58ad
+info,registry,people,S Kintu,ff387f93
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Saghir Khan,730d2283
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

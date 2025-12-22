@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2025
+info,date,2025/09/07
+info,event,Sri Lanka tour of Zimbabwe
+info,match_number,3
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,K Mishara
+info,umpire,F Mutizwa
+info,umpire,I Chabi
+info,reserve_umpire,L Rusere
+info,tv_umpire,P Sizara
+info,match_referee,JJ Crowe
+info,winner,Sri Lanka
+info,winner_wickets,8
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,TT Maposa
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,K Mishara
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,MADI Hemantha
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,B Fernando
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,K Mishara,65cebd5d
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TT Maposa,5feead83

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Bangladesh
+info,gender,male
+info,season,2025
+info,date,2025/05/30
+info,event,Bangladesh tour of Pakistan
+info,match_number,2
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Sahibzada Farhan
+info,umpire,Faisal Afridi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,Ahsan Raza
+info,match_referee,RS Madugalle
+info,winner,Pakistan
+info,winner_runs,57
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Khushdil Shah
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Abrar Ahmed
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Shoriful Islam
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414

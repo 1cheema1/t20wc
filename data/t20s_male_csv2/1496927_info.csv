@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Sri Lanka
+info,gender,male
+info,season,2025
+info,date,2025/09/15
+info,event,Men's T20 Asia Cup
+info,match_number,8
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,P Nissanka
+info,umpire,Gazi Sohel
+info,umpire,Izatullah Safi
+info,reserve_umpire,Ahmed Shah Pakteen
+info,tv_umpire,Masudur Rahman
+info,match_referee,AJ Pycroft
+info,winner,Sri Lanka
+info,winner_wickets,4
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Shahid Wasif
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,K Mishara
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,N Thushara
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,K Mishara,65cebd5d
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Shahid Wasif,2cc08c3c
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

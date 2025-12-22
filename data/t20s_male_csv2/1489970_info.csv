@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,West Indies
+info,gender,male
+info,season,2025
+info,date,2025/09/30
+info,event,Nepal v West Indies T20I Series
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,RR Simmonds
+info,umpire,BB Pradhan
+info,umpire,VK Jha
+info,reserve_umpire,DN Subedi
+info,tv_umpire,Akbar Ali
+info,match_referee,V Narayan Kutty
+info,winner,West Indies
+info,winner_wickets,10
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,S Jora
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,Mohammad Aadil Alam
+info,player,Nepal,Lokesh Bam
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,Shahab Alam
+info,player,West Indies,AA Jangoo
+info,player,West Indies,AWJ Auguste
+info,player,West Indies,KR Mayers
+info,player,West Indies,KU Carty
+info,player,West Indies,K Gore
+info,player,West Indies,JO Holder
+info,player,West Indies,FA Allen
+info,player,West Indies,AJ Hosein
+info,player,West Indies,N Bidaisee
+info,player,West Indies,J Blades
+info,player,West Indies,RR Simmonds
+info,registry,people,AA Jangoo,88626ed2
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AWJ Auguste,4b167ede
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,J Blades,af4a9a0a
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Gore,a6bab2a9
+info,registry,people,KR Mayers,73c18486
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,Mohammad Aadil Alam,70ced7f2
+info,registry,people,N Bidaisee,af5b6464
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RR Simmonds,fcf6b0f6
+info,registry,people,S Jora,156378d8
+info,registry,people,Shahab Alam,cdd9fa95
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VK Jha,5d46eb72

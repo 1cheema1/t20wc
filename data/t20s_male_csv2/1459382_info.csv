@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ivory Coast
+info,team,Botswana
+info,gender,male
+info,season,2024/25
+info,date,2024/11/26
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,9
+info,venue,"Nigeria Cricket Federation Oval 2, Abuja"
+info,city,Abuja
+info,toss_winner,Botswana
+info,toss_decision,field
+info,player_of_match,M Mooketsi
+info,umpire,Kehinde Olanbiwonnu
+info,umpire,S Dambanevana
+info,reserve_umpire,Claus Schumacher
+info,match_referee,O Chirombe
+info,winner,Botswana
+info,winner_wickets,10
+info,player,Ivory Coast,OK Mohamed
+info,player,Ivory Coast,KY Wilfried
+info,player,Ivory Coast,D Issiaka
+info,player,Ivory Coast,KMA Aziz
+info,player,Ivory Coast,MC Alex
+info,player,Ivory Coast,DKJ Claude
+info,player,Ivory Coast,AK Roger
+info,player,Ivory Coast,QF Djakaridja
+info,player,Ivory Coast,LKW Ezechiel
+info,player,Ivory Coast,M Ibrahim
+info,player,Ivory Coast,PK Dimitri
+info,player,Botswana,M Kasselman
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,B Kgosiemang
+info,player,Botswana,K Piet
+info,player,Botswana,M Badenhorst
+info,player,Botswana,M Mooketsi
+info,player,Botswana,P Silas
+info,player,Botswana,R Nehonde
+info,player,Botswana,T Perera
+info,player,Botswana,T Tshose
+info,registry,people,AK Roger,1f6f321d
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Issiaka,933b30c9
+info,registry,people,DKJ Claude,096601c5
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,KMA Aziz,e8cfd743
+info,registry,people,KY Wilfried,5e72608f
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,LKW Ezechiel,f80bd415
+info,registry,people,M Badenhorst,8a22e5f0
+info,registry,people,M Ibrahim,253bc9d8
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,MC Alex,3a200eb2
+info,registry,people,O Chirombe,6345307f
+info,registry,people,OK Mohamed,3cb42681
+info,registry,people,P Silas,9f2e1944
+info,registry,people,PK Dimitri,7e665859
+info,registry,people,QF Djakaridja,9ae09b37
+info,registry,people,R Nehonde,4393e047
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4

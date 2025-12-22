@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,France
+info,gender,male
+info,season,2025
+info,date,2025/06/29
+info,event,Continental Cup
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,France
+info,toss_decision,field
+info,player_of_match,Ibrar Ahmad
+info,winner,Hungary
+info,winner_runs,52
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,MP Ainsworth
+info,player,Hungary,Muhammad Usman
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Ali Nawaz
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,Ibrar Ahmad
+info,player,Hungary,SA Mohandas
+info,player,Hungary,Muhammad Saqlain
+info,player,France,Faisal Safi
+info,player,France,Mustafa Omer
+info,player,France,G Mckeon
+info,player,France,C Roberts
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Jamshid Nasiri
+info,player,France,Usman Khan
+info,player,France,Rahmatullah Mangal
+info,player,France,Dawood Ahmadzai
+info,player,France,R Mangal
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Nawaz,deef8879
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Faisal Safi,5eba6319
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,Ibrar Ahmad,9dc8bc5c
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Usman,b7621723
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Mustafa Omer,3bd52be1
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,Zahir Mohammed,7c38942a

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Oman
+info,gender,male
+info,season,2025
+info,date,2025/09/12
+info,event,Men's T20 Asia Cup
+info,match_number,4
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Mohammad Haris
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Masudur Rahman
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,Gazi Sohel
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_runs,93
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Sufiyan Muqeem
+info,player,Pakistan,Abrar Ahmed
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Jatinder Singh
+info,player,Oman,Hammad Mirza
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,V Shukla
+info,player,Oman,Zikria Islam
+info,player,Oman,Shah Faisal
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Hassnain Shah
+info,player,Oman,S Shrivastava
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Hassnain Shah,7cb931fc
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,V Shukla,101b1180
+info,registry,people,Zikria Islam,a6de4c41

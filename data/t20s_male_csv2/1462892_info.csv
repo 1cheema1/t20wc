@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Cayman Islands
+info,gender,male
+info,season,2024/25
+info,date,2024/12/11
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,17
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Mexico
+info,toss_decision,bat
+info,player_of_match,YSD Seneveratne
+info,umpire,AR Maddela
+info,umpire,C La Borde
+info,reserve_umpire,R Shah
+info,match_referee,Phil Whitticase
+info,winner,Cayman Islands
+info,winner_wickets,7
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,KB Patil
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,PK Mohanarangam
+info,player,Mexico,Y Jasti
+info,player,Mexico,R Poojary
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,R Ankad
+info,player,Mexico,Pratik Singh Bais
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,Ronald Ebanks
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,T Taylor
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Wright,d465c6d7
+info,registry,people,J Baker,a12672e0
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,PK Mohanarangam,d73891ad
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Poojary,d05e9052
+info,registry,people,R Shah,3424e050
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ronald Ebanks,e21ef7ec
+info,registry,people,S Foster,3595ad3b
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,Y Jasti,3377f988
+info,registry,people,YSD Seneveratne,0f71478c

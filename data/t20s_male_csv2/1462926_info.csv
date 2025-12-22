@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Argentina
+info,gender,male
+info,season,2024/25
+info,date,2024/12/02
+info,event,Bermuda tour of Argentina
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Argentina
+info,toss_decision,field
+info,player_of_match,Jonte Smith
+info,winner,Bermuda
+info,winner_runs,42
+info,player,Bermuda,TS Fray
+info,player,Bermuda,AD Dore
+info,player,Bermuda,T Manders
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,D Sabir
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,Chare Smith
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,S Smith
+info,player,Bermuda,Jonte Smith
+info,player,Argentina,B Angeltti
+info,player,Argentina,A Ferguson
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,S Kruger
+info,player,Argentina,AR Perez Rivero
+info,player,Argentina,A Mustafa
+info,player,Argentina,H Fennell
+info,player,Argentina,Santiago Iturbe
+info,player,Argentina,Franz Bur
+info,player,Argentina,Santiago Duggan
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Mustafa,a4571ba9
+info,registry,people,AD Dore,aa867444
+info,registry,people,AR Perez Rivero,2e563be8
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,Chare Smith,4e1b7998
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,Franz Bur,61763f48
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,S Kruger,1fbc10cd
+info,registry,people,S Smith,18a0ba24
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Z Burgess,d0042e16

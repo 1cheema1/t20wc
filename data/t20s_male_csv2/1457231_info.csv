@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Bhutan
+info,gender,male
+info,season,2024/25
+info,date,2024/11/25
+info,event,ICC Men's T20 World Cup Asia Qualifier B
+info,match_number,15
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,N Salekar
+info,umpire,Ahmed Shah Durrani
+info,umpire,Akbar Ali
+info,reserve_umpire,VG Rathi
+info,match_referee,Ali Naqvi
+info,winner,Thailand
+info,winner_runs,7
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Salekar
+info,player,Thailand,S Desungnoen
+info,player,Thailand,S Rungrueang
+info,player,Thailand,K Senamontree
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,C Pengkumta
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,J Singye
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,S Loday
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,D Dawa
+info,player,Bhutan,S Yeshi
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,D Dawa,676aeb1b
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,J Singye,28574428
+info,registry,people,K Senamontree,e553e27f
+info,registry,people,N Salekar,54403333
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Y Saranonnakkun,9c93c0a3

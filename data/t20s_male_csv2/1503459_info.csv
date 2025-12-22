@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Qatar
+info,gender,male
+info,season,2025/26
+info,date,2025/10/12
+info,event,ICC Men's T20 World Cup Asia & EAP Qualifier
+info,match_number,10
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Jatinder Singh
+info,umpire,PJ Gillespie
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Shiju Sam
+info,match_referee,Kent Hannam
+info,winner,Oman
+info,winner_runs,34
+info,player,Oman,AR Odedara
+info,player,Oman,Jatinder Singh
+info,player,Oman,Nadeem Khan
+info,player,Oman,Hammad Mirza
+info,player,Oman,AR Bisht
+info,player,Oman,V Shukla
+info,player,Oman,Shah Faisal
+info,player,Oman,J Ramanandi
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Shakeel Ahmed
+info,player,Qatar,I Liyanage
+info,player,Qatar,Zubair Ali
+info,player,Qatar,Shariq Munir
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,MM Baig
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,DAM Louis
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,Owais Ahmed
+info,registry,people,AR Bisht,80fe6790
+info,registry,people,AR Odedara,a7a6c1c2
+info,registry,people,DAM Louis,b975210d
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,MM Baig,add288ea
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Nadeem Khan,8a28c5d4
+info,registry,people,Owais Ahmed,cef52835
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shariq Munir,298d9b83
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,V Shukla,101b1180
+info,registry,people,Zubair Ali,f16e776a

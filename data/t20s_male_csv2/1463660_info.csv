@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Kuwait
+info,gender,male
+info,season,2024/25
+info,date,2024/12/17
+info,event,Gulf T20I Championship
+info,match_number,9
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Sayed Monib
+info,umpire,Asim Mehmood
+info,umpire,G Pillai
+info,reserve_umpire,Rahat Ali
+info,tv_umpire,Shiju Sam
+info,match_referee,Iftikhar Ali
+info,winner,Kuwait
+info,winner_wickets,6
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,H Rathod
+info,player,Qatar,Muhammad Jabir
+info,player,Qatar,Amir Farooq
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Mirza Ahmed
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Asim Mehmood,4109cbec
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,G Pillai,c363921c
+info,registry,people,H Rathod,1f943bef
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mirza Ahmed,9a54c30a
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Yasin Patel,ecdd8d60

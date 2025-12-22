@@ -1,0 +1,61 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Hungary
+info,gender,male
+info,season,2025
+info,date,2025/08/17
+info,event,Norway Tri-Nation T20I Series
+info,match_number,3
+info,venue,"Stubberudmyra Cricket Ground, Oslo"
+info,city,Oslo
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,Ibrahim Rahimi
+info,winner,Norway
+info,winner_runs,32
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Walid Ghauri
+info,player,Norway,D Abeyrathna
+info,player,Norway,Faisal Raza
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,AJ Parmar
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,Kasir Ahmed
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Ali Nawaz
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,KN Gabhane
+info,player,Hungary,Kamran Wahid
+info,player,Hungary,Amal Jacob
+info,player,Hungary,SA Mohandas
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Nawaz,deef8879
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Aminullah Tanha,4fde9ae6
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,KN Gabhane,28252261
+info,registry,people,Kamran Wahid,5592153b
+info,registry,people,Kasir Ahmed,2619e00c
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

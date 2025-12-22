@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,West Indies
+info,gender,male
+info,season,2024/25
+info,date,2024/12/17
+info,event,Bangladesh tour of West Indies
+info,match_number,2
+info,venue,"Arnos Vale Ground, Kingstown, St Vincent"
+info,city,Kingstown
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,Shamim Hossain
+info,umpire,GO Brathwaite
+info,umpire,Zahid Bassarath
+info,reserve_umpire,LS Reifer
+info,tv_umpire,DK Butler
+info,match_referee,JJ Crowe
+info,winner,Bangladesh
+info,winner_runs,27
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,ADS Fletcher
+info,player,West Indies,N Pooran
+info,player,West Indies,RL Chase
+info,player,West Indies,R Powell
+info,player,West Indies,R Shepherd
+info,player,West Indies,AJ Hosein
+info,player,West Indies,G Motie
+info,player,West Indies,AS Joseph
+info,player,West Indies,OC McCoy
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA King,7fca84b7
+info,registry,people,DK Butler,671398e3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,J Charles,09a9d073
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Zahid Bassarath,ca6bf044

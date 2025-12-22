@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Philippines
+info,team,Indonesia
+info,gender,male
+info,season,2025
+info,date,2025/07/06
+info,event,Indonesia Tri-Nation T20I Series
+info,match_number,1
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Indonesia
+info,toss_decision,field
+info,player_of_match,AS Samra
+info,umpire,Hitesh Sharma
+info,umpire,Yousuf Wadu
+info,match_referee,Yeri Rosongna
+info,winner,Philippines
+info,winner_runs,53
+info,player,Philippines,HER Tyler
+info,player,Philippines,AS Samra
+info,player,Philippines,M Podosky
+info,player,Philippines,N Tanner
+info,player,Philippines,J Tuffin
+info,player,Philippines,Rhys Burinaga
+info,player,Philippines,ASF Sirah
+info,player,Philippines,A Donovan
+info,player,Philippines,G Chohan
+info,player,Philippines,LJ Myott
+info,player,Philippines,KDA Lukies
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,PR Surve
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,A Alexander
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,DK Shetty
+info,registry,people,A Alexander,ef6d6883
+info,registry,people,A Donovan,02888f23
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,ASF Sirah,06bcade5
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,DK Shetty,65cfc56b
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,G Chohan,b978780e
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,HER Tyler,0ba9de33
+info,registry,people,Hitesh Sharma,2085a934
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,J Tuffin,8069f81f
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,LJ Myott,3f9d95f9
+info,registry,people,M Podosky,c46999c7
+info,registry,people,N Tanner,5f5efae1
+info,registry,people,PR Surve,206efeb1
+info,registry,people,Rhys Burinaga,a6cbe67b
+info,registry,people,Yeri Rosongna,161c019d
+info,registry,people,Yousuf Wadu,cf41005c

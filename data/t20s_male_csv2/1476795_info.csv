@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Namibia
+info,gender,male
+info,season,2024/25
+info,date,2025/03/19
+info,event,Canada tour of Namibia
+info,match_number,2
+info,venue,"Namibia Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,JJ Smit
+info,umpire,A Louw
+info,umpire,E Lassen
+info,reserve_umpire,Claus Schumacher
+info,match_referee,S Wadvalla
+info,winner,Namibia
+info,winner_wickets,3
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,YS Samra
+info,player,Canada,NR Kirton
+info,player,Canada,S Movva
+info,player,Canada,K Tathgur
+info,player,Canada,D Heyliger
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Akhil Kumar
+info,player,Canada,Shahid Ahmadzai
+info,player,Canada,Kaleem Sana
+info,player,Namibia,JP Kotze
+info,player,Namibia,N Davin
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,MB Kruger
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,ZE Green
+info,player,Namibia,H Klazinge
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,A Louw,5eecae5d
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,K Tathgur,f190c775
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Movva,ee229588
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shahid Ahmadzai,3fb56752
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,ZE Green,8716233e

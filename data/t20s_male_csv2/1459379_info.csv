@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Botswana
+info,gender,male
+info,season,2024/25
+info,date,2024/11/28
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,15
+info,venue,"Nigeria Cricket Federation Oval 2, Abuja"
+info,city,Abuja
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,R Abdulkareem
+info,umpire,Aasif Iqbal
+info,umpire,S Dambanevana
+info,reserve_umpire,A Jacobs
+info,match_referee,O Chirombe
+info,winner,Nigeria
+info,winner_runs,77
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,I Danladi
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,P Aho
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,C Udekwe
+info,player,Botswana,K Motlanka
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,V Mbazo
+info,player,Botswana,T Perera
+info,player,Botswana,R Nehonde
+info,player,Botswana,M Kasselman
+info,player,Botswana,T Tshose
+info,player,Botswana,M Badenhorst
+info,player,Botswana,K Piet
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Khumalo
+info,registry,people,A Jacobs,70d117de
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Badenhorst,8a22e5f0
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Aho,2e392afa
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Nehonde,4393e047
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14
+info,registry,people,VD Adewoye,45a34a2d

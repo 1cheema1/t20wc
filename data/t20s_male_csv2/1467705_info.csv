@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,male
+info,season,2024/25
+info,date,2025/02/23
+info,event,Ireland tour of Zimbabwe
+info,match_number,2
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,T Munyonga
+info,umpire,F Mutizwa
+info,umpire,I Chabi
+info,reserve_umpire,L Rusere
+info,tv_umpire,P Sizara
+info,match_referee,RB Richardson
+info,winner,Zimbabwe
+info,winner_wickets,3
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,NA Rock
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,GI Hume
+info,player,Ireland,CA Young
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,T Gwandu
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,B White,1a448be0
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,J Little,9061a703
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,NA Rock,43f4087c
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Suriname
+info,gender,male
+info,season,2024/25
+info,date,2024/12/14
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,26
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bahamas
+info,toss_decision,bat
+info,player_of_match,K Hinds
+info,umpire,Jermaine Lindo
+info,umpire,Vijaya Mallela
+info,reserve_umpire,A Gajjar
+info,match_referee,Phil Whitticase
+info,winner,Bahamas
+info,winner_runs,26
+info,player,Bahamas,M Taylor
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,E Duff
+info,player,Bahamas,J Jemison
+info,player,Bahamas,K Hinds
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,R Smith
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,A Harris
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,V Hirlal
+info,player,Suriname,K Jaikaran
+info,player,Suriname,YP Dayal
+info,player,Suriname,G Singh
+info,player,Suriname,XSD Smith
+info,player,Suriname,V Shaw
+info,player,Suriname,AK Gokoel
+info,player,Suriname,K Hardat
+info,player,Suriname,GI Gokoel
+info,player,Suriname,AAH Bhikari
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,AAH Bhikari,9dba7a41
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,E Duff,b7873c81
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GI Gokoel,72caebdc
+info,registry,people,GT Taylor,c674f722
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Hinds,a268c07b
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,M Taylor,92075cdc
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Smith,0b91b5d5
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424

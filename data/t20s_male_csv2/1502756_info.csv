@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Botswana
+info,gender,male
+info,season,2025/26
+info,date,2025/10/02
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,Joshua Asia
+info,umpire,Claus Schumacher
+info,umpire,I Chabi
+info,reserve_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Nigeria
+info,winner_runs,44
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,S Chilemanya
+info,player,Nigeria,I Danladi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,P Useni
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Aho
+info,player,Nigeria,Joshua Asia
+info,player,Botswana,K Modise
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,M Kasselman
+info,player,Botswana,T Perera
+info,player,Botswana,T Tshose
+info,player,Botswana,K Piet
+info,player,Botswana,D Maisuria
+info,player,Botswana,JB Richards
+info,player,Botswana,B Keganne
+info,player,Botswana,B Kgosiemang
+info,registry,people,B Keganne,cc550389
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JB Richards,76917ef1
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,K Modise,b7f70e36
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,S Chilemanya,e1fe58ad
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,VD Adewoye,45a34a2d

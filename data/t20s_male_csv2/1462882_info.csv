@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Suriname
+info,gender,male
+info,season,2024/25
+info,date,2024/12/07
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,7
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,K Fubler
+info,umpire,A Gajjar
+info,umpire,AR Maddela
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Phil Whitticase
+info,winner,Bermuda
+info,winner_runs,92
+info,player,Bermuda,TS Fray
+info,player,Bermuda,D Sabir
+info,player,Bermuda,T Manders
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,DC Stovell
+info,player,Bermuda,Jonte Smith
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,S Smith
+info,player,Bermuda,J Proctor
+info,player,Bermuda,K Fubler
+info,player,Suriname,K Hardat
+info,player,Suriname,V Hirlal
+info,player,Suriname,K Jaikaran
+info,player,Suriname,T Ramautar
+info,player,Suriname,G Singh
+info,player,Suriname,AK Gokoel
+info,player,Suriname,V Shaw
+info,player,Suriname,YP Dayal
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,XSD Smith
+info,player,Suriname,TA Dudnath
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,AR Maddela,5c861579
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DC Stovell,7f6c2dae
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,G Singh,e93b6c95
+info,registry,people,J Proctor,01b0d0a4
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,T Ramautar,730025e8
+info,registry,people,TA Dudnath,15322a7b
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424
+info,registry,people,Z Burgess,d0042e16

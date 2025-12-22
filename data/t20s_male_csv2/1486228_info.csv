@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Slovenia
+info,gender,male
+info,season,2025
+info,date,2025/05/18
+info,event,Slovenia tour of Austria
+info,match_number,4
+info,venue,"Ballpark Ground, Graz"
+info,city,Graz
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,Mansoor Safi
+info,umpire,Ashtiaq Shah
+info,umpire,Pamir Zarawar Khan
+info,reserve_umpire,Pawan Kohli
+info,winner,Austria
+info,winner_runs,168
+info,player,Austria,Karanbir Singh
+info,player,Austria,Mansoor Safi
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Umair Tariq
+info,player,Austria,Hamid Safi
+info,player,Austria,Waqar Zalmai
+info,player,Austria,SFS Cheema
+info,player,Austria,Zeeshan Goraya
+info,player,Austria,Arsalan Arif
+info,player,Austria,Ebrahim Naseri
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,DK Pallekonda
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,D Matla
+info,player,Slovenia,KK Sharma
+info,player,Slovenia,Haris Karim
+info,player,Slovenia,Awais Ikram
+info,player,Slovenia,Saeed Waqar Ali
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Ashtiaq Shah,9511e09f
+info,registry,people,Awais Ikram,91e035c6
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Matla,d1bec7a6
+info,registry,people,DK Pallekonda,e77c9807
+info,registry,people,Ebrahim Naseri,5ef7b1ba
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Haris Karim,5d534cff
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,KK Sharma,76db10d2
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,Pamir Zarawar Khan,ba44be2a
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zeeshan Goraya,72ae14d0

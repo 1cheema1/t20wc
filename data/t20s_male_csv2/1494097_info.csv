@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Singapore
+info,gender,male
+info,season,2025
+info,date,2025/07/22
+info,event,Asia Pacific Cricket Champions Trophy
+info,match_number,8
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Samoa
+info,toss_decision,bat
+info,player_of_match,G Gune
+info,umpire,E Rajvengadesh
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,S Ramesh
+info,match_referee,T Senthil Kumar
+info,winner,Singapore
+info,winner_wickets,3
+info,player,Samoa,S Cotter
+info,player,Samoa,DE Roache
+info,player,Samoa,BF Mailata
+info,player,Samoa,SF Tiai
+info,player,Samoa,D Visser
+info,player,Samoa,CK Jasmat
+info,player,Samoa,F Suluoto
+info,player,Samoa,S Sola
+info,player,Samoa,SJ French
+info,player,Samoa,SM Nash
+info,player,Samoa,KAB Hynam-Nyberg
+info,player,Singapore,Aman Desai
+info,player,Singapore,Arnav Manoj
+info,player,Singapore,C Shivakumar
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,MA Sherry
+info,player,Singapore,SH Venugopal
+info,player,Singapore,G Gune
+info,player,Singapore,H Venkataram
+info,player,Singapore,Kabir Berlia
+info,player,Singapore,PSRK Sudarshan
+info,player,Singapore,AR Puri
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Arnav Manoj,788dbfcd
+info,registry,people,BF Mailata,f49935eb
+info,registry,people,C Shivakumar,a02a0e07
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,DE Roache,110b180a
+info,registry,people,E Rajvengadesh,9b50c645
+info,registry,people,F Suluoto,ae380321
+info,registry,people,G Gune,5491a9ff
+info,registry,people,H Venkataram,e61cee7b
+info,registry,people,KAB Hynam-Nyberg,692ed48b
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Kabir Berlia,5e5a45bd
+info,registry,people,MA Sherry,77eb2d60
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,PSRK Sudarshan,3a44a4e4
+info,registry,people,S Cotter,e6127436
+info,registry,people,S Ramesh,6055237d
+info,registry,people,S Sola,3f9feb1e
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SH Venugopal,9f542219
+info,registry,people,SJ French,0e93ef92
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,T Senthil Kumar,961ddfac

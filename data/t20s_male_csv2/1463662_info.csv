@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Saudi Arabia
+info,gender,male
+info,season,2024/25
+info,date,2024/12/18
+info,event,Gulf T20I Championship
+info,match_number,11
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Saudi Arabia
+info,toss_decision,field
+info,player_of_match,Faisal Khan
+info,umpire,Asim Mehmood
+info,umpire,Shiju Sam
+info,reserve_umpire,Zahid Usman
+info,tv_umpire,Mohammad Nasim
+info,match_referee,Iftikhar Ali
+info,winner,Saudi Arabia
+info,winner_wickets,8
+info,player,Oman,Jatinder Singh
+info,player,Oman,AR Odedara
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Wasim Ali
+info,player,Oman,V Shukla
+info,player,Oman,Mehran Khan
+info,player,Oman,Muzahir Raza
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Jay Odedra
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,S Shrivastava
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,S Sankar
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Choudhry Md Imran
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Nawazish Akhtar
+info,registry,people,AR Odedara,a7a6c1c2
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Asim Mehmood,4109cbec
+info,registry,people,Choudhry Md Imran,d92d4f5e
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Muzahir Raza,60606200
+info,registry,people,Nawazish Akhtar,7503149b
+info,registry,people,S Sankar,69997d9d
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,V Shukla,101b1180
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Wasim Ali,ea59139a
+info,registry,people,Zahid Usman,5ee3b5bd
+info,registry,people,Zain Ul Abidin,b93b87ae

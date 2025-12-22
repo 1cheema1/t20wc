@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Nigeria
+info,gender,male
+info,season,2025/26
+info,date,2025/09/28
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,5
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,JN Frylinck
+info,umpire,BP Jele
+info,umpire,L Rusere
+info,reserve_umpire,Claus Schumacher
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_runs,117
+info,player,Namibia,MB Kruger
+info,player,Namibia,JN Frylinck
+info,player,Namibia,L Steenkamp
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,JI de Villiers
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,P Useni
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Aho
+info,player,Nigeria,C Udekwe
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JI de Villiers,3847ec84
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,ZE Green,8716233e

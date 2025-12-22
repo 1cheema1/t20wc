@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,St Helena
+info,gender,male
+info,season,2024/25
+info,date,2024/11/23
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,3
+info,venue,University of Lagos Cricket Oval
+info,city,Lagos
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,R Abdulkareem
+info,umpire,Masudur Rahman
+info,umpire,S Dambanevana
+info,reserve_umpire,Aasif Iqbal
+info,match_referee,O Chirombe
+info,winner,Nigeria
+info,winner_runs,118
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,I Danladi
+info,player,Nigeria,P Aho
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,P Useni
+info,player,St Helena,S Crowie
+info,player,St Helena,A Yon
+info,player,St Helena,D Young
+info,player,St Helena,R Francis
+info,player,St Helena,J Essex
+info,player,St Helena,B Isaac
+info,player,St Helena,J Thomas
+info,player,St Helena,AR Leo
+info,player,St Helena,CR Richards
+info,player,St Helena,B Leo
+info,player,St Helena,BK Stroud
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,B Isaac,2c14421f
+info,registry,people,B Leo,740a5494
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,CR Richards,c10a581f
+info,registry,people,D Young,5d9d83e6
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Essex,84012d7f
+info,registry,people,J Thomas,11b785d6
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Francis,06b766f4
+info,registry,people,S Crowie,4040951f
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d

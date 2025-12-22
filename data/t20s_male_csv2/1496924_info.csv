@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,male
+info,season,2025
+info,date,2025/09/13
+info,event,Men's T20 Asia Cup
+info,match_number,5
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,K Mishara
+info,umpire,Faisal Afridi
+info,umpire,R Pandit
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,VK Sharma
+info,match_referee,RB Richardson
+info,winner,Sri Lanka
+info,winner_wickets,6
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,K Mishara
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,N Thushara
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Mishara,65cebd5d
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,R Pandit,8a604384
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,VK Sharma,a7a49df4

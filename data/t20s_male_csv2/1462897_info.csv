@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Suriname
+info,team,Mexico
+info,gender,male
+info,season,2024/25
+info,date,2024/12/12
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,22
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Mexico
+info,toss_decision,field
+info,player_of_match,PK Mohanarangam
+info,umpire,H Grewal
+info,umpire,M Abbott
+info,reserve_umpire,Vijaya Mallela
+info,match_referee,Phil Whitticase
+info,winner,Mexico
+info,winner_wickets,8
+info,player,Suriname,K Hardat
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,AK Gokoel
+info,player,Suriname,GI Gokoel
+info,player,Suriname,YP Dayal
+info,player,Suriname,V Hirlal
+info,player,Suriname,K Jaikaran
+info,player,Suriname,XSD Smith
+info,player,Suriname,V Shaw
+info,player,Suriname,T Ramautar
+info,player,Suriname,AAH Bhikari
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,KB Patil
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Puneet Arora
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,PK Mohanarangam
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Y Jasti
+info,player,Mexico,R Ankad
+info,player,Mexico,R Poojary
+info,registry,people,AAH Bhikari,9dba7a41
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,GI Gokoel,72caebdc
+info,registry,people,H Grewal,1172f36e
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,PK Mohanarangam,d73891ad
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,Puneet Arora,c2f8f36e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Poojary,d05e9052
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,T Ramautar,730025e8
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,Y Jasti,3377f988
+info,registry,people,YP Dayal,990f1424

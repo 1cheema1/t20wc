@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Austria
+info,gender,male
+info,season,2024/25
+info,date,2025/02/04
+info,event,Malta Tri-Nation T20I Series
+info,match_number,3
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Hungary
+info,toss_decision,bat
+info,player_of_match,Bilal Zalmai
+info,umpire,S Fernando
+info,umpire,Vinay Malhotra
+info,reserve_umpire,V Sridhar
+info,winner,Austria
+info,winner_wickets,6
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,JN du Plooy
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,Muhammad Usman
+info,player,Hungary,TV Valivarthi
+info,player,Hungary,CP Dowle
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Muhammad Saqlain
+info,player,Hungary,MP Ainsworth
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Zeshan Arif
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Aqib Iqbal
+info,player,Austria,M Simpson-Parker
+info,player,Austria,H Khogiyani
+info,player,Austria,Hamid Safi
+info,player,Austria,Sahel Zadran
+info,player,Austria,J Ghelzai
+info,player,Austria,Arsalan Arif
+info,player,Austria,Umair Tariq
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,CP Dowle,5d7f4f74
+info,registry,people,H Khogiyani,b85c0597
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,JN du Plooy,945f5357
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Usman,b7621723
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,TV Valivarthi,56153e74
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,V Sridhar,42314166
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76
+info,registry,people,Zeshan Arif,6829b373

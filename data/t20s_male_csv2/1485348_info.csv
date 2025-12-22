@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Malta
+info,gender,male
+info,season,2025
+info,date,2025/05/31
+info,event,Mdina Cup
+info,match_number,4
+info,venue,"Stars Arena Hofstade, Zemst"
+info,city,Zemst
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,OJ Herrington
+info,umpire,Moiz Ali Syed
+info,umpire,Vinay Malhotra
+info,reserve_umpire,V Ramteke
+info,winner,Belgium
+info,winner_runs,103
+info,player,Belgium,Omid Mailk Khel
+info,player,Belgium,A Raza
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,OJ Herrington
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,Zaki Ul Hassan
+info,player,Belgium,Murid Ekrami
+info,player,Belgium,Iftikhar Kankhel
+info,player,Belgium,Khalid Ahmadi
+info,player,Malta,R Dianish
+info,player,Malta,DR Patankar
+info,player,Malta,P Pushparajan
+info,player,Malta,VP Thamotharam
+info,player,Malta,C Sudarsanan
+info,player,Malta,Mehboob Ali
+info,player,Malta,SB Patel
+info,player,Malta,Jaswinder Singh
+info,player,Malta,J Kunnanchirakkal
+info,player,Malta,Amar Sharma
+info,player,Malta,D Marks
+info,registry,people,A Raza,838bc6ab
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,B Niaz,b7824537
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Marks,0813a8b1
+info,registry,people,DR Patankar,e661915c
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,J Kunnanchirakkal,0e4de7de
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Moiz Ali Syed,418add3e
+info,registry,people,Murid Ekrami,76b19864
+info,registry,people,OJ Herrington,59fa2bbc
+info,registry,people,Omid Mailk Khel,2d94751e
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,V Ramteke,cb582322
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Zaki Ul Hassan,1d6d8a8b

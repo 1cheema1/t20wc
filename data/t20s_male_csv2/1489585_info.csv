@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Cayman Islands
+info,gender,male
+info,season,2025
+info,date,2025/06/13
+info,event,No Frills T20I Series
+info,match_number,5
+info,venue,"Maple Leaf North-East Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,Pargat Singh
+info,umpire,Amol Bhatt
+info,umpire,R Shah
+info,reserve_umpire,Bijal Patel
+info,winner,Canada
+info,winner_runs,126
+info,player,Canada,YS Samra
+info,player,Canada,Pargat Singh
+info,player,Canada,Mihir Patel
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,Jaskaran Singh
+info,player,Canada,K Tathgur
+info,player,Canada,D Heyliger
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,Shivam Sharma
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,Sunil
+info,player,Cayman Islands,KR Ebanks
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,ROC Dunka
+info,registry,people,A Morris,04cf2e94
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,Amol Bhatt,d7e52706
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,Bijal Patel,a56e35ba
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,H Thaker,c01d7726
+info,registry,people,J Baker,a12672e0
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,K Tathgur,f190c775
+info,registry,people,KR Ebanks,e52eb657
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Mihir Patel,18675d8d
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,R Shah,3424e050
+info,registry,people,R Walker,be37d889
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,S Foster,3595ad3b
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,Sunil,d9a634ef
+info,registry,people,YS Samra,d02c40ab

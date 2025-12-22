@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Samoa
+info,gender,male
+info,season,2025
+info,date,2025/07/19
+info,event,Asia Pacific Cricket Champions Trophy
+info,match_number,4
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Zeeshan Ali
+info,umpire,Sathish Balasubramaniam
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,Foyes Ahmed
+info,match_referee,KK Ghosh
+info,winner,Hong Kong
+info,winner_runs,54
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Waqas Barkat
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Samoa,DE Roache
+info,player,Samoa,SJ French
+info,player,Samoa,D Finau
+info,player,Samoa,BF Mailata
+info,player,Samoa,SM Nash
+info,player,Samoa,CK Jasmat
+info,player,Samoa,F Suluoto
+info,player,Samoa,A Ilaoa
+info,player,Samoa,S Sola
+info,player,Samoa,Noah Mead
+info,player,Samoa,KAB Hynam-Nyberg
+info,registry,people,A Ilaoa,4d733a54
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,BF Mailata,f49935eb
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,DE Roache,110b180a
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,F Suluoto,ae380321
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,KAB Hynam-Nyberg,692ed48b
+info,registry,people,KK Ghosh,eea3fd8e
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,S Sola,3f9feb1e
+info,registry,people,SJ French,0e93ef92
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,Sathish Balasubramaniam,b4794f2a
+info,registry,people,Waqas Barkat,a2eac9df
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

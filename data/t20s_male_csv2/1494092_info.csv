@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Malaysia
+info,gender,male
+info,season,2025
+info,date,2025/07/19
+info,event,Asia Pacific Cricket Champions Trophy
+info,match_number,3
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,S Vijay Unni
+info,umpire,A Natarajan
+info,umpire,Foyes Ahmed
+info,reserve_umpire,KSVP Venu Madhav
+info,match_referee,Sarika Prasad
+info,winner,Malaysia
+info,winner_wickets,6
+info,player,Singapore,Aman Desai
+info,player,Singapore,Arnav Manoj
+info,player,Singapore,M Bhatia
+info,player,Singapore,K Sathish
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,SH Venugopal
+info,player,Singapore,C Shivakumar
+info,player,Singapore,H Venkataram
+info,player,Singapore,Kabir Berlia
+info,player,Singapore,AR Puri
+info,player,Singapore,PSRK Sudarshan
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,Muhammad Haziq Aiman
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Arif Ullah
+info,player,Malaysia,Ahmed Aqeel
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Arif Ullah,740a5b6d
+info,registry,people,Arnav Manoj,788dbfcd
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,C Shivakumar,a02a0e07
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,H Venkataram,e61cee7b
+info,registry,people,K Sathish,1cad1601
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Kabir Berlia,5e5a45bd
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,M Bhatia,22bdbba3
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Muhammad Haziq Aiman,1f13eba1
+info,registry,people,PSRK Sudarshan,3a44a4e4
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,SH Venugopal,9f542219
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Virandeep Singh,415d30b6

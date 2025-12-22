@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Mexico
+info,gender,male
+info,season,2025
+info,date,2025/04/19
+info,event,Central American Cricket Championships
+info,match_number,6
+info,venue,"Clayton Panama, Panama City"
+info,city,Panama City
+info,toss_winner,Panama
+info,toss_decision,bat
+info,player_of_match,Ronitkumar Ahir
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,winner,Panama
+info,winner_runs,6
+info,player,Panama,P Jayeshbhai Patel
+info,player,Panama,Meet Ahir
+info,player,Panama,Breeze Ahir
+info,player,Panama,LR Gaonkar
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Sohel Patel
+info,player,Panama,Ronitkumar Ahir
+info,player,Panama,FL Patel
+info,player,Panama,Nazir Patel
+info,player,Panama,Faizal Salehji
+info,player,Panama,Anskumar Ahir
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,SB Wagh
+info,player,Mexico,J Umanath
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,A Tripathi
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,D Panda
+info,player,Mexico,R Poojary
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,Pratik Singh Bais
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,A Tripathi,07160156
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Anskumar Ahir,1b62ed99
+info,registry,people,Breeze Ahir,da09ca26
+info,registry,people,D Panda,bad1af65
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,FL Patel,e205ce8b
+info,registry,people,Faizal Salehji,7c5d046a
+info,registry,people,J Umanath,f909b98d
+info,registry,people,LR Gaonkar,e51abd5e
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,Meet Ahir,642d2883
+info,registry,people,Nazir Patel,7da83f2e
+info,registry,people,P Jayeshbhai Patel,3317dc7a
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Poojary,d05e9052
+info,registry,people,R Shah,3424e050
+info,registry,people,Ronitkumar Ahir,402ea377
+info,registry,people,SB Wagh,acf06e10
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Sohel Patel,9ac70727

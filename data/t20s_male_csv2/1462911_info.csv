@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,36
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Brazil
+info,toss_decision,field
+info,player_of_match,AAP Rivero
+info,umpire,A Gajjar
+info,umpire,C La Borde
+info,reserve_umpire,H Grewal
+info,match_referee,Phil Whitticase
+info,winner,Argentina
+info,winner_runs,11
+info,player,Argentina,B Angeltti
+info,player,Argentina,AAP Rivero
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,A Ferguson
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,H Fennell
+info,player,Argentina,A Mustafa
+info,player,Argentina,Santiago Iturbe
+info,player,Argentina,Santiago Duggan
+info,player,Brazil,G Caisley
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,LF Muller
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,W Maximo
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,L Maximo
+info,player,Brazil,R Avery
+info,player,Brazil,G Oliveira
+info,player,Brazil,IC Simao
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Mustafa,a4571ba9
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,C La Borde,32157f67
+info,registry,people,G Caisley,0f06d3cd
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,H Grewal,1172f36e
+info,registry,people,IC Simao,dcc76384
+info,registry,people,L Maximo,58c0c30c
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e

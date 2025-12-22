@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Serbia
+info,gender,male
+info,season,2025/26
+info,date,2025/10/31
+info,event,Cyprus T20 Tri-Series
+info,match_number,1
+info,venue,Happy Valley Ground
+info,city,Episkopi
+info,toss_winner,Cyprus
+info,toss_decision,bat
+info,player_of_match,Taranjit Singh
+info,winner,Cyprus
+info,winner_runs,88
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,AUKDS Kalugala
+info,player,Cyprus,AA Senn
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,Adam Senn
+info,player,Cyprus,S Austin
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,A Shahi
+info,player,Cyprus,Ashish Bam
+info,player,Cyprus,Lovedeep Singh
+info,player,Cyprus,Waqar Ali
+info,player,Serbia,A Dizija
+info,player,Serbia,BM Pecic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,WAE Burton
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,N Zimonjic
+info,player,Serbia,S Tosic
+info,player,Serbia,B Dugic
+info,player,Serbia,M Sarenac
+info,player,Serbia,A Lazic
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Lazic,b9b65f93
+info,registry,people,A Shahi,2011735e
+info,registry,people,AA Senn,719ac15b
+info,registry,people,AUKDS Kalugala,e2d1822f
+info,registry,people,Adam Senn,34c3f7b9
+info,registry,people,Ashish Bam,4a70ca45
+info,registry,people,B Dugic,5edaa34d
+info,registry,people,BM Pecic,71093272
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,Lovedeep Singh,a6e5e144
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+info,registry,people,Waqar Ali,55a73018

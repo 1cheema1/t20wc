@@ -1,0 +1,61 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Croatia
+info,gender,male
+info,season,2025
+info,date,2025/08/07
+info,event,Cyprus tour of Croatia
+info,match_number,1
+info,venue,"Mladost Cricket Ground, Zagreb"
+info,city,Zagreb
+info,toss_winner,Croatia
+info,toss_decision,field
+info,player_of_match,R Mazumder
+info,winner,Cyprus
+info,winner_runs,58
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,AA Senn
+info,player,Cyprus,S Burdekin
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,Adam Senn
+info,player,Cyprus,S Austin
+info,player,Cyprus,S Tharanga
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,Lovedeep Singh
+info,player,Cyprus,Hardeep Singh
+info,player,Cyprus,Waqar Ali
+info,player,Croatia,JM Vujinovich
+info,player,Croatia,OSB Tilley
+info,player,Croatia,ZXM Vukusic
+info,player,Croatia,Saghar Manzoor
+info,player,Croatia,S Houghton
+info,player,Croatia,C Bevin
+info,player,Croatia,H Satheedevi
+info,player,Croatia,S Bevin
+info,player,Croatia,H Beresford-Peirse
+info,player,Croatia,A Razmilic
+info,player,Croatia,A Beresford-Peirse
+info,registry,people,A Beresford-Peirse,4e7d882f
+info,registry,people,A Razmilic,d92fb332
+info,registry,people,AA Senn,719ac15b
+info,registry,people,Adam Senn,34c3f7b9
+info,registry,people,Aminul Islam Chowdhury,a2ef4337
+info,registry,people,C Bevin,1e3db5f4
+info,registry,people,H Beresford-Peirse,30291c08
+info,registry,people,H Satheedevi,a17a9548
+info,registry,people,Hardeep Singh,d617f2bf
+info,registry,people,JM Vujinovich,99ad98b0
+info,registry,people,Lovedeep Singh,a6e5e144
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,OSB Tilley,3ddd957f
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Bevin,cdb2858d
+info,registry,people,S Burdekin,98e3f1de
+info,registry,people,S Houghton,4895df9e
+info,registry,people,S Tharanga,32332eea
+info,registry,people,Saghar Manzoor,9d103769
+info,registry,people,Waqar Ali,55a73018
+info,registry,people,ZXM Vukusic,78a3ae4b

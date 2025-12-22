@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Oman
+info,gender,male
+info,season,2025
+info,date,2025/09/19
+info,event,Men's T20 Asia Cup
+info,match_number,12
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,SV Samson
+info,umpire,Faisal Afridi
+info,umpire,RR Wimalasiri
+info,reserve_umpire,VK Sharma
+info,tv_umpire,Asif Yaqoob
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_runs,21
+info,player,India,Abhishek Sharma
+info,player,India,Shubman Gill
+info,player,India,SV Samson
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,S Dube
+info,player,India,Tilak Varma
+info,player,India,Harshit Rana
+info,player,India,Arshdeep Singh
+info,player,India,Kuldeep Yadav
+info,player,India,SA Yadav
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Hammad Mirza
+info,player,Oman,Zikria Islam
+info,player,Oman,V Shukla
+info,player,Oman,J Ramanandi
+info,player,Oman,Shah Faisal
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,AR Bisht
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,S Shrivastava
+info,registry,people,AR Bisht,80fe6790
+info,registry,people,AR Patel,2e171977
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Shukla,101b1180
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Zikria Islam,a6de4c41

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Portugal
+info,gender,male
+info,season,2025
+info,date,2025/05/31
+info,event,Mdina Cup
+info,match_number,6
+info,venue,"Stars Arena Hofstade, Zemst"
+info,city,Zemst
+info,toss_winner,Belgium
+info,toss_decision,bat
+info,player_of_match,U Shantu
+info,umpire,Abdul Rahman
+info,umpire,Vinay Malhotra
+info,reserve_umpire,Moiz Ali Syed
+info,winner,Portugal
+info,winner_wickets,5
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,Omid Mailk Khel
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,OJ Herrington
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,A Raza
+info,player,Belgium,Murid Ekrami
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Zaki Ul Hassan
+info,player,Belgium,Iftikhar Kankhel
+info,player,Portugal,SP Gomes
+info,player,Portugal,D Norotam
+info,player,Portugal,J Martins
+info,player,Portugal,C Potgieter
+info,player,Portugal,Natim Hassam
+info,player,Portugal,C Nunes
+info,player,Portugal,R Hashu
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,F Stoman
+info,player,Portugal,JAM Henri
+info,player,Portugal,U Shantu
+info,registry,people,A Raza,838bc6ab
+info,registry,people,Abdul Rahman,40431f63
+info,registry,people,B Niaz,b7824537
+info,registry,people,C Nunes,37ee5d23
+info,registry,people,C Potgieter,d3bdc89c
+info,registry,people,D Norotam,90b73986
+info,registry,people,F Stoman,69e53eb3
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,J Martins,9c96b71f
+info,registry,people,JAM Henri,04df9697
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,Moiz Ali Syed,418add3e
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,Murid Ekrami,76b19864
+info,registry,people,Natim Hassam,c802af1c
+info,registry,people,OJ Herrington,59fa2bbc
+info,registry,people,Omid Mailk Khel,2d94751e
+info,registry,people,R Hashu,a53029a1
+info,registry,people,SP Gomes,30acd4b7
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,U Shantu,0e80e47d
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Zaki Ul Hassan,1d6d8a8b

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Netherlands
+info,gender,male
+info,season,2025
+info,date,2025/09/03
+info,event,Netherlands tour of Bangladesh
+info,match_number,3
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,umpire,Masudur Rahman
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Shathira Jakir
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Neeyamur Rashid
+info,outcome,no result
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mohammad Saifuddin
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,Shariz Ahmad
+info,player,Netherlands,NRJ Croes
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,K Klein
+info,player,Netherlands,A Dutt
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,DT Doram
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,DT Doram,3bea1983
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Klein,374bb5e7
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,NRJ Croes,f427e63e
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shariz Ahmad,7595b47f
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Vikramjit Singh,2a9eee66

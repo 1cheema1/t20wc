@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Switzerland
+info,team,Luxembourg
+info,gender,male
+info,season,2025
+info,date,2025/06/21
+info,event,Switzerland tour of Luxembourg
+info,match_number,2
+info,venue,Pierre Werner Cricket Ground
+info,city,Walferdange
+info,toss_winner,Switzerland
+info,toss_decision,bat
+info,player_of_match,Sheraz Sirwari
+info,winner,Switzerland
+info,winner_runs,11
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,H Deshan
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,Sheraz Sirwari
+info,player,Switzerland,K Fletcher
+info,player,Switzerland,Khalid Niazi
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,Vivek Dixit
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,Kamal Soukhiya
+info,player,Luxembourg,Mayank Nagayach
+info,player,Luxembourg,Benjamin Embleton
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,Sareer Shah
+info,registry,people,A Manepalli,36101309
+info,registry,people,A Nanda,704e0160
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Benjamin Embleton,f2d5966a
+info,registry,people,D Johnson,945981e5
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,Kamal Soukhiya,64457c72
+info,registry,people,Khalid Niazi,c57a486f
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,Mayank Nagayach,e401f8a5
+info,registry,people,Milad Momend,84880baf
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Sareer Shah,f16953c5
+info,registry,people,Sheraz Sirwari,b2431c60
+info,registry,people,V Vijh,b857468a
+info,registry,people,Vivek Dixit,d42de283

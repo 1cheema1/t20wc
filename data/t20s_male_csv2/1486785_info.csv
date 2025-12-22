@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Switzerland
+info,gender,male
+info,season,2025
+info,date,2025/06/01
+info,event,Switzerland tour of Austria
+info,match_number,4
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,Karanbir Singh
+info,umpire,Ashtiaq Shah
+info,umpire,Pawan Kohli
+info,winner,Austria
+info,winner_runs,17
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Mansoor Safi
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Sahel Zadran
+info,player,Austria,Amar Naeem
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Umair Tariq
+info,player,Austria,H Khogiyani
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Baseer Khan
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,H Deshan
+info,player,Switzerland,I Stewart
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,H Elder
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashtiaq Shah,9511e09f
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Johnson,945981e5
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,H Elder,637c65f1
+info,registry,people,H Khogiyani,b85c0597
+info,registry,people,I Stewart,568fe66e
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Waqar Zalmai,74571ec4

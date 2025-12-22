@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,male
+info,season,2025
+info,date,2025/08/10
+info,event,South Africa tour of Australia
+info,match_number,1
+info,venue,"Marrara Stadium, Darwin"
+info,city,Darwin
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,TH David
+info,umpire,DM Koch
+info,umpire,SJ Nogajski
+info,reserve_umpire,SAJ Craig
+info,tv_umpire,PJ Gillespie
+info,match_referee,AJ Pycroft
+info,winner,Australia
+info,winner_runs,17
+info,player,Australia,MR Marsh
+info,player,Australia,TM Head
+info,player,Australia,JP Inglis
+info,player,Australia,C Green
+info,player,Australia,TH David
+info,player,Australia,MJ Owen
+info,player,Australia,GJ Maxwell
+info,player,Australia,BJ Dwarshuis
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,player,South Africa,AK Markram
+info,player,South Africa,RD Rickelton
+info,player,South Africa,LG Pretorius
+info,player,South Africa,D Brevis
+info,player,South Africa,T Stubbs
+info,player,South Africa,GF Linde
+info,player,South Africa,C Bosch
+info,player,South Africa,S Muthusamy
+info,player,South Africa,K Rabada
+info,player,South Africa,KT Maphaka
+info,player,South Africa,L Ngidi
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Green,eaa76d3c
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GF Linde,e5437608
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

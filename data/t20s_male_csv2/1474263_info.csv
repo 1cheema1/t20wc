@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Bahrain
+info,gender,male
+info,season,2024/25
+info,date,2025/03/04
+info,event,Bahrain tour of Singapore
+info,match_number,4
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,umpire,E Rajvengadesh
+info,umpire,Hardeep Jadeja
+info,reserve_umpire,Foyes Ahmed
+info,match_referee,T Senthil Kumar
+info,outcome,no result
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,IP Swaney
+info,player,Singapore,Aman Desai
+info,player,Singapore,Aslan Jafri
+info,player,Singapore,PSRK Sudarshan
+info,player,Singapore,H Venkataram
+info,player,Singapore,AAhan Achar
+info,player,Singapore,P Dhanuka
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,S Sarthak
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Ubaid Minhas
+info,registry,people,AAhan Achar,797f52cc
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Aslan Jafri,a14b5f3c
+info,registry,people,E Rajvengadesh,9b50c645
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,H Venkataram,e61cee7b
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,IP Swaney,430b7399
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,P Dhanuka,16101bef
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,PSRK Sudarshan,3a44a4e4
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Sarthak,9f2c6cd3
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,Ubaid Minhas,87493f1d

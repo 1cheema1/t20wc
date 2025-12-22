@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cook Islands
+info,team,Thailand
+info,gender,male
+info,season,2025
+info,date,2025/05/09
+info,event,Japan Twenty20 Tri-Series
+info,match_number,3
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,J Coetzee
+info,umpire,C Thurgate
+info,umpire,Vipin Sukhwal
+info,winner,Thailand
+info,winner_wickets,8
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,C Dickson
+info,player,Cook Islands,MJM Kavana
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,J Pickering
+info,player,Cook Islands,JL Tutty
+info,player,Cook Islands,T Wuatai
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,S Desungnoen
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Nuntarach
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,J Coetzee
+info,player,Thailand,MK Thakur
+info,player,Thailand,P Thongsa
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,A Parima,866d3ac8
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,B Vakatini,7ad1417c
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Dickson,26b59073
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,J Pickering,1ac8edcf
+info,registry,people,JL Tutty,11b37b2a
+info,registry,people,L Denny,e112732d
+info,registry,people,MJM Kavana,10eef955
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,OE Taylor,24a93558
+info,registry,people,P Thongsa,62318525
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Wuatai,307684f3
+info,registry,people,Vipin Sukhwal,f7094357
+info,registry,people,Y Saranonnakkun,9c93c0a3

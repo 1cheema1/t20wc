@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Estonia
+info,gender,male
+info,season,2025
+info,date,2025/05/07
+info,event,Estonia tour of Malta
+info,match_number,3
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,P Pushparajan
+info,umpire,S Gowda
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Fernando
+info,winner,Malta
+info,winner_runs,101
+info,player,Malta,R Dianish
+info,player,Malta,Imran Ameer
+info,player,Malta,P Pushparajan
+info,player,Malta,VP Thamotharam
+info,player,Malta,Mehboob Ali
+info,player,Malta,Jaspal Singh
+info,player,Malta,J Kunnanchirakkal
+info,player,Malta,E Mathew
+info,player,Malta,SB Patel
+info,player,Malta,Jaswinder Singh
+info,player,Malta,D Marks
+info,player,Estonia,Habib Khan
+info,player,Estonia,S Gooch
+info,player,Estonia,Ali Masood
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,Elias Hasan
+info,player,Estonia,R Baruah
+info,player,Estonia,M Vaik
+info,player,Estonia,A Paul
+info,player,Estonia,K Vislapuu
+info,player,Estonia,S Hook
+info,registry,people,A Paul,fa308279
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,D Marks,0813a8b1
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Elias Hasan,f74a1394
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,J Kunnanchirakkal,0e4de7de
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,M Vaik,5335c5a7
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Baruah,41b63677
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Hook,eba871dd
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1

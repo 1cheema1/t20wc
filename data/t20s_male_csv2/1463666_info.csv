@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Kuwait
+info,gender,male
+info,season,2024/25
+info,date,2024/12/20
+info,event,Gulf T20I Championship
+info,match_number,15
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Oman
+info,toss_decision,bat
+info,player_of_match,Meet Bhavsar
+info,umpire,Asim Mehmood
+info,umpire,Shiju Sam
+info,reserve_umpire,Rahat Ali
+info,tv_umpire,Mohammad Nasim
+info,match_referee,Iftikhar Ali
+info,winner,Kuwait
+info,winner_wickets,3
+info,player,Oman,K Sonavale
+info,player,Oman,Jatinder Singh
+info,player,Oman,Wasim Ali
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Aamir Kaleem
+info,player,Oman,V Shukla
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Hammad Mirza
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Jay Odedra
+info,player,Oman,S Shrivastava
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Yasin Patel
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Asim Mehmood,4109cbec
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,K Sonavale,10c158cc
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Shukla,101b1180
+info,registry,people,Wasim Ali,ea59139a
+info,registry,people,Yasin Patel,ecdd8d60

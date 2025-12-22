@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Cayman Islands
+info,gender,male
+info,season,2025
+info,date,2025/06/16
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,3
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Cayman Islands
+info,toss_decision,field
+info,player_of_match,K Tathgur
+info,umpire,GO Brathwaite
+info,umpire,Zahid Bassarath
+info,reserve_umpire,DK Butler
+info,tv_umpire,AR Maddela
+info,match_referee,Dave Gilbert
+info,winner,Canada
+info,winner_runs,59
+info,player,Canada,YS Samra
+info,player,Canada,A Johnson
+info,player,Canada,Pargat Singh
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,K Tathgur
+info,player,Canada,Jaskaran Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Shivam Sharma
+info,player,Canada,Kaleem Sana
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,KR Ebanks
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,T Taylor
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,A Morris,04cf2e94
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DK Butler,671398e3
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,H Thaker,c01d7726
+info,registry,people,J Baker,a12672e0
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,K Tathgur,f190c775
+info,registry,people,KR Ebanks,e52eb657
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,S Foster,3595ad3b
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,Zahid Bassarath,ca6bf044

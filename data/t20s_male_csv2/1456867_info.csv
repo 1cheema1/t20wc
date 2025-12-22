@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Myanmar
+info,gender,male
+info,season,2024/25
+info,date,2024/11/12
+info,event,Myanmar tour of Indonesia
+info,match_number,1
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Myanmar
+info,toss_decision,field
+info,player_of_match,KD Kesuma
+info,umpire,Edi Agustinus
+info,umpire,F Shony
+info,winner,Indonesia
+info,winner_runs,136
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,AA Rahayu
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,GD Arta
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,RM Koda
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,Lwin Maw
+info,player,Myanmar,Hein Zin Aung
+info,registry,people,AA Rahayu,2327fdc7
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,F Shony,85712af4
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GD Arta,e969e580
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,Hein Zin Aung,3543e384
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Lwin Maw,ae1300a0
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,RM Koda,f0a45427
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Thuya Aung,2e092d2c

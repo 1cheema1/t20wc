@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cayman Islands
+info,team,Belize
+info,gender,male
+info,season,2024/25
+info,date,2024/12/08
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,12
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Cayman Islands
+info,toss_decision,bat
+info,player_of_match,ROC Dunka
+info,umpire,H Grewal
+info,umpire,R Shah
+info,reserve_umpire,C La Borde
+info,match_referee,Phil Whitticase
+info,winner,Cayman Islands
+info,winner_runs,44
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,A Wright
+info,player,Belize,A Oxley
+info,player,Belize,J Pook
+info,player,Belize,O Casasola
+info,player,Belize,L Bonner
+info,player,Belize,GG Banner
+info,player,Belize,BS Stephenson
+info,player,Belize,C Stephenson
+info,player,Belize,ML Castillo
+info,player,Belize,Garret Banner
+info,player,Belize,NN Banner
+info,player,Belize,B Lewis
+info,registry,people,A Morris,04cf2e94
+info,registry,people,A Oxley,d1317833
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,B Lewis,f68bac56
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Stephenson,c2123fd0
+info,registry,people,C Wright,d465c6d7
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,H Grewal,1172f36e
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Pook,84ff65e5
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,ML Castillo,9853b404
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Shah,3424e050
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,S Foster,3595ad3b
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,YSD Seneveratne,0f71478c

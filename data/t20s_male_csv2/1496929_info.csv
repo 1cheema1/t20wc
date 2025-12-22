@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/09/17
+info,event,Men's T20 Asia Cup
+info,match_number,10
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,Shaheen Shah Afridi
+info,umpire,Ahmed Shah Pakteen
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Gazi Sohel
+info,tv_umpire,Izatullah Safi
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_runs,41
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Khushdil Shah
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Abrar Ahmed
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,H Kaushik
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,SS Kang
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Rohid
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,D Parashar,395179e8
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,H Kaushik,2bfec670
+info,registry,people,Haider Ali,dd572696
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SS Kang,797ee165
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Waseem Muhammad,6f02fe2a

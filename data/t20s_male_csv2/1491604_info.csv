@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Gibraltar
+info,gender,male
+info,season,2025
+info,date,2025/07/10
+info,event,Bulgaria Tri-Nation T20I Series
+info,match_number,1
+info,venue,"Vassil Levski National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Gibraltar
+info,toss_decision,field
+info,player_of_match,M Raikes
+info,winner,Gibraltar
+info,winner_wickets,8
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Jakob Gul
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Ali Rasool
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,J Dowling
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,M Raikes
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,J Wilson
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,RJ Hatchman
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Ali Rasool,1a710f40
+info,registry,people,C Pyle,d278b70b
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,H Lakov,87a6f411
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,J Dowling,9f16f7c8
+info,registry,people,J Wilson,1a3295a1
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,Jakob Gul,a4696d64
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,M Raikes,a9b998d9
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,RJ Hatchman,01c05b6c
+info,registry,people,Zeerak Chughtai,ff0b1636

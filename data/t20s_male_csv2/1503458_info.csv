@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Papua New Guinea
+info,gender,male
+info,season,2025/26
+info,date,2025/10/10
+info,event,ICC Men's T20 World Cup Asia & EAP Qualifier
+info,match_number,9
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,V Shukla
+info,umpire,Rashid Riaz
+info,umpire,SAJ Craig
+info,reserve_umpire,RMPJ Rambukwella
+info,match_referee,Kent Hannam
+info,winner,Oman
+info,winner_runs,52
+info,player,Oman,Jatinder Singh
+info,player,Oman,AR Odedara
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Hammad Mirza
+info,player,Oman,AR Bisht
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,V Shukla
+info,player,Oman,Shah Faisal
+info,player,Oman,Nadeem Khan
+info,player,Oman,J Ramanandi
+info,player,Oman,Shakeel Ahmed
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,G Toka
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,Patrick Nou
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,D Ravu
+info,player,Papua New Guinea,Boio Ray
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,J Kariko
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,AR Bisht,80fe6790
+info,registry,people,AR Odedara,a7a6c1c2
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Boio Ray,9cf15e95
+info,registry,people,D Ravu,053f3ce3
+info,registry,people,G Toka,c3564c2d
+info,registry,people,HGV Vare,98299b67
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,J Kariko,cde067e1
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Nadeem Khan,8a28c5d4
+info,registry,people,Patrick Nou,75657526
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,V Shukla,101b1180

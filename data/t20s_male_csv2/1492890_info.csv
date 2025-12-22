@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Tanzania
+info,gender,male
+info,season,2025
+info,date,2025/07/12
+info,event,Quadrangular Twenty20 Series (Malawi)
+info,match_number,12
+info,venue,"TCA Oval, Blantyre"
+info,city,Blantyre
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,A Augastin
+info,umpire,Osman Mhango
+info,umpire,Siphelele Gasa
+info,reserve_umpire,S Gowda
+info,tv_umpire,MN Gampu
+info,match_referee,TC Mokorosi
+info,winner,Tanzania
+info,winner_wickets,5
+info,player,Germany,Musaddiq Ahmed
+info,player,Germany,Shahid Afridi
+info,player,Germany,Hassan Khan
+info,player,Germany,H Singh
+info,player,Germany,Sachin Mandy
+info,player,Germany,Fayaz Khan
+info,player,Germany,Muslim Yar
+info,player,Germany,Sajid Liaqat
+info,player,Germany,V Jatinder Kumar
+info,player,Germany,Adil Khan
+info,player,Germany,Ghulam Ahmadi
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,A Augastin
+info,player,Tanzania,Shaik Basha
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,MS Maker
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Juma
+info,player,Tanzania,RE Francis
+info,registry,people,A Augastin,056e3558
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Adil Khan,b4706200
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,Fayaz Khan,373954ca
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,Hassan Khan,8f0c3818
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MN Gampu,41597619
+info,registry,people,MS Maker,14318ae4
+info,registry,people,Musaddiq Ahmed,f8fb7e7b
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Osman Mhango,fa4ec243
+info,registry,people,RE Francis,20ca18bc
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sajid Liaqat,b1b99a1a
+info,registry,people,Shahid Afridi,5b2acc3f
+info,registry,people,Shaik Basha,1b77c4c6
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,V Jatinder Kumar,72ef2c6b

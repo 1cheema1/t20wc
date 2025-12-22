@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,India
+info,gender,male
+info,season,2025
+info,date,2025/09/14
+info,event,Men's T20 Asia Cup
+info,match_number,6
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Kuldeep Yadav
+info,umpire,Masudur Rahman
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Izatullah Safi
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_wickets,7
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Sufiyan Muqeem
+info,player,Pakistan,Abrar Ahmed
+info,player,India,Abhishek Sharma
+info,player,India,Shubman Gill
+info,player,India,SA Yadav
+info,player,India,Tilak Varma
+info,player,India,S Dube
+info,player,India,SV Samson
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,Kuldeep Yadav
+info,player,India,CV Varun
+info,player,India,JJ Bumrah
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,Tilak Varma,b0482a1d

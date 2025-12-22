@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/07
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,5
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Mexico
+info,toss_decision,bat
+info,player_of_match,Shoaib Rafiq
+info,umpire,Jermaine Lindo
+info,umpire,M Abbott
+info,reserve_umpire,AR Maddela
+info,match_referee,Phil Whitticase
+info,winner,Mexico
+info,winner_runs,47
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,RK Singh
+info,player,Mexico,KB Patil
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Luis Hermida
+info,player,Mexico,R Poojary
+info,player,Mexico,PK Mohanarangam
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,Y Jasti
+info,player,Brazil,W Maximo
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,LF Muller
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,CC Machado
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,VRCF Poubel
+info,player,Brazil,Kawsar Khan
+info,player,Brazil,R Avery
+info,player,Brazil,IC Simao
+info,registry,people,AR Maddela,5c861579
+info,registry,people,CC Machado,5992ef03
+info,registry,people,IC Simao,dcc76384
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Kawsar Khan,a14b3bc0
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,PK Mohanarangam,d73891ad
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Avery,094ebfb6
+info,registry,people,R Poojary,d05e9052
+info,registry,people,RK Singh,6e974d8f
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,VRCF Poubel,1e3da0b7
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Y Jasti,3377f988
+info,registry,people,Yasar Haroon,5a8dc41e

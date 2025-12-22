@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Zimbabwe
+info,gender,male
+info,season,2024/25
+info,date,2024/12/01
+info,event,Pakistan tour of Zimbabwe
+info,match_number,1
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Tayyab Tahir
+info,umpire,L Rusere
+info,umpire,P Sizara
+info,reserve_umpire,F Mutizwa
+info,tv_umpire,I Chabi
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_runs,57
+info,player,Pakistan,Omair Yousuf
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Tayyab Tahir
+info,player,Pakistan,Irfan Khan
+info,player,Pakistan,Jahandad Khan
+info,player,Pakistan,Abbas Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Abrar Ahmed
+info,player,Pakistan,Sufiyan Muqeem
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,T Gwandu
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,D Myers,d96165b5
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,I Chabi,5e39110e
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,Jahandad Khan,22d73540
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,Omair Yousuf,f8e3c0f8
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,WP Masakadza,4bc0a378

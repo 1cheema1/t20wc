@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Ivory Coast
+info,gender,male
+info,season,2024/25
+info,date,2024/11/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,5
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,Selim Salau
+info,umpire,D Odhiambo
+info,umpire,Stephen Harris
+info,reserve_umpire,Masudur Rahman
+info,match_referee,O Chirombe
+info,winner,Nigeria
+info,winner_runs,264
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Ivory Coast,OK Mohamed
+info,player,Ivory Coast,KMA Aziz
+info,player,Ivory Coast,MC Alex
+info,player,Ivory Coast,KY Wilfried
+info,player,Ivory Coast,D Issiaka
+info,player,Ivory Coast,M Ibrahim
+info,player,Ivory Coast,K Nagnama
+info,player,Ivory Coast,DKJ Claude
+info,player,Ivory Coast,QF Djakaridja
+info,player,Ivory Coast,LKW Ezechiel
+info,player,Ivory Coast,PK Dimitri
+info,registry,people,D Issiaka,933b30c9
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DKJ Claude,096601c5
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,K Nagnama,6770bccd
+info,registry,people,KMA Aziz,e8cfd743
+info,registry,people,KY Wilfried,5e72608f
+info,registry,people,LKW Ezechiel,f80bd415
+info,registry,people,M Ibrahim,253bc9d8
+info,registry,people,MC Alex,3a200eb2
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Olaleye,811785d2
+info,registry,people,OK Mohamed,3cb42681
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,PK Dimitri,7e665859
+info,registry,people,QF Djakaridja,9ae09b37
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d

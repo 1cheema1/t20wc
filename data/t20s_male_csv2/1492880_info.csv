@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Germany
+info,gender,male
+info,season,2025
+info,date,2025/07/05
+info,event,Quadrangular Twenty20 Series (Malawi)
+info,match_number,1
+info,venue,"TCA Oval, Blantyre"
+info,city,Blantyre
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,Shahid Afridi
+info,umpire,MN Gampu
+info,umpire,Siphelele Gasa
+info,reserve_umpire,S Gowda
+info,tv_umpire,Osman Mhango
+info,winner,Germany
+info,winner_wickets,5
+info,player,Malawi,D Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,G Kansonkho
+info,player,Malawi,A Limdawala
+info,player,Malawi,SY Nihute
+info,player,Malawi,C Chete
+info,player,Malawi,D Jakiel
+info,player,Malawi,SZ Vayani
+info,player,Malawi,B Balala
+info,player,Malawi,B Pondani
+info,player,Malawi,T Makaya
+info,player,Germany,Shahid Afridi
+info,player,Germany,Musaddiq Ahmed
+info,player,Germany,K Klesse
+info,player,Germany,H Singh
+info,player,Germany,Hassan Khan
+info,player,Germany,Sachin Mandy
+info,player,Germany,Muslim Yar
+info,player,Germany,V Jatinder Kumar
+info,player,Germany,Abdul Bashir
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Sajid Liaqat
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,Abdul Bashir,b6af1647
+info,registry,people,B Balala,a2f8e873
+info,registry,people,B Pondani,e5117568
+info,registry,people,C Chete,ef4f539a
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,Hassan Khan,8f0c3818
+info,registry,people,K Klesse,9538c7be
+info,registry,people,MN Gampu,41597619
+info,registry,people,Musaddiq Ahmed,f8fb7e7b
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Osman Mhango,fa4ec243
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,SY Nihute,56b41ed3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sajid Liaqat,b1b99a1a
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,Shahid Afridi,5b2acc3f
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Makaya,e3f53051
+info,registry,people,V Jatinder Kumar,72ef2c6b

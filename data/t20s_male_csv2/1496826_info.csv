@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/08/10
+info,event,Viking Cup
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,Bilal Zalmai
+info,umpire,Bilal Munir
+info,umpire,SB Ravindra
+info,winner,Austria
+info,winner_wickets,8
+info,player,Norway,Khizer Ahmed
+info,player,Norway,D Abeyrathna
+info,player,Norway,Walid Ghauri
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Faisal Raza
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Vishal Sharma
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,Vinay Ravi
+info,player,Norway,Adnan Shnwarei
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,I Asif
+info,player,Austria,A Randhawa
+info,player,Austria,Hamid Safi
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Baseer Khan
+info,player,Austria,Zeshan Arif
+info,player,Austria,Arsalan Arif
+info,player,Austria,Umair Tariq
+info,player,Austria,Ziaurahman Shinwari
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Adnan Shnwarei,c8281df7
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Munir,c35c63b9
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,I Asif,663ad386
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Vishal Sharma,b9d8abd3
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Zeshan Arif,6829b373
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

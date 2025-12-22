@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Malta
+info,gender,male
+info,season,2025
+info,date,2025/06/26
+info,event,Continental Cup
+info,match_number,1
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,Mehboob Ali
+info,winner,Malta
+info,winner_wickets,6
+info,player,France,G Mckeon
+info,player,France,Mustafa Omer
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Mukhtar Ghulami
+info,player,France,Usman Khan
+info,player,France,HA Jackson
+info,player,France,Jamshid Nasiri
+info,player,France,Dawood Ahmadzai
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,Malta,R Dianish
+info,player,Malta,Mehboob Ali
+info,player,Malta,P Pushparajan
+info,player,Malta,Mohammed Qasim
+info,player,Malta,Jaspal Singh
+info,player,Malta,Imran Ameer
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Muhammad Ajmal
+info,player,Malta,D Marks
+info,player,Malta,SB Patel
+info,player,Malta,Washeem Abbas
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,D Marks,0813a8b1
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Mohammed Qasim,a120e81b
+info,registry,people,Muhammad Ajmal,0782aec3
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Mustafa Omer,3bd52be1
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Washeem Abbas,6de4e430

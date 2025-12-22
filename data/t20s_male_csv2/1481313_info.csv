@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cayman Islands
+info,team,Canada
+info,gender,male
+info,season,2025
+info,date,2025/04/26
+info,event,North America T20 Cup
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Cayman Islands
+info,toss_decision,bat
+info,player_of_match,Kaleem Sana
+info,umpire,D Smith
+info,umpire,NH Ekanayake
+info,reserve_umpire,A Gajjar
+info,winner,Canada
+info,winner_wickets,10
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,R Edwards
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,J Buchanan
+info,player,Canada,Ali Nadeem
+info,player,Canada,NS Dhaliwal
+info,player,Canada,YS Samra
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Jaskaran Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,Sukhjinder Singh
+info,player,Canada,Shivam Sharma
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,Ali Nadeem,02802468
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Smith,388bbca2
+info,registry,people,H Thaker,c01d7726
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Buchanan,01127aa9
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,R Edwards,4c5a72e2
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Foster,3595ad3b
+info,registry,people,S Movva,ee229588
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,Sukhjinder Singh,ada72696
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,YSD Seneveratne,0f71478c

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Nepal
+info,gender,male
+info,season,2025
+info,date,2025/06/17
+info,event,Scotland T20 Tri-Series
+info,match_number,3
+info,venue,"Titwood, Glasgow"
+info,city,Glasgow
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,S Lamichhane
+info,umpire,DH Mclean
+info,umpire,I McDonald
+info,reserve_umpire,Ryan Milne
+info,match_referee,Philip Thompson
+info,winner,Nepal
+info,winner_wickets,2
+info,player,Scotland,HG Munsey
+info,player,Scotland,MRJ Watt
+info,player,Scotland,BJ McMullen
+info,player,Scotland,LR Naylor
+info,player,Scotland,FDW McCreath
+info,player,Scotland,MA Leask
+info,player,Scotland,MH Cross
+info,player,Scotland,CM McBride
+info,player,Scotland,SM Sharif
+info,player,Scotland,J Jarvis
+info,player,Scotland,JJ Davidson
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Lokesh Bam
+info,player,Nepal,AK Sah
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,Basir Ahamad
+info,player,Nepal,K Thagunna
+info,player,Nepal,Rupesh Singh
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,LN Rajbanshi
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DS Airee,1747ea18
+info,registry,people,FDW McCreath,bccead86
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,JJ Davidson,068c47d2
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,LR Naylor,1236044e
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rupesh Singh,30b93df1
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SM Sharif,f43dd8c2

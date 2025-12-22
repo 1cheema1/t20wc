@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Mexico
+info,gender,male
+info,season,2024/25
+info,date,2024/12/15
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,32
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Mexico
+info,toss_decision,field
+info,player_of_match,Mahmud Jasat
+info,umpire,A Gajjar
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Phil Whitticase
+info,winner,Panama
+info,winner_runs,48
+info,player,Panama,Breeze Ahir
+info,player,Panama,P Jayeshbhai Patel
+info,player,Panama,Mahmud Jasat
+info,player,Panama,Irfan Hafejee
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,P Suman Bhai Ahir
+info,player,Panama,RDB Ahir
+info,player,Panama,DK Dahyabhai Ahir
+info,player,Panama,Sohel Ebrahim Desai
+info,player,Panama,AM Patel
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,RK Singh
+info,player,Mexico,Luis Hermida
+info,player,Mexico,R Ankad
+info,player,Mexico,PK Mohanarangam
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,KB Patil
+info,player,Mexico,R Poojary
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,Pratik Singh Bais
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AM Patel,a09323d8
+info,registry,people,Breeze Ahir,da09ca26
+info,registry,people,DK Dahyabhai Ahir,ce9ee68f
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,P Jayeshbhai Patel,3317dc7a
+info,registry,people,P Suman Bhai Ahir,af3042f1
+info,registry,people,PK Mohanarangam,d73891ad
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Poojary,d05e9052
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,RK Singh,6e974d8f
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,Sohel Ebrahim Desai,3ec178e7
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Yusuf Ebrahim,2d5c6e88

@@ -1,0 +1,61 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Portugal
+info,gender,male
+info,season,2025
+info,date,2025/04/07
+info,event,Norway tour of Portugal
+info,match_number,1
+info,venue,Santarem Cricket Ground
+info,city,Albergaria
+info,toss_winner,Portugal
+info,toss_decision,field
+info,player_of_match,D Abeyrathna
+info,winner,Norway
+info,winner_runs,39
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Usman Arif
+info,player,Norway,D Abeyrathna
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Faisal Raza
+info,player,Norway,Sher Sahak
+info,player,Norway,Vishal Sharma
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,AJ Parmar
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,Vinay Ravi
+info,player,Portugal,J Vijay
+info,player,Portugal,C Greenshields
+info,player,Portugal,D Norotam
+info,player,Portugal,M Machado
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,R Hashu
+info,player,Portugal,JAM Henri
+info,player,Portugal,U Shantu
+info,player,Portugal,J Martins
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,C Greenshields,55f0e741
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,D Norotam,90b73986
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,J Martins,9c96b71f
+info,registry,people,J Vijay,709525fc
+info,registry,people,JAM Henri,04df9697
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Machado,fd34bcb0
+info,registry,people,Mansoor Shah,d09615c8
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,R Hashu,a53029a1
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,U Shantu,0e80e47d
+info,registry,people,Usman Arif,fccc2d5a
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Vishal Sharma,b9d8abd3

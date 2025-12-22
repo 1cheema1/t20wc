@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Namibia
+info,gender,male
+info,season,2025/26
+info,date,2025/10/11
+info,event,South Africa tour of Namibia
+info,venue,"Namibia Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,R Trumpelmann
+info,umpire,A Louw
+info,umpire,Stephen Harris
+info,reserve_umpire,E Lassen
+info,match_referee,S Wadvalla
+info,winner,Namibia
+info,winner_wickets,4
+info,player,South Africa,LG Pretorius
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RA Herman
+info,player,South Africa,JF Smith
+info,player,South Africa,D Ferreira
+info,player,South Africa,A Simelane
+info,player,South Africa,BC Fortuin
+info,player,South Africa,G Coetzee
+info,player,South Africa,N Burger
+info,player,South Africa,LB Williams
+info,player,Namibia,L Steenkamp
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,MB Kruger
+info,player,Namibia,ZE Green
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Namibia,M Heingo
+info,registry,people,A Louw,e852253e
+info,registry,people,A Simelane,ebb74564
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Heingo,0abb2525
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Burger,465aa633
+info,registry,people,N Peter,212aeedd
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,ZE Green,8716233e

@@ -1,0 +1,62 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Guernsey
+info,team,Papua New Guinea
+info,gender,male
+info,season,2025
+info,date,2025/08/14
+info,event,Papua New Guinea tour of Guernsey
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,umpire,C Brooks
+info,umpire,Mike Kinder
+info,winner,Papua New Guinea
+info,winner_wickets,6
+info,player,Guernsey,LJ Barker
+info,player,Guernsey,J Butler
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,A Martel
+info,player,Guernsey,Oliver Clapham
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,C Forshaw
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,P Karoho
+info,player,Papua New Guinea,Boio Ray
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,D Ravu
+info,player,Papua New Guinea,J Kila
+info,registry,people,A Martel,65cd62a9
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,Boio Ray,9cf15e95
+info,registry,people,C Brooks,53e855df
+info,registry,people,C Forshaw,0ed66ce6
+info,registry,people,D Ravu,053f3ce3
+info,registry,people,HGV Vare,98299b67
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Butler,efcb778e
+info,registry,people,J Kariko,cde067e1
+info,registry,people,J Kila,d996ba33
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LJ Barker,da1f80f8
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,Mike Kinder,8c773cb0
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,Oliver Clapham,b445f2fc
+info,registry,people,P Karoho,c449944c
+info,registry,people,S Bau,9a95bebb
+info,registry,people,T Nightingale,51a125b3

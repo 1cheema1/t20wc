@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Suriname
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/08
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,11
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Suriname
+info,toss_decision,bat
+info,player_of_match,LH Rodrigues
+info,umpire,A Gajjar
+info,umpire,Jermaine Lindo
+info,reserve_umpire,M Abbott
+info,match_referee,Phil Whitticase
+info,winner,Brazil
+info,winner_wickets,6
+info,player,Suriname,T Ramautar
+info,player,Suriname,V Hirlal
+info,player,Suriname,G Singh
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,K Jaikaran
+info,player,Suriname,AK Gokoel
+info,player,Suriname,YP Dayal
+info,player,Suriname,XSD Smith
+info,player,Suriname,RJ Ramjiawan
+info,player,Suriname,K Hardat
+info,player,Suriname,GI Gokoel
+info,player,Brazil,W Maximo
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,LF Muller
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,Kawsar Khan
+info,player,Brazil,CC Machado
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,R Avery
+info,player,Brazil,G Oliveira
+info,player,Brazil,IC Simao
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,CC Machado,5992ef03
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GI Gokoel,72caebdc
+info,registry,people,IC Simao,dcc76384
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,Kawsar Khan,a14b3bc0
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,RJ Ramjiawan,28442755
+info,registry,people,T Ramautar,730025e8
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,W Maximo,e41dee27
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424
+info,registry,people,Yasar Haroon,5a8dc41e

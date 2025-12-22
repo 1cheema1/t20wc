@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Hong Kong
+info,gender,male
+info,season,2025
+info,date,2025/07/23
+info,event,Asia Pacific Cricket Champions Trophy
+info,match_number,9
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,D Visser
+info,umpire,Foyes Ahmed
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,Hardeep Jadeja
+info,match_referee,Sarika Prasad
+info,winner,Hong Kong
+info,winner_wickets,3
+info,player,Samoa,D Visser
+info,player,Samoa,S Cotter
+info,player,Samoa,EF Faalupega
+info,player,Samoa,SF Tiai
+info,player,Samoa,CK Jasmat
+info,player,Samoa,SM Nash
+info,player,Samoa,F Suluoto
+info,player,Samoa,S Sola
+info,player,Samoa,D Finau
+info,player,Samoa,Noah Mead
+info,player,Samoa,ML Maiava
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Kalhan Challu
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Waqas Barkat
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Paras Singh
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,EF Faalupega,d3611e29
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,F Suluoto,ae380321
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Kalhan Challu,cc6b0cda
+info,registry,people,ML Maiava,a6710e6c
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,Paras Singh,014da3d8
+info,registry,people,S Cotter,e6127436
+info,registry,people,S Sola,3f9feb1e
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Waqas Barkat,a2eac9df
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

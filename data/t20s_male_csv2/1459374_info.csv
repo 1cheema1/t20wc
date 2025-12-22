@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Eswatini
+info,gender,male
+info,season,2024/25
+info,date,2024/11/23
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,1
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,V Balakrishnan
+info,umpire,Claus Schumacher
+info,umpire,Stephen Harris
+info,reserve_umpire,D Odhiambo
+info,match_referee,O Chirombe
+info,winner,Botswana
+info,winner_runs,48
+info,player,Botswana,K Motlanka
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,V Mbazo
+info,player,Botswana,T Tshose
+info,player,Botswana,T Perera
+info,player,Botswana,M Kasselman
+info,player,Botswana,R Nehonde
+info,player,Botswana,K Piet
+info,player,Botswana,B Khumalo
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Kgosiemang
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,Muhammad Amin
+info,player,Eswatini,T Sandeep
+info,player,Eswatini,J Suleman
+info,player,Eswatini,M Khojbariya
+info,player,Eswatini,M Magagula
+info,player,Eswatini,M Jele
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,R Sandeep
+info,player,Eswatini,S Jele
+info,player,Eswatini,JJ Wright
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Odhiambo,45994517
+info,registry,people,J Suleman,cacd240a
+info,registry,people,JJ Wright,c5981c9c
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,M Khojbariya,e1631e47
+info,registry,people,M Magagula,7a787b98
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,Muhammad Amin,ce9ce42f
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Sandeep,175937f6
+info,registry,people,S Jele,1c5c65d6
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Perera,456397e5
+info,registry,people,T Sandeep,b794a78d
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14

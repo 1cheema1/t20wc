@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Zimbabwe
+info,gender,male
+info,season,2025/26
+info,date,2025/10/02
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,BJ Bennett
+info,umpire,A Louw
+info,umpire,LB Gcuma
+info,reserve_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,Zimbabwe
+info,winner_wickets,7
+info,player,Kenya,P Sharma
+info,player,Kenya,DM Gondaria
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,S Singh
+info,player,Kenya,S Gill
+info,player,Kenya,JS Kundi
+info,player,Kenya,LN Oluoch
+info,player,Kenya,P Koech
+info,player,Kenya,Vraj Patel
+info,player,Kenya,N Hirani
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,TT Maposa
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,registry,people,A Louw,5eecae5d
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,N Hirani,4d290e7a
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Singh,612a395c
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TT Maposa,5feead83
+info,registry,people,Vraj Patel,2af28253

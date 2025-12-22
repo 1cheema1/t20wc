@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Panama
+info,gender,male
+info,season,2024/25
+info,date,2024/12/11
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,18
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bahamas
+info,toss_decision,bat
+info,player_of_match,Festus Benn
+info,umpire,A Gajjar
+info,umpire,M Abbott
+info,reserve_umpire,Vijaya Mallela
+info,match_referee,Phil Whitticase
+info,winner,Bahamas
+info,winner_runs,21
+info,player,Bahamas,M Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,R Davson
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,A Harris
+info,player,Bahamas,AR Nair
+info,player,Panama,Mahmud Jasat
+info,player,Panama,P Jayeshbhai Patel
+info,player,Panama,RDB Ahir
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Irfan Hafejee
+info,player,Panama,P Suman Bhai Ahir
+info,player,Panama,YI Kachhalia
+info,player,Panama,Sohel Ebrahim Desai
+info,player,Panama,Sanjay Kumar Ahir
+info,player,Panama,DK Dahyabhai Ahir
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AR Nair,06907633
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,DK Dahyabhai Ahir,ce9ee68f
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,K Hinds,a268c07b
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M Taylor,92075cdc
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,P Jayeshbhai Patel,3317dc7a
+info,registry,people,P Suman Bhai Ahir,af3042f1
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Davson,7804d401
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,Sanjay Kumar Ahir,d11e0c76
+info,registry,people,Sohel Ebrahim Desai,3ec178e7
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,YI Kachhalia,61650adb
+info,registry,people,Yusuf Ebrahim,2d5c6e88

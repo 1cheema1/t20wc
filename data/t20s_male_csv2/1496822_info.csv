@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,France
+info,gender,male
+info,season,2025
+info,date,2025/08/08
+info,event,Viking Cup
+info,match_number,3
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,France
+info,toss_decision,field
+info,player_of_match,Ibrahim Rahimi
+info,umpire,Madhava Rao
+info,umpire,Usman Afzal
+info,winner,Norway
+info,winner_runs,22
+info,player,Norway,D Abeyrathna
+info,player,Norway,Aminullah Tanha
+info,player,Norway,Walid Ghauri
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Vishal Sharma
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Vinay Ravi
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,Adnan Shnwarei
+info,player,Norway,A Gupta
+info,player,France,Mustafa Omer
+info,player,France,Faisal Safi
+info,player,France,Mukhtar Ghulami
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,A Johnmary
+info,player,France,Zain Ahmad
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,R Mangal
+info,player,France,Dawood Ahmadzai
+info,registry,people,A Gupta,59e1abef
+info,registry,people,A Johnmary,e64c35df
+info,registry,people,Adnan Shnwarei,c8281df7
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Aminullah Tanha,4fde9ae6
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Faisal Safi,5eba6319
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Madhava Rao,66ac328c
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Mustafa Omer,3bd52be1
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Usman Afzal,63aa66b9
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Vishal Sharma,b9d8abd3
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Argentina
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,16
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Panama
+info,toss_decision,bat
+info,player_of_match,A Kirschbaum
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,reserve_umpire,C La Borde
+info,match_referee,Phil Whitticase
+info,winner,Argentina
+info,winner_wickets,6
+info,player,Panama,YI Kachhalia
+info,player,Panama,Mahmud Jasat
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,Breeze Ahir
+info,player,Panama,Irfan Hafejee
+info,player,Panama,RDB Ahir
+info,player,Panama,Khandubhai Ahir
+info,player,Panama,P Suman Bhai Ahir
+info,player,Panama,AM Patel
+info,player,Panama,DK Dahyabhai Ahir
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,A Ferguson
+info,player,Argentina,AAP Rivero
+info,player,Argentina,A Mustafa
+info,player,Argentina,H Fennell
+info,player,Argentina,B Angeltti
+info,player,Argentina,Santiago Duggan
+info,player,Argentina,Santiago Iturbe
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Mustafa,a4571ba9
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,AM Patel,a09323d8
+info,registry,people,AR Maddela,5c861579
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,Breeze Ahir,da09ca26
+info,registry,people,C La Borde,32157f67
+info,registry,people,DK Dahyabhai Ahir,ce9ee68f
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,Khandubhai Ahir,bbf5da29
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,P Suman Bhai Ahir,af3042f1
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Shah,3424e050
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,YI Kachhalia,61650adb
+info,registry,people,Yusuf Ebrahim,2d5c6e88

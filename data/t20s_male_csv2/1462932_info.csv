@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Uganda
+info,gender,male
+info,season,2024/25
+info,date,2024/12/14
+info,event,Africa Continental Cup
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,Riazat Ali Shah
+info,umpire,Gasana Christian
+info,umpire,IO Oyieko
+info,reserve_umpire,Gaston Niyibizi
+info,match_referee,ET Dube
+info,winner,Uganda
+info,winner_wickets,6
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,I Danladi
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Aho
+info,player,Nigeria,I Uboh
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Obuya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,C Kyewuta
+info,player,Uganda,J Miyaji
+info,player,Uganda,F Nsubuga
+info,player,Uganda,F Achelam
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,I Uboh,baf3cf01
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Aho,2e392afa
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d

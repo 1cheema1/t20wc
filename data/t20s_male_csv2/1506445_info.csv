@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Bulgaria
+info,gender,male
+info,season,2025/26
+info,date,2025/11/02
+info,event,Cyprus T20 Tri-Series
+info,match_number,6
+info,venue,Happy Valley Ground 2
+info,city,Episkopi
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,R Mazumder
+info,winner,Cyprus
+info,winner_runs,64
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,AA Senn
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,Adam Senn
+info,player,Cyprus,Lovedeep Singh
+info,player,Cyprus,S Austin
+info,player,Cyprus,A Shahi
+info,player,Cyprus,Waqar Ali
+info,player,Cyprus,S Tharanga
+info,player,Cyprus,CPPM Sadun
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,K Krishnakumar
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Jakob Gul
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,J Dowling
+info,player,Bulgaria,P Mishra
+info,registry,people,A Shahi,2011735e
+info,registry,people,AA Senn,719ac15b
+info,registry,people,Adam Senn,34c3f7b9
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,H Lakov,87a6f411
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,J Dowling,9f16f7c8
+info,registry,people,Jakob Gul,a4696d64
+info,registry,people,K Krishnakumar,ff60c8ba
+info,registry,people,Lovedeep Singh,a6e5e144
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Tharanga,32332eea
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,Waqar Ali,55a73018
+info,registry,people,Zeerak Chughtai,ff0b1636

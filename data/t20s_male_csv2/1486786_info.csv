@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Slovenia
+info,gender,male
+info,season,2025
+info,date,2025/06/21
+info,event,Slovenia tour of Hungary
+info,match_number,1
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Hungary
+info,toss_decision,bat
+info,player_of_match,V Ravindran
+info,winner,Hungary
+info,winner_runs,122
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,Khaibar Deldar
+info,player,Hungary,MP Ainsworth
+info,player,Hungary,Muhammad Usman
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,Ali Farasat
+info,player,Hungary,A Prashar
+info,player,Hungary,Ali Nawaz
+info,player,Hungary,Muhammad Saqlain
+info,player,Hungary,SA Mohandas
+info,player,Slovenia,Muhammad Siddiqui
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,DK Pallekonda
+info,player,Slovenia,Waqar Khan
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,Dayal Joy
+info,player,Slovenia,Ayyaz Qureshi
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,Rizwan Zahoor
+info,registry,people,A Prashar,b18dbaff
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Nawaz,deef8879
+info,registry,people,Ayyaz Qureshi,50dbc953
+info,registry,people,DK Pallekonda,e77c9807
+info,registry,people,Dayal Joy,48fd691d
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,Khaibar Deldar,032c7eab
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Siddiqui,b46b3d9b
+info,registry,people,Muhammad Usman,b7621723
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,Rizwan Zahoor,dbaaad11
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,Waqar Khan,da21531c
+info,registry,people,Zahir Mohammed,7c38942a

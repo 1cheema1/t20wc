@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Malaysia
+info,gender,male
+info,season,2025
+info,date,2025/04/25
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,3
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,umpire,Rudy Ismandy
+info,umpire,V Kalidas
+info,reserve_umpire,D Sevakumaran
+info,match_referee,Ramesh Menon
+info,winner,Malaysia
+info,winner_wickets,7
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,P Thongsa
+info,player,Thailand,N Salekar
+info,player,Thailand,AV Lazarus
+info,player,Thailand,S Desungnoen
+info,player,Thailand,AP Yadav
+info,player,Thailand,N Nuntarach
+info,player,Thailand,S Rungrueang
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,W Ngowhuad
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,Rizwan Haider
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Salekar,54403333
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,P Thongsa,62318525
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,W Ngowhuad,b8cd9955
+info,registry,people,Zubaidi Zulkifle,dca8273d

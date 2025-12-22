@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Rwanda
+info,gender,male
+info,season,2024/25
+info,date,2024/12/12
+info,event,Africa Continental Cup
+info,match_number,15
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,player_of_match,AR Ramjani
+info,umpire,Habib Enesi
+info,umpire,IO Oyieko
+info,reserve_umpire,Gasana Christian
+info,match_referee,ET Dube
+info,winner,Uganda
+info,winner_runs,50
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,SG Mangela
+info,player,Uganda,P Murungi
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,F Achelam
+info,player,Uganda,J Miyaji
+info,player,Uganda,J Baguma
+info,player,Uganda,H Ssenyondo
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,I Niyomugabo
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,RJ Pierre
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Niyomugabo,72bf5103
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RJ Pierre,4fc115af
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Z Bimenyimana,ba57fb08

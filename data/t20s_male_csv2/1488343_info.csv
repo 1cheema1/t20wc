@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Norway
+info,gender,male
+info,season,2025
+info,date,2025/06/15
+info,event,Nordic T20 Cup
+info,match_number,6
+info,venue,"Ishoj Cricket Club, Vejledalen"
+info,city,Ishoj
+info,toss_winner,Sweden
+info,toss_decision,bat
+info,player_of_match,Khizer Ahmed
+info,umpire,Bilal Munir
+info,umpire,Ishaq Saqi
+info,winner,Norway
+info,winner_wickets,2
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,Samarth Shetty
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,J Stanigze
+info,player,Sweden,A Dhabe
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Syed Ali Gillani
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Walid Ghauri
+info,player,Norway,D Abeyrathna
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Faisal Raza
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,AJ Parmar
+info,player,Norway,Mansoor Shah
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,Bilal Munir,c35c63b9
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Ishaq Saqi,dc48b49e
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,Mansoor Shah,d09615c8
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Samarth Shetty,324e5c36
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Syed Ali Gillani,1ee9a0f6
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Walid Ghauri,331e137f

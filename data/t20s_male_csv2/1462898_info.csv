@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Cayman Islands
+info,gender,male
+info,season,2024/25
+info,date,2024/12/12
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,23
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bahamas
+info,toss_decision,bat
+info,player_of_match,J Baker
+info,umpire,C La Borde
+info,umpire,Jermaine Lindo
+info,reserve_umpire,AR Maddela
+info,match_referee,Phil Whitticase
+info,winner,Cayman Islands
+info,winner_wickets,10
+info,player,Bahamas,M Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,R Davson
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,A Harris
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,J Gallimore
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,Ronald Ebanks
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,AF Ifill
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Gallimore,5bebe726
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,M Taylor,92075cdc
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Davson,7804d401
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ronald Ebanks,e21ef7ec
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,S Foster,3595ad3b
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,YSD Seneveratne,0f71478c

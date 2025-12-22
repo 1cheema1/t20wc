@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Czech Republic
+info,team,Romania
+info,gender,male
+info,season,2025
+info,date,2025/08/21
+info,event,Czech Republic tour of Romania
+info,match_number,1
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,Sazib Bhuiyan
+info,winner,Czech Republic
+info,winner_runs,18
+info,player,Czech Republic,S Davizi
+info,player,Czech Republic,RM Magare
+info,player,Czech Republic,S Ramakrishnan
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,Sojib Miah
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,N Tyagi
+info,player,Czech Republic,Ajhar Alam
+info,player,Czech Republic,D Ramani
+info,player,Romania,R Satheesan
+info,player,Romania,Muhammad Moiz
+info,player,Romania,Avishka Iroshan
+info,player,Romania,V Saini
+info,player,Romania,Md Ariyan
+info,player,Romania,S Periyalwar
+info,player,Romania,Rameez Khan
+info,player,Romania,Rohit Kumar
+info,player,Romania,Ijaz Hussain
+info,player,Romania,KA Vimlesh
+info,player,Romania,Luca Petre
+info,registry,people,Ajhar Alam,b18d78f6
+info,registry,people,Avishka Iroshan,2964821b
+info,registry,people,D Ramani,dacf556b
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Ijaz Hussain,dc1dd6c4
+info,registry,people,KA Vimlesh,6d2081aa
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,Md Ariyan,ff4805ee
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,N Tyagi,53984f75
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,RM Magare,d5966b42
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,Rohit Kumar,43462314
+info,registry,people,S Davizi,5787be00
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Ramakrishnan,b0f5175e
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Sojib Miah,2c1f0acf
+info,registry,people,V Saini,0fa81719

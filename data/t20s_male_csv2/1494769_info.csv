@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Qatar
+info,gender,male
+info,season,2025
+info,date,2025/07/23
+info,event,Saudi Arabia tour of Qatar
+info,match_number,5
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Ishtiaq Ahmad
+info,umpire,Abdul Jabbar
+info,umpire,Abdul Salam
+info,reserve_umpire,Tahir Mehmood
+info,match_referee,Aminul Islam
+info,outcome,tie
+info,eliminator,Saudi Arabia
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Ali Abbas
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Nawazish Akhtar
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Zahoor Ahmad
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Abdul Salman Khan
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Shakkir Kassim
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,MM Baig
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,DAM Louis
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,Muhammad Jabir
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Abdul Salam,ff2dd5e4
+info,registry,people,Abdul Salman Khan,3e86080b
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ali Abbas,ffe659ae
+info,registry,people,Aminul Islam,6e60a05f
+info,registry,people,DAM Louis,b975210d
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,MM Baig,add288ea
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Nawazish Akhtar,7503149b
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Shakkir Kassim,2d4d282d
+info,registry,people,Tahir Mehmood,3b6e4c78
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zahoor Ahmad,e0c9637f
+info,registry,people,Zain Ul Abidin,b93b87ae

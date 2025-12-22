@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cayman Islands
+info,team,Suriname
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,13
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Suriname
+info,toss_decision,field
+info,player_of_match,XSD Smith
+info,umpire,A Gajjar
+info,umpire,H Grewal
+info,reserve_umpire,Vijaya Mallela
+info,match_referee,Phil Whitticase
+info,winner,Suriname
+info,winner_wickets,6
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,Ronald Ebanks
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,AF Ifill
+info,player,Suriname,K Hardat
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,G Singh
+info,player,Suriname,YP Dayal
+info,player,Suriname,XSD Smith
+info,player,Suriname,K Jaikaran
+info,player,Suriname,AK Gokoel
+info,player,Suriname,V Hirlal
+info,player,Suriname,AAH Bhikari
+info,player,Suriname,GI Gokoel
+info,player,Suriname,V Shaw
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AAH Bhikari,9dba7a41
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,C Wright,d465c6d7
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GI Gokoel,72caebdc
+info,registry,people,H Grewal,1172f36e
+info,registry,people,J Baker,a12672e0
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Ronald Ebanks,e21ef7ec
+info,registry,people,S Foster,3595ad3b
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424
+info,registry,people,YSD Seneveratne,0f71478c

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Cook Islands
+info,gender,male
+info,season,2025
+info,date,2025/05/07
+info,event,Japan Twenty20 Tri-Series
+info,match_number,1
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,T Parima
+info,umpire,Adam Birss
+info,umpire,D Natarajan
+info,winner,Cook Islands
+info,winner_wickets,3
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,S Desungnoen
+info,player,Thailand,AV Lazarus
+info,player,Thailand,J Coetzee
+info,player,Thailand,N Salekar
+info,player,Thailand,MK Thakur
+info,player,Thailand,P Thongsa
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,A Kalasi
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,C Dickson
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,J Pickering
+info,player,Cook Islands,JL Tutty
+info,player,Cook Islands,T Wuatai
+info,player,Cook Islands,MJM Kavana
+info,registry,people,A Kalasi,8930a2a6
+info,registry,people,A Parima,866d3ac8
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Dickson,26b59073
+info,registry,people,D Natarajan,aa3ea16d
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,J Pickering,1ac8edcf
+info,registry,people,JL Tutty,11b37b2a
+info,registry,people,L Denny,e112732d
+info,registry,people,MJM Kavana,10eef955
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,N Salekar,54403333
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,OE Taylor,24a93558
+info,registry,people,P Thongsa,62318525
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Wuatai,307684f3

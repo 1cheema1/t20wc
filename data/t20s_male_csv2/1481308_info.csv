@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,United States of America
+info,gender,male
+info,season,2025
+info,date,2025/04/21
+info,event,North America T20 Cup
+info,match_number,6
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,Ali Sheikh
+info,umpire,M Thetchanamurthy
+info,umpire,NH Ekanayake
+info,reserve_umpire,C Young
+info,winner,United States of America
+info,winner_wickets,10
+info,player,Bermuda,TS Fray
+info,player,Bermuda,AD Dore
+info,player,Bermuda,JDA Richardson
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,D Sabir
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,J Proctor
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,K Fubler
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Milind Kumar
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,SP Krishnamurthi
+info,player,United States of America,Ali Sheikh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,Yasir Mohammad
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,B Akhilesh Reddy
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,AD Dore,aa867444
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Sheikh,fa4f5a0b
+info,registry,people,B Akhilesh Reddy,2df72aae
+info,registry,people,C Young,169c473b
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,J Proctor,01b0d0a4
+info,registry,people,JDA Richardson,e8c00c13
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,M Thetchanamurthy,23c364a2
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,S Smith,18a0ba24
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Yasir Mohammad,fe5175ce
+info,registry,people,Z Burgess,d0042e16

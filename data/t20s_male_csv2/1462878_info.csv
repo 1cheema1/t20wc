@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Brazil
+info,gender,male
+info,season,2024/25
+info,date,2024/12/06
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,3
+info,venue,"St George's College Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bahamas
+info,toss_decision,bat
+info,player_of_match,M Taylor
+info,umpire,A Gajjar
+info,umpire,M Abbott
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Phil Whitticase
+info,winner,Bahamas
+info,winner_runs,26
+info,player,Bahamas,M Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,E Duff
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Rudolph Fox
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,R Davson
+info,player,Bahamas,A Harris
+info,player,Brazil,W Maximo
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,LF Muller
+info,player,Brazil,Kawsar Khan
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,CC Machado
+info,player,Brazil,R Avery
+info,player,Brazil,G Oliveira
+info,player,Brazil,IC Simao
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Harris,bbafa5d6
+info,registry,people,CC Machado,5992ef03
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,E Duff,b7873c81
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,IC Simao,dcc76384
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,Kawsar Khan,a14b3bc0
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,M Taylor,92075cdc
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,R Davson,7804d401
+info,registry,people,Rudolph Fox,fd1041d2
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e

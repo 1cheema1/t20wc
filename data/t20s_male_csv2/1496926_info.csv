@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Oman
+info,gender,male
+info,season,2025
+info,date,2025/09/15
+info,event,Men's T20 Asia Cup
+info,match_number,7
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,A Sharafu
+info,umpire,Asif Yaqoob
+info,umpire,VK Sharma
+info,reserve_umpire,R Pandit
+info,tv_umpire,RR Wimalasiri
+info,match_referee,RB Richardson
+info,winner,United Arab Emirates
+info,winner_runs,42
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,H Kaushik
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Rohid
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Hammad Mirza
+info,player,Oman,Wasim Ali
+info,player,Oman,Shah Faisal
+info,player,Oman,AR Bisht
+info,player,Oman,V Shukla
+info,player,Oman,J Ramanandi
+info,player,Oman,Hassnain Shah
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,S Shrivastava
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AR Bisht,80fe6790
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,D Parashar,395179e8
+info,registry,people,H Kaushik,2bfec670
+info,registry,people,Haider Ali,dd572696
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Hassnain Shah,7cb931fc
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Pandit,8a604384
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,V Shukla,101b1180
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Wasim Ali,ea59139a

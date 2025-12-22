@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Switzerland
+info,gender,male
+info,season,2025
+info,date,2025/05/30
+info,event,Switzerland tour of Austria
+info,match_number,1
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,Bilal Zalmai
+info,umpire,Pamir Zarawar Khan
+info,umpire,Pawan Kohli
+info,reserve_umpire,Habib Ahmadzai
+info,winner,Austria
+info,winner_runs,29
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,Aqib Iqbal
+info,player,Austria,I Asif
+info,player,Austria,SFS Cheema
+info,player,Austria,Sahel Zadran
+info,player,Austria,J Ghelzai
+info,player,Austria,Zeeshan Goraya
+info,player,Austria,Umair Tariq
+info,player,Austria,KR Jha
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,G Cupido
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,Sheraz Sirwari
+info,player,Switzerland,H Deshan
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,NK Aneesh Kumar
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Johnson,945981e5
+info,registry,people,G Cupido,adbba8db
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,Habib Ahmadzai,fa794790
+info,registry,people,I Asif,663ad386
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,KR Jha,9bdb9aa9
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Pamir Zarawar Khan,ba44be2a
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Sheraz Sirwari,b2431c60
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Zeeshan Goraya,72ae14d0

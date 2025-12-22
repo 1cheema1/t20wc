@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,male
+info,season,2025/26
+info,date,2025/10/23
+info,event,England tour of New Zealand
+info,match_number,3
+info,venue,"Eden Park, Auckland"
+info,city,Auckland
+info,toss_winner,England
+info,toss_decision,field
+info,umpire,DM Koch
+info,umpire,SB Haig
+info,reserve_umpire,T Semmens
+info,tv_umpire,C Black
+info,match_referee,Dave Gilbert
+info,outcome,no result
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,TB Robinson
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,ZGF Foulkes
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,JA Duffy
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,HC Brook
+info,player,England,T Banton
+info,player,England,SM Curran
+info,player,England,JM Cox
+info,player,England,BA Carse
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,player,England,L Wood
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,C Black,75b42f71
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Koch,6d10c034
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Haig,811655b3
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,ZGF Foulkes,30f92334

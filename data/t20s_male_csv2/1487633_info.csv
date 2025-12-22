@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Switzerland
+info,team,Luxembourg
+info,gender,male
+info,season,2025
+info,date,2025/06/22
+info,event,Switzerland tour of Luxembourg
+info,match_number,3
+info,venue,Pierre Werner Cricket Ground
+info,city,Walferdange
+info,toss_winner,Switzerland
+info,toss_decision,bat
+info,winner,Luxembourg
+info,winner_wickets,7
+info,player,Switzerland,H Deshan
+info,player,Switzerland,G Cupido
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,Khalid Niazi
+info,player,Switzerland,Sheraz Sirwari
+info,player,Switzerland,H Elder
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,Mayank Nagayach
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,S Vats
+info,player,Luxembourg,Benjamin Embleton
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,Sareer Shah
+info,registry,people,A Manepalli,36101309
+info,registry,people,A Nanda,704e0160
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Benjamin Embleton,f2d5966a
+info,registry,people,D Johnson,945981e5
+info,registry,people,G Cupido,adbba8db
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,H Elder,637c65f1
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,Khalid Niazi,c57a486f
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,Mayank Nagayach,e401f8a5
+info,registry,people,Milad Momend,84880baf
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,S Vats,1afd4f89
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Sareer Shah,f16953c5
+info,registry,people,Sheraz Sirwari,b2431c60
+info,registry,people,V Vijh,b857468a

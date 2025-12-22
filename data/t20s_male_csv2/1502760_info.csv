@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Botswana
+info,gender,male
+info,season,2025/26
+info,date,2025/10/04
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Malawi
+info,toss_decision,bat
+info,player_of_match,MA Baig
+info,umpire,A Louw
+info,umpire,L Rusere
+info,reserve_umpire,Claus Schumacher
+info,match_referee,GH Pienaar
+info,winner,Malawi
+info,winner_runs,56
+info,player,Malawi,A Limdawala
+info,player,Malawi,C Chete
+info,player,Malawi,Sami Sohail
+info,player,Malawi,G Kansonkho
+info,player,Malawi,SY Nihute
+info,player,Malawi,MA Baig
+info,player,Malawi,SZ Vayani
+info,player,Malawi,D Jakiel
+info,player,Malawi,Kazim Somani
+info,player,Malawi,K Thuchila
+info,player,Malawi,T Makaya
+info,player,Botswana,K Modise
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,T Perera
+info,player,Botswana,M Kasselman
+info,player,Botswana,T Tshose
+info,player,Botswana,K Piet
+info,player,Botswana,D Maisuria
+info,player,Botswana,B Keganne
+info,player,Botswana,B Kgosiemang
+info,player,Botswana,R Aurora
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,A Louw,5eecae5d
+info,registry,people,B Keganne,cc550389
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,C Chete,ef4f539a
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,K Modise,b7f70e36
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,Kazim Somani,d2ebebbe
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,MA Baig,89394502
+info,registry,people,R Aurora,97555d44
+info,registry,people,SY Nihute,56b41ed3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,T Makaya,e3f53051
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4

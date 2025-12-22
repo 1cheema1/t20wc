@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/08/08
+info,event,Viking Cup
+info,match_number,4
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,Sweden
+info,toss_decision,bat
+info,player_of_match,Bilal Zalmai
+info,umpire,Bilal Munir
+info,umpire,SB Ravindra
+info,winner,Austria
+info,winner_wickets,4
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,J Stanigze
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Ihsanullah Wafa
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,A Dhabe
+info,player,Sweden,SN Swamy
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,I Asif
+info,player,Austria,A Randhawa
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Baseer Khan
+info,player,Austria,Arsalan Arif
+info,player,Austria,Hamid Safi
+info,player,Austria,Ziaurahman Shinwari
+info,player,Austria,Zeeshan Goraya
+info,player,Austria,Umair Tariq
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Munir,c35c63b9
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,I Asif,663ad386
+info,registry,people,Ihsanullah Wafa,75a58f94
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,SN Swamy,95382501
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Zeeshan Goraya,72ae14d0
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

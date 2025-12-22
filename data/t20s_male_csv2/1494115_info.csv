@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Nigeria
+info,gender,male
+info,season,2025
+info,date,2025/07/17
+info,event,Pearl of Africa T20I Series
+info,match_number,2
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,Vraj Patel
+info,umpire,IO Oyieko
+info,umpire,John Mayeku
+info,reserve_umpire,J Bamulese
+info,winner,Kenya
+info,winner_runs,20
+info,player,Kenya,DM Gondaria
+info,player,Kenya,P Sharma
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,RR Patel
+info,player,Kenya,S Gill
+info,player,Kenya,JS Kundi
+info,player,Kenya,S Singh
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,Vishil Patel
+info,player,Kenya,Vraj Patel
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,P Useni
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Aho
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Bamulese,e8c8f086
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Sharma,d047f983
+info,registry,people,P Useni,71fa64d6
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Singh,612a395c
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,Vraj Patel,2af28253

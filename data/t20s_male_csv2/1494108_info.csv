@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/07/19
+info,event,Pearl of Africa T20I Series
+info,match_number,6
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,AR Ramjani
+info,umpire,IO Oyieko
+info,umpire,John Mayeku
+info,reserve_umpire,Charles Kariuki
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,6
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Lutaaya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Obuya
+info,player,Uganda,DM Nakrani
+info,player,Uganda,CN Kakuru
+info,player,Uganda,AR Ramjani
+info,player,Uganda,J Miyaji
+info,player,Uganda,C Kyewuta
+info,player,Uganda,F Nsubuga
+info,player,Uganda,M Musinguzi
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Saghir Khan
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Muhammad Rohid
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Parashar,395179e8
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,Haider Ali,dd572696
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,M Musinguzi,34712b35
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Saghir Khan,730d2283
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

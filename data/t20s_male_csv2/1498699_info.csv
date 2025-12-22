@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Austria
+info,gender,male
+info,season,2025
+info,date,2025/08/24
+info,event,Belgium tour of Austria
+info,match_number,4
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Belgium
+info,toss_decision,bat
+info,player_of_match,Aqib Iqbal
+info,umpire,Amir Javed
+info,umpire,Pawan Kohli
+info,reserve_umpire,Abdul Subor Haydari
+info,winner,Austria
+info,winner_wickets,4
+info,player,Belgium,Walid Sahibzada
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,B Niaz
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,S Jamil
+info,player,Belgium,OJ Herrington
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,Sajid Safi
+info,player,Belgium,Iftikhar Kankhel
+info,player,Belgium,Shafiullah Zakhel
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Ranjit Singh
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Baseer Khan
+info,player,Austria,Zeshan Arif
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Sahel Zadran
+info,player,Austria,SFS Cheema
+info,player,Austria,Ziaurahman Shinwari
+info,player,Austria,MPS Cheema
+info,registry,people,Abdul Subor Haydari,c2474a99
+info,registry,people,Amir Javed,23a92bd1
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,B Niaz,b7824537
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,OJ Herrington,59fa2bbc
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,Ranjit Singh,0467bd8d
+info,registry,people,S Jamil,3d6617c6
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Sajid Safi,a8ffa2da
+info,registry,people,Shafiullah Zakhel,ec59f49f
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Walid Sahibzada,523c8494
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zeshan Arif,6829b373
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

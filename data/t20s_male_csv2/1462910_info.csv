@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belize
+info,team,Suriname
+info,gender,male
+info,season,2024/25
+info,date,2024/12/16
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,35
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Belize
+info,toss_decision,bat
+info,player_of_match,K Hardat
+info,umpire,M Abbott
+info,umpire,R Shah
+info,reserve_umpire,AR Maddela
+info,match_referee,Phil Whitticase
+info,winner,Suriname
+info,winner_wickets,4
+info,player,Belize,O Casasola
+info,player,Belize,L Bonner
+info,player,Belize,ML Castillo
+info,player,Belize,NN Banner
+info,player,Belize,BS Stephenson
+info,player,Belize,GG Banner
+info,player,Belize,A Oxley
+info,player,Belize,J Pakeman
+info,player,Belize,Garret Banner
+info,player,Belize,J Pook
+info,player,Belize,Kristan Tillett
+info,player,Suriname,K Hardat
+info,player,Suriname,XSD Smith
+info,player,Suriname,G Singh
+info,player,Suriname,V Shaw
+info,player,Suriname,K Jaikaran
+info,player,Suriname,YP Dayal
+info,player,Suriname,V Hirlal
+info,player,Suriname,Vishaul Singh
+info,player,Suriname,AK Gokoel
+info,player,Suriname,RJ Ramjiawan
+info,player,Suriname,T Ramautar
+info,registry,people,A Oxley,d1317833
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,AR Maddela,5c861579
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,J Pakeman,0cea2730
+info,registry,people,J Pook,84ff65e5
+info,registry,people,K Hardat,f91f59f3
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,Kristan Tillett,4e31ea36
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,ML Castillo,9853b404
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Shah,3424e050
+info,registry,people,RJ Ramjiawan,28442755
+info,registry,people,T Ramautar,730025e8
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,Vishaul Singh,8d913205
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424

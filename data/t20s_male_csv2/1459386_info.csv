@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Botswana
+info,gender,male
+info,season,2024/25
+info,date,2024/11/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,4
+info,venue,University of Lagos Cricket Oval
+info,city,Lagos
+info,toss_winner,Sierra Leone
+info,toss_decision,bat
+info,player_of_match,T Perera
+info,umpire,Claus Schumacher
+info,umpire,Kehinde Olanbiwonnu
+info,reserve_umpire,A Jacobs
+info,match_referee,O Chirombe
+info,winner,Botswana
+info,winner_wickets,5
+info,player,Sierra Leone,A Kainessie
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,Y Jalloh
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,C Bah
+info,player,Sierra Leone,G Sesay
+info,player,Sierra Leone,S Conteh
+info,player,Botswana,K Motlanka
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,T Perera
+info,player,Botswana,V Mbazo
+info,player,Botswana,R Nehonde
+info,player,Botswana,T Tshose
+info,player,Botswana,M Kasselman
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Khumalo
+info,player,Botswana,K Piet
+info,player,Botswana,M Badenhorst
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Kainessie,c7acf05f
+info,registry,people,A Turay,11a22126
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,C Bah,7213d757
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,L Lamin,5a970aab
+info,registry,people,M Badenhorst,8a22e5f0
+info,registry,people,M Kasselman,c6889eb6
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Coker,3239c8a9
+info,registry,people,R Nehonde,4393e047
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,T Perera,456397e5
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14
+info,registry,people,Y Jalloh,7fe9a7e6

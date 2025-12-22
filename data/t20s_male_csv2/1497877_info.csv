@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/09/04
+info,event,United Arab Emirates T20I Tri-Series
+info,match_number,5
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Abrar Ahmed
+info,umpire,Akbar Ali
+info,umpire,Shiju Sam
+info,reserve_umpire,Nadeem Anjum
+info,tv_umpire,Aasif Iqbal
+info,match_referee,Ali Naqvi
+info,winner,Pakistan
+info,winner_runs,31
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Salman Mirza
+info,player,Pakistan,Abrar Ahmed
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,H Kaushik
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United Arab Emirates,Muhammad Rohid
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,D Parashar,395179e8
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,H Kaushik,2bfec670
+info,registry,people,Haider Ali,dd572696
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Nadeem Anjum,7ccbae86
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Mirza,7ab1eab7
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Waseem Muhammad,6f02fe2a

@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Bulgaria
+info,gender,male
+info,season,2025/26
+info,date,2025/11/01
+info,event,Cyprus T20 Tri-Series
+info,match_number,3
+info,venue,Happy Valley Ground 2
+info,city,Episkopi
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,Zeerak Chughtai
+info,winner,Bulgaria
+info,winner_wickets,8
+info,player,Serbia,A Dizija
+info,player,Serbia,WAE Burton
+info,player,Serbia,LA Dunbar
+info,player,Serbia,BM Pecic
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,S Tosic
+info,player,Serbia,N Zimonjic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,S Savkovic
+info,player,Serbia,M Sarenac
+info,player,Serbia,A Lazic
+info,player,Bulgaria,H Lakov
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,Jakob Gul
+info,player,Bulgaria,J Dowling
+info,player,Bulgaria,K Krishnakumar
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Zeerak Chughtai
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Lazic,b9b65f93
+info,registry,people,BM Pecic,71093272
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,H Lakov,87a6f411
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,J Dowling,9f16f7c8
+info,registry,people,Jakob Gul,a4696d64
+info,registry,people,K Krishnakumar,ff60c8ba
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,S Savkovic,a43f5e2b
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+info,registry,people,Zeerak Chughtai,ff0b1636

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turks and Caicos Island
+info,team,Mexico
+info,gender,male
+info,season,2025
+info,date,2025/04/18
+info,event,Central American Cricket Championships
+info,match_number,4
+info,venue,"Clayton Panama, Panama City"
+info,city,Panama City
+info,toss_winner,Turks and Caicos Island
+info,toss_decision,bat
+info,player_of_match,Kaushal Kumar
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,winner,Mexico
+info,winner_wickets,8
+info,player,Turks and Caicos Island,G Bruno
+info,player,Turks and Caicos Island,A McKnight
+info,player,Turks and Caicos Island,M Smith
+info,player,Turks and Caicos Island,S Hunter
+info,player,Turks and Caicos Island,K Jack
+info,player,Turks and Caicos Island,D St Ange
+info,player,Turks and Caicos Island,J Daley
+info,player,Turks and Caicos Island,A Kuthalingham
+info,player,Turks and Caicos Island,G Kuthalingham
+info,player,Turks and Caicos Island,M Turner
+info,player,Turks and Caicos Island,R Johnson
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,SB Wagh
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,J Umanath
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,R Ankad
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,D Panda
+info,registry,people,A Kuthalingham,fd4809c8
+info,registry,people,A McKnight,98aa2a5a
+info,registry,people,AR Maddela,5c861579
+info,registry,people,D Panda,bad1af65
+info,registry,people,D St Ange,ede30898
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,G Bruno,589f2008
+info,registry,people,G Kuthalingham,faff7eac
+info,registry,people,J Daley,7b6623bc
+info,registry,people,J Umanath,f909b98d
+info,registry,people,K Jack,447bf58e
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,M Smith,3296507e
+info,registry,people,M Turner,27847fec
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Johnson,fabbb9e0
+info,registry,people,R Shah,3424e050
+info,registry,people,S Hunter,aac584a8
+info,registry,people,SB Wagh,acf06e10
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570

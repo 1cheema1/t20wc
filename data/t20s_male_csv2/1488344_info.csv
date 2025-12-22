@@ -1,0 +1,62 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Norway
+info,gender,male
+info,season,2025
+info,date,2025/06/15
+info,event,Finland tour of Denmark
+info,venue,"Ishoj Cricket Club, Vejledalen"
+info,city,Ishoj
+info,toss_winner,Finland
+info,toss_decision,bat
+info,umpire,Ishaq Saqi
+info,umpire,SB Ravindra
+info,winner,Finland
+info,winner_runs,22
+info,player,Finland,VS Padhaal
+info,player,Finland,Atif Rasheed
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,AK Mohan
+info,player,Finland,Faraaz Mehti Abbas
+info,player,Finland,A Pusthay
+info,player,Finland,Jordan O'Brien
+info,player,Finland,Madhawa Basnayaka
+info,player,Finland,NM Salonen
+info,player,Finland,Amjad Sher
+info,player,Finland,Raaz Mohammad
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Vishal Sharma
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,A Gupta
+info,player,Norway,Sher Sahak
+info,player,Norway,Walid Ghauri
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ahmadullah Shinwari
+info,player,Norway,AJ Parmar
+info,registry,people,A Gupta,59e1abef
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,Faraaz Mehti Abbas,4233080d
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Ishaq Saqi,dc48b49e
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,Madhawa Basnayaka,6f337915
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Vishal Sharma,b9d8abd3
+info,registry,people,Walid Ghauri,331e137f

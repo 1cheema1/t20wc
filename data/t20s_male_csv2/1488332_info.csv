@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Bahamas
+info,gender,male
+info,season,2025
+info,date,2025/06/19
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,7
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Bahamas
+info,toss_decision,field
+info,player_of_match,DMW Rawlins
+info,umpire,AR Maddela
+info,umpire,DK Butler
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,Zahid Bassarath
+info,match_referee,Dave Gilbert
+info,winner,Bermuda
+info,winner_runs,26
+info,player,Bermuda,TS Fray
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,OGL Bascome
+info,player,Bermuda,MJ Scotland
+info,player,Bermuda,D Sabir
+info,player,Bermuda,Jonte Smith
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,K Fubler
+info,player,Bermuda,Chare Smith
+info,player,Bermuda,S Smith
+info,player,Bahamas,M Taylor
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,K Hinds
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,E Duff
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,J Jemison
+info,player,Bahamas,E Haven
+info,player,Bahamas,DG Weakley
+info,player,Bahamas,K Burrows
+info,player,Bahamas,Sandeep Goud
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Chare Smith,4e1b7998
+info,registry,people,D Sabir,04bc296f
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,DK Butler,671398e3
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,E Duff,b7873c81
+info,registry,people,E Haven,5190900f
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,GT Taylor,c674f722
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,Jonte Smith,ae4d0b45
+info,registry,people,K Burrows,f11f5a92
+info,registry,people,K Fubler,b471ff6c
+info,registry,people,K Hinds,a268c07b
+info,registry,people,M Taylor,92075cdc
+info,registry,people,MJ Scotland,a1cc467d
+info,registry,people,OGL Bascome,94a1827c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Z Burgess,d0042e16
+info,registry,people,Zahid Bassarath,ca6bf044

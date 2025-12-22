@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Saudi Arabia
+info,gender,male
+info,season,2025
+info,date,2025/04/29
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,10
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Ishtiaq Ahmad
+info,umpire,Nasir Ali
+info,umpire,V Kalidas
+info,reserve_umpire,D Sevakumaran
+info,match_referee,Edwin Seah
+info,winner,Saudi Arabia
+info,winner_wickets,7
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,JS Iggo
+info,player,Singapore,G Gune
+info,player,Singapore,C Sridev
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,MA Sherry
+info,player,Singapore,Kashif Khan
+info,player,Singapore,Aslan Jafri
+info,player,Singapore,H Venkataram
+info,player,Singapore,DPS Tyagi
+info,player,Singapore,V Nagpaul
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Syed Faizan Tahir
+info,player,Saudi Arabia,Nawazish Akhtar
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Ghayour Ahmad
+info,player,Saudi Arabia,Waji Ul Hassan
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Aslan Jafri,a14b5f3c
+info,registry,people,C Sridev,5d17f075
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,DPS Tyagi,d5f96736
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,G Gune,5491a9ff
+info,registry,people,Ghayour Ahmad,f87f5e5f
+info,registry,people,H Venkataram,e61cee7b
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,JS Iggo,6af31962
+info,registry,people,Kashif Khan,c6e87b1c
+info,registry,people,MA Sherry,77eb2d60
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,Nawazish Akhtar,7503149b
+info,registry,people,Syed Faizan Tahir,123ab754
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Nagpaul,6d1db278
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zain Ul Abidin,b93b87ae

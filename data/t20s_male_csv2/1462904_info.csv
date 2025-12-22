@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brazil
+info,team,Belize
+info,gender,male
+info,season,2024/25
+info,date,2024/12/15
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier
+info,match_number,29
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Brazil
+info,toss_decision,bat
+info,player_of_match,L Bonner
+info,umpire,C La Borde
+info,umpire,H Grewal
+info,reserve_umpire,M Abbott
+info,match_referee,Phil Whitticase
+info,winner,Belize
+info,winner_wickets,6
+info,player,Brazil,G Caisley
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,LF Muller
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,W Maximo
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,L Maximo
+info,player,Brazil,R Avery
+info,player,Brazil,G Oliveira
+info,player,Brazil,IC Simao
+info,player,Belize,O Casasola
+info,player,Belize,L Bonner
+info,player,Belize,GG Banner
+info,player,Belize,Kristan Tillett
+info,player,Belize,NN Banner
+info,player,Belize,ML Castillo
+info,player,Belize,Garret Banner
+info,player,Belize,BS Stephenson
+info,player,Belize,B Lewis
+info,player,Belize,A Oxley
+info,player,Belize,J Pakeman
+info,registry,people,A Oxley,d1317833
+info,registry,people,B Lewis,f68bac56
+info,registry,people,BS Stephenson,db571b24
+info,registry,people,C La Borde,32157f67
+info,registry,people,G Caisley,0f06d3cd
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,GG Banner,aeb893b4
+info,registry,people,Garret Banner,ac1ddea1
+info,registry,people,H Grewal,1172f36e
+info,registry,people,IC Simao,dcc76384
+info,registry,people,J Pakeman,0cea2730
+info,registry,people,Kristan Tillett,4e31ea36
+info,registry,people,L Bonner,fd94c29f
+info,registry,people,L Maximo,58c0c30c
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,M Abbott,3e5f0c04
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,ML Castillo,9853b404
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,NN Banner,0697b5a1
+info,registry,people,O Casasola,15fe1668
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Avery,094ebfb6
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ivory Coast
+info,team,St Helena
+info,gender,male
+info,season,2024/25
+info,date,2024/11/28
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,13
+info,venue,"Nigeria Cricket Federation Oval 1, Abuja"
+info,city,Abuja
+info,toss_winner,Ivory Coast
+info,toss_decision,bat
+info,player_of_match,J Yon
+info,umpire,Claus Schumacher
+info,umpire,D Odhiambo
+info,reserve_umpire,Stephen Harris
+info,match_referee,O Chirombe
+info,winner,St Helena
+info,winner_wickets,10
+info,player,Ivory Coast,OK Mohamed
+info,player,Ivory Coast,D Issiaka
+info,player,Ivory Coast,KMA Aziz
+info,player,Ivory Coast,KY Wilfried
+info,player,Ivory Coast,MC Alex
+info,player,Ivory Coast,DKJ Claude
+info,player,Ivory Coast,AK Roger
+info,player,Ivory Coast,QF Djakaridja
+info,player,Ivory Coast,M Ibrahim
+info,player,Ivory Coast,O Issouf
+info,player,Ivory Coast,PK Dimitri
+info,player,St Helena,A Yon
+info,player,St Helena,S Crowie
+info,player,St Helena,CR Richards
+info,player,St Helena,B Leo
+info,player,St Helena,AR Leo
+info,player,St Helena,BK Stroud
+info,player,St Helena,J Thomas
+info,player,St Helena,J Yon
+info,player,St Helena,Dane Leo
+info,player,St Helena,D Young
+info,player,St Helena,Delroy Leo
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AK Roger,1f6f321d
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,B Leo,740a5494
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,CR Richards,c10a581f
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Issiaka,933b30c9
+info,registry,people,D Odhiambo,45994517
+info,registry,people,D Young,5d9d83e6
+info,registry,people,DKJ Claude,096601c5
+info,registry,people,Dane Leo,391d8a48
+info,registry,people,Delroy Leo,e71f511e
+info,registry,people,J Thomas,11b785d6
+info,registry,people,J Yon,ecd41f8c
+info,registry,people,KMA Aziz,e8cfd743
+info,registry,people,KY Wilfried,5e72608f
+info,registry,people,M Ibrahim,253bc9d8
+info,registry,people,MC Alex,3a200eb2
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Issouf,5d656f48
+info,registry,people,OK Mohamed,3cb42681
+info,registry,people,PK Dimitri,7e665859
+info,registry,people,QF Djakaridja,9ae09b37
+info,registry,people,S Crowie,4040951f
+info,registry,people,Stephen Harris,fdcfd4aa

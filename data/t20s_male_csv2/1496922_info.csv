@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Bangladesh
+info,gender,male
+info,season,2025
+info,date,2025/09/11
+info,event,Men's T20 Asia Cup
+info,match_number,3
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Liton Das
+info,umpire,RR Wimalasiri
+info,umpire,R Pandit
+info,reserve_umpire,Faisal Afridi
+info,tv_umpire,Asif Yaqoob
+info,match_referee,RB Richardson
+info,winner,Bangladesh
+info,winner_wickets,7
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Kalhan Challu
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,Kalhan Challu,cc6b0cda
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,R Pandit,8a604384
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

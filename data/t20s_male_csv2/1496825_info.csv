@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,France
+info,gender,male
+info,season,2025
+info,date,2025/08/10
+info,event,Viking Cup
+info,venue,"Botkyrka Cricket Center, Stockholm"
+info,city,Stockholm
+info,toss_winner,Sweden
+info,toss_decision,bat
+info,player_of_match,Imal Zuwak
+info,umpire,Madhava Rao
+info,umpire,Usman Afzal
+info,winner,France
+info,winner_wickets,2
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,A Mundra
+info,player,Sweden,Samarth Shetty
+info,player,Sweden,Ihsanullah Wafa
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Aritra Bhakat
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,SK Gedara
+info,player,France,Mukhtar Ghulami
+info,player,France,A Johnmary
+info,player,France,Zain Ahmad
+info,player,France,C Roberts
+info,player,France,Jamshid Nasiri
+info,player,France,L Canessane
+info,player,France,L Smith
+info,player,France,Noman Amjad
+info,player,France,Dawood Ahmadzai
+info,player,France,Zaheer Zahiri
+info,player,France,R Mangal
+info,registry,people,A Johnmary,e64c35df
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Aritra Bhakat,380c2700
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Ihsanullah Wafa,75a58f94
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,L Smith,7e64e33f
+info,registry,people,Madhava Rao,66ac328c
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,R Mangal,5360c9be
+info,registry,people,SK Gedara,84c5c2f2
+info,registry,people,Samarth Shetty,324e5c36
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Usman Afzal,63aa66b9
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff

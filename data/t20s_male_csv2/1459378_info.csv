@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Eswatini
+info,gender,male
+info,season,2024/25
+info,date,2024/11/28
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier Group C
+info,match_number,14
+info,venue,"Nigeria Cricket Federation Oval 2, Abuja"
+info,city,Abuja
+info,toss_winner,Sierra Leone
+info,toss_decision,bat
+info,player_of_match,A Turay
+info,umpire,A Louw
+info,umpire,Masudur Rahman
+info,reserve_umpire,Kehinde Olanbiwonnu
+info,match_referee,O Chirombe
+info,winner,Sierra Leone
+info,winner_runs,109
+info,player,Sierra Leone,A Kainessie
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,Y Jalloh
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,C Bah
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,G Sesay
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,Muhammad Amin
+info,player,Eswatini,J Suleman
+info,player,Eswatini,T Sandeep
+info,player,Eswatini,M Khojbariya
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,R Sandeep
+info,player,Eswatini,M Magagula
+info,player,Eswatini,M Jele
+info,player,Eswatini,S Jele
+info,player,Eswatini,TW Dlamini
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Kainessie,c7acf05f
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Turay,11a22126
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,C Bah,7213d757
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,J Suleman,cacd240a
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,L Lamin,5a970aab
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Khojbariya,e1631e47
+info,registry,people,M Magagula,7a787b98
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Muhammad Amin,ce9ce42f
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Coker,3239c8a9
+info,registry,people,R Sandeep,175937f6
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,S Jele,1c5c65d6
+info,registry,people,T Sandeep,b794a78d
+info,registry,people,TW Dlamini,a1cdd009
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,Y Jalloh,7fe9a7e6

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2025
+info,date,2025/09/23
+info,event,Men's T20 Asia Cup
+info,match_number,15
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Hussain Talat
+info,umpire,Izatullah Safi
+info,umpire,Masudur Rahman
+info,reserve_umpire,R Pandit
+info,tv_umpire,Gazi Sohel
+info,match_referee,RB Richardson
+info,winner,Pakistan
+info,winner_wickets,5
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,N Thushara
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hussain Talat
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Abrar Ahmed
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Pandit,8a604384
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761

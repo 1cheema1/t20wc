@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cook Islands
+info,team,Japan
+info,gender,male
+info,season,2025
+info,date,2025/05/13
+info,event,Cook Islands tour of Japan
+info,match_number,1
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Cook Islands
+info,toss_decision,bat
+info,player_of_match,S Ravichandran
+info,umpire,D Natarajan
+info,umpire,Sagir Parkar
+info,winner,Japan
+info,winner_wickets,2
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,C Dickson
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,J Pickering
+info,player,Cook Islands,MJM Kavana
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,P Vailoa
+info,player,Cook Islands,T Wuatai
+info,player,Japan,KH Abe
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,Abhishek Anand
+info,player,Japan,B Ito-Davis
+info,player,Japan,S Ravichandran
+info,player,Japan,D Suzuki
+info,player,Japan,W Miyauchi
+info,player,Japan,I Takahashi
+info,player,Japan,K Kato-Stafford
+info,player,Japan,Abdul Samad
+info,player,Japan,R Drake
+info,registry,people,A Parima,866d3ac8
+info,registry,people,Abdul Samad,21dbacff
+info,registry,people,Abhishek Anand,2c12bc65
+info,registry,people,B Ito-Davis,96275259
+info,registry,people,C Dickson,26b59073
+info,registry,people,D Natarajan,aa3ea16d
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,J Pickering,1ac8edcf
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Denny,e112732d
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,MJM Kavana,10eef955
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,OE Taylor,24a93558
+info,registry,people,P Vailoa,e0a657ba
+info,registry,people,R Drake,57b3c398
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sagir Parkar,74254300
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Wuatai,307684f3
+info,registry,people,W Miyauchi,fef40097

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Guernsey
+info,gender,male
+info,season,2025
+info,date,2025/07/08
+info,event,ICC Men's T20 World Cup Europe Region Final
+info,match_number,5
+info,venue,"Sportpark Westvliet, Voorburg"
+info,city,The Hague
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,H Carlyon
+info,umpire,R Black
+info,umpire,RJ Warren
+info,reserve_umpire,Aidan Seaver
+info,match_referee,Denavon Hayles
+info,winner,Jersey
+info,winner_runs,22
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,ZM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,J Sumerauer
+info,player,Jersey,C Brennan
+info,player,Jersey,JE Dunford
+info,player,Jersey,DG Blampied
+info,player,Jersey,CW Perchard
+info,player,Jersey,B Ward
+info,player,Jersey,PB Gouge
+info,player,Guernsey,B Fitchet
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,Harry Johnson
+info,player,Guernsey,A Martel
+info,player,Guernsey,C Birch
+info,player,Guernsey,ACF Stokes
+info,player,Guernsey,LT Bichard
+info,registry,people,A Martel,65cd62a9
+info,registry,people,ACF Stokes,7f74b21d
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B Fitchet,d77ecd14
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Birch,8a6186f1
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,Harry Johnson,80b92515
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,PB Gouge,fe2432c4
+info,registry,people,R Black,156c8fb1
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,ZM Tribe,96fe3e9f

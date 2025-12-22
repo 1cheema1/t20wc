@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2025
+info,date,2025/09/10
+info,event,South Africa tour of England
+info,match_number,1
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,D Ferreira
+info,umpire,GD Lloyd
+info,umpire,MJ Saggers
+info,reserve_umpire,RJ Warren
+info,tv_umpire,M Burns
+info,match_referee,J Srinath
+info,winner,South Africa
+info,winner_runs,14
+info,method,D/L
+info,player,South Africa,AK Markram
+info,player,South Africa,RD Rickelton
+info,player,South Africa,LG Pretorius
+info,player,South Africa,D Brevis
+info,player,South Africa,D Ferreira
+info,player,South Africa,T Stubbs
+info,player,South Africa,M Jansen
+info,player,South Africa,C Bosch
+info,player,South Africa,K Rabada
+info,player,South Africa,KT Maphaka
+info,player,South Africa,LB Williams
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,HC Brook
+info,player,England,T Banton
+info,player,England,WG Jacks
+info,player,England,SM Curran
+info,player,England,J Overton
+info,player,England,LA Dawson
+info,player,England,L Wood
+info,player,England,AU Rashid
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,J Overton,59559bc2
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WG Jacks,9caf69a1

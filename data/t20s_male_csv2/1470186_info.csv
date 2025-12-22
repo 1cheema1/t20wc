@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Malta
+info,gender,male
+info,season,2024/25
+info,date,2025/02/03
+info,event,Malta Tri-Nation T20I Series
+info,match_number,1
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,Abbas Ghani
+info,umpire,S Fernando
+info,umpire,V Sridhar
+info,reserve_umpire,Vinay Malhotra
+info,winner,Hungary
+info,winner_runs,8
+info,method,D/L
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,JN du Plooy
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,MP Ainsworth
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,A Prashar
+info,player,Hungary,Muhammad Usman (3)
+info,player,Hungary,TV Valivarthi
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Muhammad Saqlain
+info,player,Malta,DR Patankar
+info,player,Malta,R Dianish
+info,player,Malta,Jaspal Singh
+info,player,Malta,E Mathew
+info,player,Malta,VP Thamotharam
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,Sobu George
+info,player,Malta,C Sudarsanan
+info,player,Malta,Amar Sharma
+info,player,Malta,Washeem Abbas
+info,player,Malta,D Marks
+info,registry,people,A Prashar,b18dbaff
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Marks,0813a8b1
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,JN du Plooy,945f5357
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Usman (3),b7621723
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,Sobu George,bed559c8
+info,registry,people,TV Valivarthi,56153e74
+info,registry,people,V Sridhar,42314166
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

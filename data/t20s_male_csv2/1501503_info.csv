@@ -1,0 +1,61 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Eswatini
+info,team,Mozambique
+info,gender,male
+info,season,2025
+info,date,2025/09/12
+info,event,Mozambique tour of Eswatini
+info,match_number,2
+info,venue,Malkerns Country Club oval
+info,city,Malkerns
+info,toss_winner,Eswatini
+info,toss_decision,bat
+info,player_of_match,Adil Butt
+info,winner,Eswatini
+info,winner_runs,5
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,M Kulfiwala
+info,player,Eswatini,M Khojbariya
+info,player,Eswatini,Eric Phiri
+info,player,Eswatini,H Rashid
+info,player,Eswatini,H Jangariya
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,Kamrul Hasan
+info,player,Eswatini,M Magagula
+info,player,Eswatini,M Jele
+info,player,Eswatini,S Kubheka
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,LI Salomone
+info,player,Mozambique,JM Joao
+info,player,Mozambique,VE Tembo
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,LF Mavume
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,JJ Chicuele
+info,player,Mozambique,MA Algi
+info,player,Mozambique,N Ndzeute
+info,player,Mozambique,CM Mbebe
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,CB Roposo,31f01815
+info,registry,people,CM Mbebe,e7db2a56
+info,registry,people,Eric Phiri,b6355062
+info,registry,people,H Jangariya,0ec2277a
+info,registry,people,H Rashid,725c73f2
+info,registry,people,JJ Chicuele,97b5f23d
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,JM Joao,2ef6c852
+info,registry,people,Kamrul Hasan,6531eeea
+info,registry,people,LF Mavume,5b531900
+info,registry,people,LI Salomone,a7b67d5d
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Khojbariya,e1631e47
+info,registry,people,M Kulfiwala,1f5622a9
+info,registry,people,M Magagula,7a787b98
+info,registry,people,MA Algi,17f507e7
+info,registry,people,N Ndzeute,63b1093f
+info,registry,people,S Jele,1c5c65d6
+info,registry,people,S Kubheka,d0178c53
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,VE Tembo,1439a13c

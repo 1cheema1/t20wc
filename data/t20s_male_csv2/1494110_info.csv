@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,United Arab Emirates
+info,gender,male
+info,season,2025
+info,date,2025/07/23
+info,event,Pearl of Africa T20I Series
+info,match_number,11
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,Zuhaib Zubair
+info,umpire,Charles Kariuki
+info,umpire,IO Oyieko
+info,reserve_umpire,John Mayeku
+info,match_referee,O Chirombe
+info,winner,United Arab Emirates
+info,winner_wickets,7
+info,player,Kenya,DM Gondaria
+info,player,Kenya,P Sharma
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,S Gill
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,LN Oluoch
+info,player,Kenya,F Mutua
+info,player,Kenya,SO Ngoche
+info,player,Kenya,P Koech
+info,player,Kenya,Vraj Patel
+info,player,United Arab Emirates,Muhammad Zohaib
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Muhammad Rohid
+info,player,United Arab Emirates,Matiullah Khan
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Sharma,5661ef90
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,F Mutua,21b67523
+info,registry,people,Haider Ali,dd572696
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,Matiullah Khan,083e01d9
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muhammad Zohaib,8f75193e
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

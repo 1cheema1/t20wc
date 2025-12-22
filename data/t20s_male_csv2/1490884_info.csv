@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Malta
+info,gender,male
+info,season,2025
+info,date,2025/06/26
+info,event,Continental Cup
+info,match_number,3
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,Muhammad Muneeb
+info,winner,Belgium
+info,winner_runs,65
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,A Raza
+info,player,Belgium,B Niaz
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,F Khaliq
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Rafiulah Alokozai
+info,player,Belgium,Iftikhar Kankhel
+info,player,Belgium,Zaki Ul Hassan
+info,player,Malta,Mehboob Ali
+info,player,Malta,Mohammed Qasim
+info,player,Malta,P Pushparajan
+info,player,Malta,R Dianish
+info,player,Malta,Jaspal Singh
+info,player,Malta,SB Patel
+info,player,Malta,Imran Ameer
+info,player,Malta,Muhammad Ajmal
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Washeem Abbas
+info,player,Malta,D Marks
+info,registry,people,A Raza,838bc6ab
+info,registry,people,B Niaz,b7824537
+info,registry,people,D Marks,0813a8b1
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,Iftikhar Kankhel,449d4f17
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Mohammed Qasim,a120e81b
+info,registry,people,Muhammad Ajmal,0782aec3
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,Rafiulah Alokozai,1f22730e
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zaki Ul Hassan,1d6d8a8b

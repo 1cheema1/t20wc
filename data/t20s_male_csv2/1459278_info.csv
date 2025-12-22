@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,United Arab Emirates
+info,gender,male
+info,season,2024/25
+info,date,2024/11/28
+info,event,ICC Men's T20 World Cup Asia Qualifier B
+info,match_number,21
+info,venue,University of Doha for Science and Technology
+info,city,Doha
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,A Sharafu
+info,umpire,Ahmed Shah Durrani
+info,umpire,BB Pradhan
+info,reserve_umpire,VG Rathi
+info,match_referee,Ali Naqvi
+info,winner,United Arab Emirates
+info,winner_wickets,8
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,SS Kang
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,D Parashar,395179e8
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,SS Kang,797ee165
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

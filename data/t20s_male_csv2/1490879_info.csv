@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Philippines
+info,team,South Korea
+info,gender,male
+info,season,2025
+info,date,2025/07/12
+info,event,Indonesia Tri-Nation T20I Series
+info,match_number,10
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Philippines
+info,toss_decision,bat
+info,player_of_match,A Donovan
+info,umpire,Anwesh Bose
+info,umpire,Yousuf Wadu
+info,match_referee,F Shony
+info,winner,Philippines
+info,winner_runs,85
+info,player,Philippines,AS Samra
+info,player,Philippines,ASF Sirah
+info,player,Philippines,M Podosky
+info,player,Philippines,A Donovan
+info,player,Philippines,N Tanner
+info,player,Philippines,J Tuffin
+info,player,Philippines,HER Tyler
+info,player,Philippines,G Chohan
+info,player,Philippines,GR Russ
+info,player,Philippines,FN Walsh
+info,player,Philippines,KDA Lukies
+info,player,South Korea,DVD Madampage
+info,player,South Korea,BI Dilruksha
+info,player,South Korea,HMHE Parsons
+info,player,South Korea,Nishat Sakib
+info,player,South Korea,S Maduranga
+info,player,South Korea,Bilal Ahmad Mir
+info,player,South Korea,Kuldeep Gurjar
+info,player,South Korea,Saurabh Kumar
+info,player,South Korea,Kim Daeyeon
+info,player,South Korea,K Babu
+info,player,South Korea,Basharat Hussain
+info,registry,people,A Donovan,02888f23
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,ASF Sirah,06bcade5
+info,registry,people,Anwesh Bose,3bdae121
+info,registry,people,BI Dilruksha,bf60e1d2
+info,registry,people,Basharat Hussain,dcdc9b49
+info,registry,people,Bilal Ahmad Mir,2237eb05
+info,registry,people,DVD Madampage,f681fa6e
+info,registry,people,F Shony,85712af4
+info,registry,people,FN Walsh,da738783
+info,registry,people,G Chohan,b978780e
+info,registry,people,GR Russ,1f28fdfd
+info,registry,people,HER Tyler,0ba9de33
+info,registry,people,HMHE Parsons,0ca1ea55
+info,registry,people,J Tuffin,8069f81f
+info,registry,people,K Babu,34e10659
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,Kim Daeyeon,4a51c045
+info,registry,people,Kuldeep Gurjar,2306b48a
+info,registry,people,M Podosky,c46999c7
+info,registry,people,N Tanner,5f5efae1
+info,registry,people,Nishat Sakib,554f19e4
+info,registry,people,S Maduranga,68f24545
+info,registry,people,Saurabh Kumar,afb1e61d
+info,registry,people,Yousuf Wadu,cf41005c

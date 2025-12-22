@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Romania
+info,gender,male
+info,season,2025
+info,date,2025/06/28
+info,event,Continental Cup
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,Mehboob Ali
+info,winner,Malta
+info,winner_runs,13
+info,method,D/L
+info,player,Malta,Mehboob Ali
+info,player,Malta,R Dianish
+info,player,Malta,P Pushparajan
+info,player,Malta,Mohammed Qasim
+info,player,Malta,Jaspal Singh
+info,player,Malta,Muhammad Ajmal
+info,player,Malta,Imran Ameer
+info,player,Malta,SB Patel
+info,player,Malta,Gaurav Maithani
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Washeem Abbas
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,Muhammad Moiz
+info,player,Romania,V Saini
+info,player,Romania,Md Ariyan
+info,player,Romania,R Satheesan
+info,player,Romania,Rameez Khan
+info,player,Romania,Avishka Iroshan
+info,player,Romania,Luca Petre
+info,player,Romania,M Koli
+info,player,Romania,R Pisal
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Avishka Iroshan,2964821b
+info,registry,people,Gaurav Maithani,58ccba69
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Md Ariyan,ff4805ee
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Mohammed Qasim,a120e81b
+info,registry,people,Muhammad Ajmal,0782aec3
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,R Pisal,e072b9d5
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,Washeem Abbas,6de4e430

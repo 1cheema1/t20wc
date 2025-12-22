@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Bahrain
+info,gender,male
+info,season,2024/25
+info,date,2025/03/17
+info,event,Malaysia Tri-Nation T20I Series
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Imran Anwar
+info,umpire,D Sevakumaran
+info,umpire,V Kalidas
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,B Ramani
+info,winner,Bahrain
+info,winner_wickets,8
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Shahid Wasif
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,B Ramani,92ad5353
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,Shahid Wasif,2cc08c3c
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

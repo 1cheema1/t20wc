@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Hungary
+info,gender,male
+info,season,2025
+info,date,2025/08/17
+info,event,Norway Tri-Nation T20I Series
+info,match_number,2
+info,venue,"Stubberudmyra Cricket Ground, Oslo"
+info,city,Oslo
+info,toss_winner,Hungary
+info,toss_decision,field
+info,player_of_match,Saeed Ahmed
+info,winner,Sweden
+info,winner_runs,79
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,A Mundra
+info,player,Sweden,YS Chauhan
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,J Stanigze
+info,player,Sweden,A Dhabe
+info,player,Sweden,SK Gedara
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Khalid Zahid
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,JM Polarouthu
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Ali Nawaz
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,SA Mohandas
+info,player,Hungary,KN Gabhane
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Kamran Wahid
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Nawaz,deef8879
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,J Stanigze,935305fd
+info,registry,people,JM Polarouthu,e1481606
+info,registry,people,KN Gabhane,28252261
+info,registry,people,Kamran Wahid,5592153b
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,SK Gedara,84c5c2f2
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,YS Chauhan,fb3233d4
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

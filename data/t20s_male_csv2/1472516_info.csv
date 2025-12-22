@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Ireland
+info,gender,male
+info,season,2025
+info,date,2025/06/15
+info,event,West Indies tour of Ireland
+info,match_number,3
+info,venue,"Bready Cricket Club, Magheramason, Bready"
+info,city,Bready
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,E Lewis
+info,umpire,Jonathan Kennedy
+info,umpire,R Black
+info,reserve_umpire,M Hawthorne
+info,tv_umpire,Aidan Seaver
+info,match_referee,JJ Crowe
+info,winner,West Indies
+info,winner_runs,62
+info,player,West Indies,E Lewis
+info,player,West Indies,SD Hope
+info,player,West Indies,R Powell
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,KU Carty
+info,player,West Indies,JO Holder
+info,player,West Indies,R Shepherd
+info,player,West Indies,RL Chase
+info,player,West Indies,G Motie
+info,player,West Indies,AJ Hosein
+info,player,West Indies,AS Joseph
+info,player,Ireland,PR Stirling
+info,player,Ireland,GR Adair
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,TH Tector
+info,player,Ireland,GH Dockrell
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,L McCarthy
+info,player,Ireland,MJ Humphreys
+info,player,Ireland,B White
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GR Adair,4ec96094
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JO Holder,0f721006
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,TH Tector,0348f9a5

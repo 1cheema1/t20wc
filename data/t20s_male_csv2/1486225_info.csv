@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Slovenia
+info,gender,male
+info,season,2025
+info,date,2025/05/17
+info,event,Slovenia tour of Austria
+info,match_number,1
+info,venue,"Velden Cricket Ground, Latschach"
+info,city,Latschach
+info,toss_winner,Slovenia
+info,toss_decision,field
+info,player_of_match,Aqib Iqbal
+info,umpire,DK Chamunni
+info,umpire,Pamir Zarawar Khan
+info,reserve_umpire,Pawan Kohli
+info,winner,Austria
+info,winner_runs,75
+info,player,Austria,Karanbir Singh
+info,player,Austria,Zeeshan Goraya
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Arsalan Arif
+info,player,Austria,KR Jha
+info,player,Austria,Mansoor Safi
+info,player,Austria,Umair Tariq
+info,player,Austria,Hamid Safi
+info,player,Austria,J Ghelzai
+info,player,Austria,Ziaurahman Shinwari
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,D Matla
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,P Pustoslemsek
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,Waqar Khan
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,Awais Ikram
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Awais Ikram,91e035c6
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,D Matla,d1bec7a6
+info,registry,people,DK Chamunni,464f6682
+info,registry,people,Hamid Safi,ec4ae12d
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,J Ghelzai,b38a7890
+info,registry,people,KR Jha,9bdb9aa9
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Mansoor Safi,86d7a2d2
+info,registry,people,P Pustoslemsek,de6ad58b
+info,registry,people,Pamir Zarawar Khan,ba44be2a
+info,registry,people,Pawan Kohli,b918fe6d
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,Waqar Khan,da21531c
+info,registry,people,Zeeshan Goraya,72ae14d0
+info,registry,people,Ziaurahman Shinwari,f1e7f97c

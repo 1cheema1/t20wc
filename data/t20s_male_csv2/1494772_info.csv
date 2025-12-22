@@ -1,0 +1,61 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Estonia
+info,team,Finland
+info,gender,male
+info,season,2025
+info,date,2025/07/27
+info,event,Finland tour of Estonia
+info,match_number,3
+info,venue,Estonian National Cricket and Rugby Field
+info,city,Tallinn
+info,toss_winner,Finland
+info,toss_decision,field
+info,player_of_match,MB Tambe
+info,winner,Finland
+info,winner_wickets,5
+info,player,Estonia,S Gooch
+info,player,Estonia,Habib Khan
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,Bilal Masud
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,S Hook
+info,player,Estonia,Muhammad Usman
+info,player,Estonia,R Baruah
+info,player,Estonia,Zeeshan Ali
+info,player,Estonia,P Gheewala
+info,player,Estonia,R Sekaran
+info,player,Finland,VS Padhaal
+info,player,Finland,AK Mohan
+info,player,Finland,Faraaz Mehti Abbas
+info,player,Finland,PUKK Arachchige
+info,player,Finland,Jordan O'Brien
+info,player,Finland,NM Salonen
+info,player,Finland,Amjad Sher
+info,player,Finland,Junaid Khan
+info,player,Finland,Akhil Arjunan
+info,player,Finland,MB Tambe
+info,player,Finland,Madhawa Basnayaka
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,Faraaz Mehti Abbas,4233080d
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Junaid Khan,670e6804
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,Madhawa Basnayaka,6f337915
+info,registry,people,Muhammad Usman,82a7dfdd
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,PUKK Arachchige,1ef6ed2b
+info,registry,people,R Baruah,41b63677
+info,registry,people,R Sekaran,5da43a10
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Hook,eba871dd
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Zeeshan Ali,2c89dbf9

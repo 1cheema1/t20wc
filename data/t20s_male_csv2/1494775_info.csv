@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Switzerland
+info,team,Estonia
+info,gender,male
+info,season,2025
+info,date,2025/08/03
+info,event,Switzerland tour of Estonia
+info,match_number,3
+info,venue,Estonian National Cricket and Rugby Field
+info,city,Tallinn
+info,toss_winner,Switzerland
+info,toss_decision,bat
+info,player_of_match,H Deshan
+info,winner,Switzerland
+info,winner_runs,41
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,H Deshan
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Qateel Zabiullah
+info,player,Switzerland,D Johnson
+info,player,Switzerland,Jai Sinh
+info,player,Switzerland,Khalid Niazi
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,K Fletcher
+info,player,Estonia,Habib Khan
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,Muhammad Usman
+info,player,Estonia,Bilal Masud
+info,player,Estonia,S Hook
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,Zeeshan Ali
+info,player,Estonia,V Hettiarachchi
+info,player,Estonia,Elias Hasan
+info,player,Estonia,A Paul
+info,player,Estonia,K Vislapuu
+info,registry,people,A Paul,fa308279
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,D Johnson,945981e5
+info,registry,people,Elias Hasan,f74a1394
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,H Deshan,cdc9bbec
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,Jai Sinh,10ae134c
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,Khalid Niazi,c57a486f
+info,registry,people,Muhammad Usman,82a7dfdd
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Qateel Zabiullah,a0339ef4
+info,registry,people,S Hook,eba871dd
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,V Hettiarachchi,80b544e7
+info,registry,people,Zeeshan Ali,2c89dbf9

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Bangladesh
+info,gender,male
+info,season,2025
+info,date,2025/07/24
+info,event,Pakistan tour of Bangladesh
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Sahibzada Farhan
+info,umpire,Gazi Sohel
+info,umpire,Masudur Rahman
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Neeyamur Rashid
+info,winner,Pakistan
+info,winner_runs,74
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Hassan Nawaz
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Hussain Talat
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Abbas Afridi
+info,player,Pakistan,Ahmed Daniyal
+info,player,Pakistan,Salman Mirza
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Mohammad Naim
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Mohammad Saifuddin
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Shoriful Islam
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahmed Daniyal,9656afbf
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Mirza,7ab1eab7
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Taskin Ahmed,ef18b66e

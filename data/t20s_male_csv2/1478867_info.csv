@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,New Zealand
+info,gender,male
+info,season,2025
+info,date,2025/07/18
+info,event,Zimbabwe Twenty20 Tri-Series
+info,match_number,3
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,DP Conway
+info,umpire,F Mutizwa
+info,umpire,L Rusere
+info,reserve_umpire,I Chabi
+info,tv_umpire,P Sizara
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,TT Maposa
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,T Gwandu
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,DP Conway
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,BJ Jacobs
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,AF Milne
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,C Madande,3560a786
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TT Maposa,5feead83
+info,registry,people,W Madhevere,a879b92c

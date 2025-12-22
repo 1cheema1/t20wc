@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Romania
+info,gender,male
+info,season,2025/26
+info,date,2025/10/19
+info,event,Austria tour of Romania
+info,match_number,4
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,Bilal Zalmai
+info,winner,Austria
+info,winner_runs,42
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Amar Naeem
+info,player,Austria,A Randhawa
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Irfan Safi
+info,player,Austria,Ranjit Singh
+info,player,Austria,Baseer Khan
+info,player,Austria,Arsalan Arif
+info,player,Austria,Umair Tariq
+info,player,Austria,SFS Cheema
+info,player,Romania,Taranjeet Singh
+info,player,Romania,G Manan
+info,player,Romania,R Satheesan
+info,player,Romania,Md Ariyan
+info,player,Romania,Avishka Iroshan
+info,player,Romania,Rohit Kumar
+info,player,Romania,J Fernando
+info,player,Romania,S Periyalwar
+info,player,Romania,T Sandaruwan
+info,player,Romania,R Pisal
+info,player,Romania,J Khadka
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Arsalan Arif,cc65e4a4
+info,registry,people,Avishka Iroshan,2964821b
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,G Manan,d7265622
+info,registry,people,Irfan Safi,6c53ffb2
+info,registry,people,J Fernando,898a21a4
+info,registry,people,J Khadka,191ee2f2
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,Md Ariyan,ff4805ee
+info,registry,people,R Pisal,e072b9d5
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,Ranjit Singh,0467bd8d
+info,registry,people,Rohit Kumar,43462314
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,SFS Cheema,507fc658
+info,registry,people,T Sandaruwan,2c31f58a
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,Umair Tariq,67ec2b09

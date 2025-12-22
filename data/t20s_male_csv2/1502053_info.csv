@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2025/26
+info,date,2025/11/27
+info,event,Pakistan T20I Tri-Series
+info,match_number,6
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,PVD Chameera
+info,umpire,Ahsan Raza
+info,umpire,Faisal Afridi
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,Rashid Riaz
+info,match_referee,Reon King
+info,winner,Sri Lanka
+info,winner_runs,6
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,K Mishara
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,J Liyanage
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,P Rathnayake
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,E Malinga
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Salman Mirza
+info,player,Pakistan,Abrar Ahmed
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,K Mishara,65cebd5d
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,P Rathnayake,c1fdfb46
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Reon King,20fbf68c
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Mirza,7ab1eab7
+info,registry,people,Usman Khan,bafb9238

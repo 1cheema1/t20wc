@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Oman
+info,gender,male
+info,season,2025/26
+info,date,2025/11/16
+info,event,Asia Cup Rising Stars
+info,match_number,5
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,Wasim Ali
+info,umpire,Ramasamy Venkatesh
+info,umpire,VK Sharma
+info,reserve_umpire,Akbar Ali
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,V Narayan Kutty
+info,winner,Oman
+info,winner_wickets,2
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,MR Kumar
+info,player,United Arab Emirates,Shoaib Khan
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,YK Rai
+info,player,United Arab Emirates,Muhammad Arfan
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Muhammad Rohid
+info,player,United Arab Emirates,Zahid Ali
+info,player,United Arab Emirates,Muhammad Farooq
+info,player,Oman,Hammad Mirza
+info,player,Oman,Sufyan Yousaf
+info,player,Oman,K Sonavale
+info,player,Oman,Wasim Ali
+info,player,Oman,LN Saishiv
+info,player,Oman,AR Bisht
+info,player,Oman,Zikria Islam
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,Muzahir Raza
+info,player,Oman,S Shrivastava
+info,player,Oman,Shafiq Jan
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AR Bisht,80fe6790
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,K Sonavale,10c158cc
+info,registry,people,LN Saishiv,a5736b73
+info,registry,people,MR Kumar,c1c47acd
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Arfan,1294ee6d
+info,registry,people,Muhammad Farooq,8f3c6b8a
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,Muzahir Raza,60606200
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Shafiq Jan,11cebda3
+info,registry,people,Shoaib Khan,fdee4a01
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,Sufyan Yousaf,a591a202
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Wasim Ali,ea59139a
+info,registry,people,YK Rai,a3e241da
+info,registry,people,Zahid Ali,0d15a8c9
+info,registry,people,Zikria Islam,a6de4c41

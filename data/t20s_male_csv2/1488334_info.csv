@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Canada
+info,gender,male
+info,season,2025
+info,date,2025/06/21
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,9
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,field
+info,player_of_match,Kaleem Sana
+info,umpire,DK Butler
+info,umpire,GO Brathwaite
+info,reserve_umpire,Zahid Bassarath
+info,tv_umpire,AR Maddela
+info,match_referee,Dave Gilbert
+info,winner,Canada
+info,winner_wickets,7
+info,player,Bahamas,M Taylor
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,E Duff
+info,player,Bahamas,K Hinds
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,J Jemison
+info,player,Bahamas,JR Barry
+info,player,Bahamas,J Gallimore
+info,player,Bahamas,A Gulati
+info,player,Bahamas,E Haven
+info,player,Canada,YS Samra
+info,player,Canada,DS Bajwa
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,K Tathgur
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Shivam Sharma
+info,player,Canada,Kaleem Sana
+info,player,Canada,Ansh Patel
+info,registry,people,A Gulati,82903f3a
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Ansh Patel,9e76cdb3
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DK Butler,671398e3
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,E Duff,b7873c81
+info,registry,people,E Haven,5190900f
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,GT Taylor,c674f722
+info,registry,people,H Thaker,c01d7726
+info,registry,people,J Gallimore,5bebe726
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,K Hinds,a268c07b
+info,registry,people,K Tathgur,f190c775
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Taylor,92075cdc
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,Shivam Sharma,5bdeeed4
+info,registry,people,YS Samra,d02c40ab
+info,registry,people,Zahid Bassarath,ca6bf044

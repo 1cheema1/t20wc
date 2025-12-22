@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Sweden
+info,gender,male
+info,season,2025
+info,date,2025/06/14
+info,event,Nordic T20 Cup
+info,match_number,3
+info,venue,Koge Cricket Club
+info,city,Koge
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,Samiullah Rahmani
+info,umpire,Ishaq Saqi
+info,umpire,SB Ravindra
+info,winner,Denmark
+info,winner_runs,18
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,SA Ahmad
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Lucky Ali
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Saud Munir
+info,player,Denmark,Shakeel Zeb
+info,player,Denmark,E Karimi
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,J Stanigze
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,A Dhabe
+info,player,Sweden,Syed Ali Gillani
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,E Karimi,95bd9407
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Ishaq Saqi,dc48b49e
+info,registry,people,J Stanigze,935305fd
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Shakeel Zeb,4709e746
+info,registry,people,Syed Ali Gillani,1ee9a0f6
+info,registry,people,T Bharaj,49556abb

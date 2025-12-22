@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Thailand
+info,gender,male
+info,season,2025
+info,date,2025/04/26
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,6
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Manpreet Singh
+info,umpire,Mathan Kumar
+info,umpire,V Kalidas
+info,reserve_umpire,L Poobalan
+info,match_referee,Edwin Seah
+info,winner,Singapore
+info,winner_runs,10
+info,player,Singapore,HK Kukreja
+info,player,Singapore,JS Iggo
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,G Gune
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,MA Sherry
+info,player,Singapore,Kashif Khan
+info,player,Singapore,Aslan Jafri
+info,player,Singapore,C Sridev
+info,player,Singapore,DPS Tyagi
+info,player,Singapore,H Venkataram
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,S Desungnoen
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Salekar
+info,player,Thailand,N Nuntarach
+info,player,Thailand,P Thongsa
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,W Ngowhuad
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Aslan Jafri,a14b5f3c
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Sridev,5d17f075
+info,registry,people,DPS Tyagi,d5f96736
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,G Gune,5491a9ff
+info,registry,people,H Venkataram,e61cee7b
+info,registry,people,HK Kukreja,b67bfbf8
+info,registry,people,JS Iggo,6af31962
+info,registry,people,Kashif Khan,c6e87b1c
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,MA Sherry,77eb2d60
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mathan Kumar,da596754
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Salekar,54403333
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,P Thongsa,62318525
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,W Ngowhuad,b8cd9955
+info,registry,people,Y Saranonnakkun,9c93c0a3

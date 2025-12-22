@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Luxembourg
+info,gender,male
+info,season,2025
+info,date,2025/07/25
+info,event,Budapest Cup
+info,match_number,3
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Hungary
+info,toss_decision,bat
+info,player_of_match,Muhammad Saqlain
+info,winner,Hungary
+info,winner_runs,70
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,V Ravindran
+info,player,Hungary,MP Ainsworth
+info,player,Hungary,Muhammad Usman
+info,player,Hungary,A Prashar
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Muhammad Saqlain
+info,player,Hungary,Sadat Said
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,Mayank Nagayach
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,Kamal Soukhiya
+info,player,Luxembourg,Sareer Shah
+info,player,Luxembourg,Milad Momend
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Manepalli,36101309
+info,registry,people,A Prashar,b18dbaff
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,Kamal Soukhiya,64457c72
+info,registry,people,MP Ainsworth,ae4a47d8
+info,registry,people,Mayank Nagayach,e401f8a5
+info,registry,people,Milad Momend,84880baf
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Muhammad Saqlain,f094e3b8
+info,registry,people,Muhammad Usman,b7621723
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Sadat Said,c5d00347
+info,registry,people,Sareer Shah,f16953c5
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,V Vijh,b857468a
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

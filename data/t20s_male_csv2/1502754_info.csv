@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Kenya
+info,gender,male
+info,season,2025/26
+info,date,2025/09/30
+info,event,ICC Men's T20 World Cup Africa Region Final
+info,match_number,12
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,SR Bhudia
+info,umpire,A Louw
+info,umpire,L Rusere
+info,match_referee,GH Pienaar
+info,winner,Kenya
+info,winner_wickets,7
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,I Danladi
+info,player,Nigeria,P Useni
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,DNA Ankrah
+info,player,Nigeria,P Aho
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,AA Jimoh
+info,player,Kenya,DM Gondaria
+info,player,Kenya,P Sharma
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,JS Kundi
+info,player,Kenya,LN Oluoch
+info,player,Kenya,S Gill
+info,player,Kenya,N Hirani
+info,player,Kenya,P Koech
+info,player,Kenya,S Singh
+info,player,Kenya,Vraj Patel
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AA Jimoh,b506636b
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,DNA Ankrah,c6614fc0
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,N Hirani,4d290e7a
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Singh,612a395c
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,Vraj Patel,2af28253

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Kenya
+info,gender,male
+info,season,2025
+info,date,2025/07/21
+info,event,Pearl of Africa T20I Series
+info,match_number,8
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,F Nsubuga
+info,umpire,Charles Kariuki
+info,umpire,IO Oyieko
+info,reserve_umpire,S Kintu
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,28
+info,player,Uganda,SG Mangela
+info,player,Uganda,R Lutaaya
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Obuya
+info,player,Uganda,DM Nakrani
+info,player,Uganda,J Miyaji
+info,player,Uganda,AR Ramjani
+info,player,Uganda,F Nsubuga
+info,player,Uganda,M Musinguzi
+info,player,Uganda,C Kyewuta
+info,player,Uganda,CN Kakuru
+info,player,Kenya,DM Gondaria
+info,player,Kenya,P Sharma
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,RR Patel
+info,player,Kenya,S Singh
+info,player,Kenya,S Gill
+info,player,Kenya,JS Kundi
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,Vraj Patel
+info,player,Kenya,P Koech
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Mutua,21b67523
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,M Musinguzi,34712b35
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Singh,612a395c
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253

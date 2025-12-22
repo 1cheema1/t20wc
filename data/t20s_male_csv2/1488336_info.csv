@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cayman Islands
+info,team,Bahamas
+info,gender,male
+info,season,2025
+info,date,2025/06/22
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,11
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Bahamas
+info,toss_decision,field
+info,player_of_match,J Baker
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,reserve_umpire,DK Butler
+info,tv_umpire,Zahid Bassarath
+info,match_referee,Dave Gilbert
+info,winner,Cayman Islands
+info,winner_runs,49
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,A Dhar
+info,player,Cayman Islands,KA Bazil
+info,player,Cayman Islands,R Walker
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,A Wright
+info,player,Bahamas,M Taylor
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,E Duff
+info,player,Bahamas,K Hinds
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,J Gallimore
+info,player,Bahamas,JR Barry
+info,player,Bahamas,A Gulati
+info,player,Bahamas,DG Weakley
+info,registry,people,A Dhar,1c0a2249
+info,registry,people,A Gulati,82903f3a
+info,registry,people,A Morris,04cf2e94
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AR Maddela,5c861579
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,D Wheatley,04539335
+info,registry,people,DG Weakley,224a9f5e
+info,registry,people,DK Butler,671398e3
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,E Duff,b7873c81
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GT Taylor,c674f722
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Gallimore,5bebe726
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,K Hinds,a268c07b
+info,registry,people,KA Bazil,d22287a8
+info,registry,people,M Taylor,92075cdc
+info,registry,people,R Shah,3424e050
+info,registry,people,R Walker,be37d889
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,S Foster,3595ad3b
+info,registry,people,Zahid Bassarath,ca6bf044

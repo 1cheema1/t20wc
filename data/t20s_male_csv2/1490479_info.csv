@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Jersey
+info,gender,male
+info,season,2025
+info,date,2025/07/11
+info,event,ICC Men's T20 World Cup Europe Region Final
+info,match_number,9
+info,venue,"Sportpark Westvliet, Voorburg"
+info,city,The Hague
+info,toss_winner,Jersey
+info,toss_decision,field
+info,player_of_match,NA Greenwood
+info,umpire,Aidan Seaver
+info,umpire,R Black
+info,reserve_umpire,RJ Warren
+info,match_referee,Denavon Hayles
+info,winner,Jersey
+info,winner_wickets,1
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,C Tear
+info,player,Scotland,MA Leask
+info,player,Scotland,MH Cross
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CN Greaves
+info,player,Scotland,SM Sharif
+info,player,Scotland,BJ Currie
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,ZM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,J Sumerauer
+info,player,Jersey,C Brennan
+info,player,Jersey,B Ward
+info,player,Jersey,PB Gouge
+info,player,Jersey,DG Blampied
+info,player,Jersey,CW Perchard
+info,player,Jersey,JE Dunford
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,C Tear,7ffe4817
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,PB Gouge,fe2432c4
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,ZM Tribe,96fe3e9f

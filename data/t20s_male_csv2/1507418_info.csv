@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Mexico
+info,gender,male
+info,season,2025/26
+info,date,2025/10/30
+info,event,South American Men's Championships
+info,match_number,1
+info,venue,"Sao Fernando Polo and Cricket Club, Campo Sede"
+info,city,Seropedica
+info,toss_winner,Mexico
+info,toss_decision,field
+info,outcome,no result
+info,player,Panama,Safvan Patel
+info,player,Panama,M Sohel Patel
+info,player,Panama,Rizwan Mangera
+info,player,Panama,MY Bawa
+info,player,Panama,P Jayeshbhai Patel
+info,player,Panama,Abdulla Bhoola
+info,player,Panama,Meet Ahir
+info,player,Panama,Abdul Makda
+info,player,Panama,Faizal Salehji
+info,player,Panama,Nathan Ingleston
+info,player,Panama,YK Abovat
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Amir Butt
+info,player,Mexico,D Panda
+info,player,Mexico,Gurpreet Singh
+info,player,Mexico,Hassan Nasir
+info,player,Mexico,J Byrappa
+info,player,Mexico,PK Mohanarangam
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,SK Lahiri
+info,player,Mexico,Y Jasti
+info,registry,people,Abdul Makda,7864bd38
+info,registry,people,Abdulla Bhoola,6ef9a32f
+info,registry,people,Amir Butt,5bdf2343
+info,registry,people,D Panda,bad1af65
+info,registry,people,Faizal Salehji,7c5d046a
+info,registry,people,Gurpreet Singh,f43dcdc1
+info,registry,people,Hassan Nasir,d32f3102
+info,registry,people,J Byrappa,860f7b67
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,MY Bawa,8ca63417
+info,registry,people,Meet Ahir,642d2883
+info,registry,people,Nathan Ingleston,d84a1af0
+info,registry,people,P Jayeshbhai Patel,3317dc7a
+info,registry,people,PK Mohanarangam,d73891ad
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,Rizwan Mangera,74d63a44
+info,registry,people,SK Lahiri,84df22bd
+info,registry,people,Safvan Patel,90839a03
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Y Jasti,3377f988
+info,registry,people,YK Abovat,32f58fca
