@@ -255,117 +255,6 @@
             color: var(--blue);
         }
 
-        /* Match Fixture Rows */
-        .match-fixture {
-            display: grid;
-            grid-template-columns: 1fr auto 1fr;
-            align-items: center;
-            padding: 12px 0;
-            font-size: 0.85rem;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-            gap: 8px;
-        }
-
-        .match-fixture:last-child {
-            border-bottom: none;
-        }
-
-        .fixture-team {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        .fixture-team.left {
-            justify-content: flex-end;
-            text-align: right;
-        }
-
-        .fixture-team.right {
-            justify-content: flex-start;
-        }
-
-        .fixture-team .name {
-            color: var(--text-muted);
-        }
-
-        .fixture-team.won .name {
-            color: var(--text);
-            font-weight: 500;
-        }
-
-        .fixture-prob {
-            font-size: 0.7rem;
-            color: var(--text-hidden);
-            font-variant-numeric: tabular-nums;
-        }
-
-        .fixture-team.won .fixture-prob {
-            color: var(--blue);
-        }
-
-        .fixture-vs {
-            color: var(--text-hidden);
-            font-size: 0.7rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            text-align: center;
-            min-width: 28px;
-        }
-
-        .fixture-date {
-            font-size: 0.7rem;
-            color: var(--text-hidden);
-            text-align: center;
-            padding: 8px 0 4px;
-            letter-spacing: 0.5px;
-        }
-
-        .fixture-venue {
-            font-size: 0.65rem;
-            color: var(--text-hidden);
-            text-align: center;
-            padding: 0 0 4px;
-        }
-
-        .match-toggle {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
-            padding: 10px;
-            margin-top: 8px;
-            cursor: pointer;
-            color: var(--text-muted);
-            font-size: 0.75rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.05);
-            transition: color 0.2s;
-            user-select: none;
-        }
-
-        .match-toggle:hover {
-            color: var(--text);
-        }
-
-        .match-toggle .arrow {
-            transition: transform 0.3s;
-            font-size: 0.6rem;
-        }
-
-        .match-toggle.open .arrow {
-            transform: rotate(180deg);
-        }
-
-        .matches-list {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.4s ease;
-        }
-
-        .matches-list.open {
-            max-height: 2000px;
-        }
-
         @media (max-width: 600px) {
             h1 {
                 font-size: 2.2rem;
@@ -412,23 +301,6 @@
                 document.getElementById('groups-container').innerHTML = '<p style="color:var(--text-muted)">Failed to load predictions. Run predict_t20wc.py first.</p>';
             });
 
-        function renderFixtures(matches) {
-            return matches.map(m => `
-                <div class="fixture-date">${m.date} · ${m.venue}</div>
-                <div class="match-fixture">
-                    <div class="fixture-team left ${m.winner === m.team1 ? 'won' : ''}">
-                        <span class="fixture-prob">${m.t1_prob}%</span>
-                        <span class="name">${m.team1}</span>
-                    </div>
-                    <div class="fixture-vs">vs</div>
-                    <div class="fixture-team right ${m.winner === m.team2 ? 'won' : ''}">
-                        <span class="name">${m.team2}</span>
-                        <span class="fixture-prob">${m.t2_prob}%</span>
-                    </div>
-                </div>
-            `).join('');
-        }
-
         function render(data) {
             const groupsData = data.groups;
             const super8Data = data.super8;
@@ -462,20 +334,12 @@
                     </div>
                     <div class="card-body">
                         ${listHtml}
-                        <div class="match-toggle" onclick="toggleMatches('${groupId}', this)">
-                            <span>Match Predictions</span>
-                            <span class="arrow">▼</span>
-                        </div>
-                        <div class="matches-list" id="${groupId}">
-                            ${renderFixtures(matches)}
-                        </div>
                     </div>
                 </div>`;
             });
 
             // Render Super 8s
             let s8Html = super8Data.map((group, gi) => {
-                const s8Id = `s8-${gi}-matches`;
                 return `
                 <div class="card">
                     <div class="card-header">
@@ -494,13 +358,6 @@
                                 </div>
                             </div>
                         `).join('')}
-                        <div class="match-toggle" onclick="toggleMatches('${s8Id}', this)">
-                            <span>Match Predictions</span>
-                            <span class="arrow">▼</span>
-                        </div>
-                        <div class="matches-list" id="${s8Id}">
-                            ${renderFixtures(group.matches)}
-                        </div>
                     </div>
                 </div>
             `}).join('');
@@ -556,12 +413,6 @@
                     bar.style.width = bar.getAttribute('data-width');
                 });
             }, 100);
-        }
-
-        function toggleMatches(id, el) {
-            const list = document.getElementById(id);
-            list.classList.toggle('open');
-            el.classList.toggle('open');
         }
     </script>
 </body>

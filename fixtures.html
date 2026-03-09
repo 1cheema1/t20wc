@@ -105,11 +105,11 @@
         /* Match row */
         .match-row {
             display: grid;
-            grid-template-columns: 60px 1fr auto 28px auto 1fr;
+            grid-template-columns: 1fr auto 1fr;
             align-items: center;
-            padding: 14px 0;
+            padding: 12px 0;
             border-bottom: 1px solid rgba(255, 255, 255, 0.04);
-            gap: 0;
+            gap: 0 16px;
         }
 
         .match-row:last-child {
@@ -117,9 +117,11 @@
         }
 
         .match-date {
-            font-size: 0.75rem;
+            grid-column: 1 / -1;
+            font-size: 0.7rem;
             color: var(--text-hidden);
             font-variant-numeric: tabular-nums;
+            padding-bottom: 8px;
         }
 
         .match-t1 {
@@ -166,13 +168,6 @@
         .match-t1.won .match-prob,
         .match-t2.won .match-prob {
             color: var(--blue);
-        }
-
-        .match-venue {
-            font-size: 0.65rem;
-            color: var(--text-hidden);
-            grid-column: 1 / -1;
-            padding: 2px 0 0 60px;
         }
 
         /* Knockout match card */
@@ -318,19 +313,12 @@
                 padding: 40px 16px;
             }
 
-            .match-row {
-                grid-template-columns: 1fr auto 1fr;
-                gap: 4px;
+            .match-name {
+                font-size: 0.8rem;
             }
 
-            .match-date,
-            .match-venue {
-                grid-column: 1 / -1;
-                padding-left: 0;
-            }
-
-            .match-date {
-                padding-bottom: 4px;
+            .match-prob {
+                font-size: 0.7rem;
             }
         }
     </style>
@@ -383,20 +371,36 @@
             });
         }
 
+        const SHORT_NAMES = {
+            'United States of America': 'USA',
+            'United Arab Emirates': 'UAE',
+            'New Zealand': 'NZ',
+            'South Africa': 'SA',
+            'West Indies': 'WI',
+            'Sri Lanka': 'SL',
+            'Netherlands': 'NED',
+            'Afghanistan': 'AFG',
+        };
+
+        function shortName(name) {
+            return SHORT_NAMES[name] || name;
+        }
+
         function matchRow(m, showDate = true) {
+            const t1 = shortName(m.team1);
+            const t2 = shortName(m.team2);
             return `
                 <div class="match-row">
-                    ${showDate ? `<div class="match-date">${m.date}</div>` : '<div></div>'}
+                    ${showDate ? `<div class="match-date">${m.date} · ${m.venue}</div>` : '<div></div>'}
                     <div class="match-t1 ${m.winner === m.team1 ? 'won' : ''}">
                         <span class="match-prob">${m.t1_prob}%</span>
-                        <span class="match-name">${m.team1}</span>
+                        <span class="match-name">${t1}</span>
                     </div>
                     <div class="match-vs">vs</div>
                     <div class="match-t2 ${m.winner === m.team2 ? 'won' : ''}">
-                        <span class="match-name">${m.team2}</span>
+                        <span class="match-name">${t2}</span>
                         <span class="match-prob">${m.t2_prob}%</span>
                     </div>
-                    <div class="match-venue">${m.venue}</div>
                 </div>
             `;
         }
@@ -406,12 +410,12 @@
                 <div class="ko-card ${isFinal ? 'final-card' : ''}">
                     <div class="ko-label">${label} · ${m.date}</div>
                     <div class="ko-team ${m.w === m.t1 ? 'won' : ''}">
-                        <span class="name">${m.t1}</span>
+                        <span class="name">${shortName(m.t1)}</span>
                         <span class="prob">${m.p1.toFixed(1)}%</span>
                     </div>
                     <div class="bar-bg"><div class="bar-fill" data-width="${m.p1}%"></div></div>
                     <div class="ko-team ${m.w === m.t2 ? 'won' : ''}">
-                        <span class="name">${m.t2}</span>
+                        <span class="name">${shortName(m.t2)}</span>
                         <span class="prob">${m.p2.toFixed(1)}%</span>
                     </div>
                     <div class="bar-bg"><div class="bar-fill" data-width="${m.p2}%"></div></div>
