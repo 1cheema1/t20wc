@@ -2,7 +2,7 @@
 
 A machine learning project that predicts the outcomes of the 2026 ICC Men's T20 World Cup. 
 
-> **[View the Live Visualizer on Vercel](#)**
+> **[View the Live Visualizer on Vercel](https://t20wc-one.vercel.app/)**
 
 ## How It Works
 
