@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T20 WC 2026 Predictions</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+        :root {
+            --bg: #000000;
+            --card-hover: #0a0a0a;
+            --border: #222222;
+            --border-hover: #333333;
+            --text: #ffffff;
+            --text-muted: #888888;
+            --text-hidden: #444444;
+            --blue: #0070F3;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            padding: 80px 24px;
+        }
+
+        .container {
+            max-width: 1024px;
+            margin: 0 auto;
+        }
+
+        /* Typography */
+        header {
+            margin-bottom: 80px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 500;
+            letter-spacing: -1.5px;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        header p {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .nav-link {
+            display: inline-block;
+            margin-top: 24px;
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: color 0.2s;
+            border: 1px solid var(--border);
+            padding: 8px 16px;
+            border-radius: 6px;
+        }
+
+        .nav-link:hover {
+            color: var(--text);
+            border-color: var(--text-hidden);
+            background: var(--card-hover);
+        }
+
+        h2.section-title {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--text);
+            margin: 60px 0 24px 0;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border);
+            letter-spacing: -0.5px;
+        }
+
+        /* Layout */
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
+        }
+
+        .grid-1 {
+            display: grid;
+            grid-template-columns: 1fr;
+            max-width: 480px;
+            margin: 0 auto;
+        }
+
+        /* Cards */
+        .card {
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            background: transparent;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: var(--border-hover);
+            background: var(--card-hover);
+        }
+
+        .card-header h3 {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-weight: 500;
+            margin-bottom: 24px;
+        }
+
+        /* Standings */
+        .team-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            font-size: 0.9rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .team-row:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .team-row:first-child {
+            padding-top: 0;
+        }
+
+        .team-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .rank {
+            color: var(--text-hidden);
+            font-variant-numeric: tabular-nums;
+            font-size: 0.8rem;
+            width: 14px;
+        }
+
+        .stats {
+            display: flex;
+            align-items: baseline;
+            gap: 4px;
+        }
+
+        .pts {
+            font-variant-numeric: tabular-nums;
+            font-weight: 500;
+        }
+
+        .pts-label {
+            font-size: 0.65rem;
+            color: var(--text-hidden);
+            text-transform: uppercase;
+        }
+
+        /* Qualified vs Eliminated */
+        .team-row.eliminated .name,
+        .team-row.eliminated .pts {
+            color: var(--text-muted);
+        }
+
+        .team-row.qualified .name,
+        .team-row.qualified .pts {
+            color: var(--text);
+            font-weight: 500;
+        }
+
+        /* Knockouts */
+        .match-team {
+            margin-bottom: 20px;
+        }
+
+        .match-team:last-child {
+            margin-bottom: 0;
+        }
+
+        .match-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.95rem;
+            margin-bottom: 10px;
+        }
+
+        .match-team.eliminated .name,
+        .match-team.eliminated .prob {
+            color: var(--text-muted);
+        }
+
+        .match-team.winner .name,
+        .match-team.winner .prob {
+            color: var(--text);
+            font-weight: 500;
+        }
+
+        .prob {
+            font-variant-numeric: tabular-nums;
+        }
+
+        /* Minimal Progress Bar */
+        .bar-bg {
+            height: 3px;
+            background: var(--border);
+            border-radius: 1.5px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            background: var(--blue);
+            width: 0%;
+            transition: width 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .match-team.eliminated .bar-fill {
+            background: var(--text-hidden);
+        }
+
+        /* Champion Customization */
+        .card.champion {
+            border-color: rgba(0, 112, 243, 0.3);
+            background: radial-gradient(circle at top, rgba(0, 112, 243, 0.05) 0%, transparent 100%);
+        }
+
+        .card.champion:hover {
+            border-color: rgba(0, 112, 243, 0.6);
+        }
+
+        .card.champion .card-header h3 {
+            color: var(--blue);
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+
+            header {
+                margin-bottom: 40px;
+            }
+
+            body {
+                padding: 40px 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1>T20 World Cup</h1>
+            <p>ML Match Predictions · Elo & ICC Blend</p>
+            <a href="how-it-works.html" class="nav-link">Read Methodology →</a>
+        </header>
+
+        <h2 class="section-title">Group Stage</h2>
+        <div class="grid-4" id="groups-container">
+            <!-- Rendered via JS -->
+        </div>
+
+        <div id="bracket-container">
+            <!-- Rendered via JS -->
+        </div>
+    </div>
+
+    <script>
+        // Data extracted from the model run
+        const groupsData = {
+            "A": [
+                {
+                    "name": "India",
+                    "pts": 8,
+                    "wins": 4,
+                    "q": true
+                },
+                {
+                    "name": "Pakistan",
+                    "pts": 6,
+                    "wins": 3,
+                    "q": true
+                },
+                {
+                    "name": "Netherlands",
+                    "pts": 4,
+                    "wins": 2,
+                    "q": false
+                },
+                {
+                    "name": "United States of America",
+                    "pts": 2,
+                    "wins": 1,
+                    "q": false
+                },
+                {
+                    "name": "Namibia",
+                    "pts": 0,
+                    "wins": 0,
+                    "q": false
+                }
+            ],
+            "B": [
+                {
+                    "name": "Australia",
+                    "pts": 8,
+                    "wins": 4,
+                    "q": true
+                },
+                {
+                    "name": "Sri Lanka",
+                    "pts": 6,
+                    "wins": 3,
+                    "q": true
+                },
+                {
+                    "name": "Zimbabwe",
+                    "pts": 4,
+                    "wins": 2,
+                    "q": false
+                },
+                {
+                    "name": "Ireland",
+                    "pts": 2,
+                    "wins": 1,
+                    "q": false
+                },
+                {
+                    "name": "Oman",
+                    "pts": 0,
+                    "wins": 0,
+                    "q": false
+                }
+            ],
+            "C": [
+                {
+                    "name": "England",
+                    "pts": 8,
+                    "wins": 4,
+                    "q": true
+                },
+                {
+                    "name": "Nepal",
+                    "pts": 6,
+                    "wins": 3,
+                    "q": true
+                },
+                {
+                    "name": "West Indies",
+                    "pts": 4,
+                    "wins": 2,
+                    "q": false
+                },
+                {
+                    "name": "Scotland",
+                    "pts": 2,
+                    "wins": 1,
+                    "q": false
+                },
+                {
+                    "name": "Italy",
+                    "pts": 0,
+                    "wins": 0,
+                    "q": false
+                }
+            ],
+            "D": [
+                {
+                    "name": "New Zealand",
+                    "pts": 8,
+                    "wins": 4,
+                    "q": true
+                },
+                {
+                    "name": "South Africa",
+                    "pts": 6,
+                    "wins": 3,
+                    "q": true
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "pts": 4,
+                    "wins": 2,
+                    "q": false
+                },
+                {
+                    "name": "Canada",
+                    "pts": 2,
+                    "wins": 1,
+                    "q": false
+                },
+                {
+                    "name": "Afghanistan",
+                    "pts": 0,
+                    "wins": 0,
+                    "q": false
+                }
+            ]
+        };
+        const super8Data = [
+            {
+                "title": "Super 8 Group 1",
+                "standings": [
+                    {
+                        "name": "India",
+                        "pts": 6,
+                        "wins": 3,
+                        "q": true
+                    },
+                    {
+                        "name": "England",
+                        "pts": 4,
+                        "wins": 2,
+                        "q": true
+                    },
+                    {
+                        "name": "South Africa",
+                        "pts": 2,
+                        "wins": 1,
+                        "q": false
+                    },
+                    {
+                        "name": "Sri Lanka",
+                        "pts": 0,
+                        "wins": 0,
+                        "q": false
+                    }
+                ]
+            },
+            {
+                "title": "Super 8 Group 2",
+                "standings": [
+                    {
+                        "name": "Australia",
+                        "pts": 6,
+                        "wins": 3,
+                        "q": true
+                    },
+                    {
+                        "name": "Pakistan",
+                        "pts": 4,
+                        "wins": 2,
+                        "q": true
+                    },
+                    {
+                        "name": "New Zealand",
+                        "pts": 2,
+                        "wins": 1,
+                        "q": false
+                    },
+                    {
+                        "name": "Nepal",
+                        "pts": 0,
+                        "wins": 0,
+                        "q": false
+                    }
+                ]
+            }
+        ];
+        const knockoutData = {
+            "sf1": {
+                "t1": "India",
+                "t2": "Pakistan",
+                "w": "India",
+                "p1": 73.0,
+                "p2": 27.0
+            },
+            "sf2": {
+                "t1": "Australia",
+                "t2": "England",
+                "w": "Australia",
+                "p1": 58.4,
+                "p2": 41.6
+            },
+            "final": {
+                "t1": "India",
+                "t2": "Australia",
+                "w": "India",
+                "p1": 63.7,
+                "p2": 36.3
+            }
+        };
+
+        // Render Groups
+        const groupsContainer = document.getElementById('groups-container');
+        Object.entries(groupsData).forEach(([groupName, teams]) => {
+            let listHtml = teams.map((t, i) => `
+                <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
+                    <div class="team-info">
+                        <span class="rank">${i + 1}</span>
+                        <span class="name">${t.name}</span>
+                    </div>
+                    <div class="stats">
+                        <span class="pts">${t.pts}</span>
+                        <span class="pts-label">pts</span>
+                    </div>
+                </div>
+            `).join('');
+
+            groupsContainer.innerHTML += `
+            <div class="card">
+                <div class="card-header">
+                    <h3>Group ${groupName}</h3>
+                </div>
+                <div class="card-body">
+                    ${listHtml}
+                </div>
+            </div>`;
+        });
+
+        // Render Super 8s
+        let s8Html = super8Data.map(group => `
+            <div class="card">
+                <div class="card-header">
+                    <h3>${group.title}</h3>
+                </div>
+                <div class="card-body">
+                    ${group.standings.map((t, i) => `
+                        <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
+                            <div class="team-info">
+                                <span class="rank">${i + 1}</span>
+                                <span class="name">${t.name}</span>
+                            </div>
+                            <div class="stats">
+                                <span class="pts">${t.pts}</span>
+                                <span class="pts-label">pts</span>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `).join('');
+
+        // Render Knockouts
+        const createMatchCard = (title, match, isChampion = false) => `
+            <div class="card ${isChampion ? 'champion' : ''}">
+                <div class="card-header">
+                    <h3>${title}</h3>
+                </div>
+                <div class="card-body">
+                    <div class="match-team ${match.w === match.t1 ? 'winner' : 'eliminated'}">
+                        <div class="match-info">
+                            <span class="name">${match.t1}</span>
+                            <span class="prob">${match.p1.toFixed(1)}%</span>
+                        </div>
+                        <div class="bar-bg"><div class="bar-fill" data-width="${match.p1}%"></div></div>
+                    </div>
+                    <div class="match-team ${match.w === match.t2 ? 'winner' : 'eliminated'}">
+                        <div class="match-info">
+                            <span class="name">${match.t2}</span>
+                            <span class="prob">${match.p2.toFixed(1)}%</span>
+                        </div>
+                        <div class="bar-bg"><div class="bar-fill" data-width="${match.p2}%"></div></div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        const bracketContainer = document.getElementById('bracket-container');
+        bracketContainer.innerHTML = `
+            <h2 class="section-title">Super 8 Stage</h2>
+            <div class="grid-2">
+                ${s8Html}
+            </div>
+            
+            <h2 class="section-title">Semi-Finals</h2>
+            <div class="grid-2">
+                ${createMatchCard('Semi-Final 1', knockoutData.sf1)}
+                ${createMatchCard('Semi-Final 2', knockoutData.sf2)}
+            </div>
+            
+            <h2 class="section-title" style="text-align: center; border: none; margin-bottom: 0;">World Cup Final</h2>
+            <div class="grid-1">
+                ${createMatchCard('Championship Final', knockoutData.final, true)}
+            </div>
+        `;
+
+        // Trigger animations after load
+        setTimeout(() => {
+            document.querySelectorAll('.bar-fill').forEach(bar => {
+                bar.style.width = bar.getAttribute('data-width');
+            });
+        }, 100);
+
+    </script>
+</body>
+
+</html>
