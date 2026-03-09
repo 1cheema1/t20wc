@@ -33,7 +33,9 @@ def elo_update(rating_winner, rating_loser, k=ELO_K):
 RECENT_N = 10
 
 def compute_recent_form(df, n=RECENT_N):
-    team_history = defaultdict(list)
+    """Opponent-quality-weighted recent form so wins vs minnows count less."""
+    team_history = defaultdict(list)  # stores (opp_elo, result)
+    running_elo = defaultdict(lambda: ELO_START)
     team1_form = []
     team2_form = []
 
@@ -47,13 +49,24 @@ def compute_recent_form(df, n=RECENT_N):
             if len(hist) == 0:
                 return 0.5
             recent = hist[-n:]
-            return sum(w for _, w in recent) / len(recent)
+            total_w = 0
+            weighted_sum = 0
+            for opp_elo, result in recent:
+                w = max(opp_elo / ELO_START, 0.3)
+                weighted_sum += w * result
+                total_w += w
+            return weighted_sum / total_w if total_w > 0 else 0.5
 
         team1_form.append(_recent_rate(t1))
         team2_form.append(_recent_rate(t2))
 
-        team_history[t1].append((idx, 1 if winner == t1 else 0))
-        team_history[t2].append((idx, 1 if winner == t2 else 0))
+        team_history[t1].append((running_elo[t2], 1 if winner == t1 else 0))
+        team_history[t2].append((running_elo[t1], 1 if winner == t2 else 0))
+
+        if winner == t1:
+            running_elo[t1], running_elo[t2] = elo_update(running_elo[t1], running_elo[t2])
+        else:
+            running_elo[t2], running_elo[t1] = elo_update(running_elo[t2], running_elo[t1])
 
     return team1_form, team2_form
 
@@ -242,29 +255,43 @@ ICC_RANKINGS = {
     "Italy": 120,
 }
 
-MODEL_WEIGHT = 0.70
-ICC_WEIGHT = 0.30
+MODEL_WEIGHT = 0.60
+ICC_WEIGHT = 0.40
 
-team_recent = defaultdict(list)
+# Build opponent-quality-weighted recent form for predictions
+_running_elo_pred = defaultdict(lambda: ELO_START)
+team_recent_weighted = defaultdict(list)
 for _, row in df.iterrows():
     t1 = row["team1"]
     t2 = row["team2"]
     winner = row["winner"]
-    team_recent[t1].append(1 if winner == t1 else 0)
-    team_recent[t2].append(1 if winner == t2 else 0)
+    team_recent_weighted[t1].append((_running_elo_pred[t2], 1 if winner == t1 else 0))
+    team_recent_weighted[t2].append((_running_elo_pred[t1], 1 if winner == t2 else 0))
+    if winner == t1:
+        _running_elo_pred[t1], _running_elo_pred[t2] = elo_update(_running_elo_pred[t1], _running_elo_pred[t2])
+    else:
+        _running_elo_pred[t2], _running_elo_pred[t1] = elo_update(_running_elo_pred[t2], _running_elo_pred[t1])
 
 
 def get_team_stats(team):
     elo_rating = final_elo[team]
-    recent = team_recent[team][-RECENT_N:]
-    recent_form = sum(recent) / len(recent) if recent else 0.5
+    recent = team_recent_weighted[team][-RECENT_N:]
+    if not recent:
+        return elo_rating, 0.5
+    total_w = 0
+    weighted_sum = 0
+    for opp_elo, result in recent:
+        w = max(opp_elo / ELO_START, 0.3)
+        weighted_sum += w * result
+        total_w += w
+    recent_form = weighted_sum / total_w if total_w > 0 else 0.5
     return elo_rating, recent_form
 
 
 def icc_win_prob(team1, team2):
-    r1 = ICC_RANKINGS.get(team1, 150)
-    r2 = ICC_RANKINGS.get(team2, 150)
-    return 1.0 / (1.0 + 10 ** ((r2 - r1) / 150))
+    r1 = ICC_RANKINGS.get(team1, 100)
+    r2 = ICC_RANKINGS.get(team2, 100)
+    return 1.0 / (1.0 + 10 ** ((r2 - r1) / 100))
 
 
 def predict_match(team1, team2, toss_winner=None, toss_decision="field"):
@@ -302,11 +329,86 @@ def predict_match(team1, team2, toss_winner=None, toss_decision="field"):
 
 
 WC_GROUPS = {
-    "A": ["India", "Pakistan", "Netherlands", "Namibia", "United States of America"],
-    "B": ["Australia", "Sri Lanka", "Zimbabwe", "Ireland", "Oman"],
-    "C": ["England", "West Indies", "Scotland", "Nepal", "Italy"],
-    "D": ["South Africa", "New Zealand", "Afghanistan", "United Arab Emirates", "Canada"],
+    "A": ["Pakistan", "India", "United States of America", "Netherlands", "Namibia"],
+    "B": ["Sri Lanka", "Australia", "Ireland", "Zimbabwe", "Oman"],
+    "C": ["West Indies", "England", "Scotland", "Nepal", "Italy"],
+    "D": ["New Zealand", "South Africa", "Afghanistan", "Canada", "United Arab Emirates"],
 }
+
+# Match-by-match fixtures with dates & venues
+GROUP_FIXTURES = {
+    "A": [
+        ("Feb 7", "Pakistan", "Netherlands", "SSC, Colombo"),
+        ("Feb 7", "India", "United States of America", "Mumbai"),
+        ("Feb 10", "Netherlands", "Namibia", "Delhi"),
+        ("Feb 10", "Pakistan", "United States of America", "SSC, Colombo"),
+        ("Feb 12", "India", "Namibia", "Delhi"),
+        ("Feb 13", "United States of America", "Netherlands", "Chennai"),
+        ("Feb 15", "India", "Pakistan", "Premadasa, Colombo"),
+        ("Feb 15", "United States of America", "Namibia", "Chennai"),
+        ("Feb 18", "Pakistan", "Namibia", "SSC, Colombo"),
+        ("Feb 18", "India", "Netherlands", "Ahmedabad"),
+    ],
+    "B": [
+        ("Feb 8", "Sri Lanka", "Ireland", "Premadasa, Colombo"),
+        ("Feb 9", "Zimbabwe", "Oman", "SSC, Colombo"),
+        ("Feb 11", "Australia", "Ireland", "Premadasa, Colombo"),
+        ("Feb 12", "Sri Lanka", "Oman", "Kandy"),
+        ("Feb 13", "Australia", "Zimbabwe", "Premadasa, Colombo"),
+        ("Feb 14", "Ireland", "Oman", "SSC, Colombo"),
+        ("Feb 16", "Australia", "Sri Lanka", "Kandy"),
+        ("Feb 17", "Ireland", "Zimbabwe", "Kandy"),
+        ("Feb 19", "Sri Lanka", "Zimbabwe", "Premadasa, Colombo"),
+        ("Feb 20", "Australia", "Oman", "Kandy"),
+    ],
+    "C": [
+        ("Feb 7", "West Indies", "Scotland", "Kolkata"),
+        ("Feb 8", "England", "Nepal", "Mumbai"),
+        ("Feb 9", "Scotland", "Italy", "Kolkata"),
+        ("Feb 11", "England", "West Indies", "Mumbai"),
+        ("Feb 12", "Nepal", "Italy", "Mumbai"),
+        ("Feb 14", "England", "Scotland", "Kolkata"),
+        ("Feb 15", "West Indies", "Nepal", "Mumbai"),
+        ("Feb 16", "England", "Italy", "Kolkata"),
+        ("Feb 17", "Scotland", "Nepal", "Mumbai"),
+        ("Feb 19", "West Indies", "Italy", "Kolkata"),
+    ],
+    "D": [
+        ("Feb 8", "New Zealand", "Afghanistan", "Chennai"),
+        ("Feb 9", "South Africa", "Canada", "Ahmedabad"),
+        ("Feb 10", "New Zealand", "United Arab Emirates", "Chennai"),
+        ("Feb 11", "South Africa", "Afghanistan", "Ahmedabad"),
+        ("Feb 13", "Canada", "United Arab Emirates", "Delhi"),
+        ("Feb 14", "New Zealand", "South Africa", "Ahmedabad"),
+        ("Feb 16", "Afghanistan", "United Arab Emirates", "Delhi"),
+        ("Feb 17", "New Zealand", "Canada", "Chennai"),
+        ("Feb 18", "South Africa", "United Arab Emirates", "Delhi"),
+        ("Feb 19", "Afghanistan", "Canada", "Chennai"),
+    ],
+}
+
+# ICC Pre-seeded Super 8 slots
+# X group: India (X1), Australia (X2), West Indies (X3), South Africa (X4)
+# Y group: England (Y1), New Zealand (Y2), Pakistan (Y3), Sri Lanka (Y4)
+SUPER8_SEEDS = {
+    "India": "X1", "Australia": "X2", "West Indies": "X3", "South Africa": "X4",
+    "England": "Y1", "New Zealand": "Y2", "Pakistan": "Y3", "Sri Lanka": "Y4",
+}
+
+SUPER8_FIXTURE_TEMPLATE = [
+    ("Feb 21", "Y2", "Y3", "Premadasa, Colombo"),
+    ("Feb 22", "Y1", "Y4", "Kandy"),
+    ("Feb 22", "X1", "X4", "Ahmedabad"),
+    ("Feb 23", "X2", "X3", "Mumbai"),
+    ("Feb 24", "Y1", "Y3", "Kandy"),
+    ("Feb 25", "Y2", "Y4", "Premadasa, Colombo"),
+    ("Feb 26", "X3", "X4", "Ahmedabad"),
+    ("Feb 26", "X1", "X2", "Chennai"),
+    ("Feb 27", "Y1", "Y2", "Premadasa, Colombo"),
+    ("Feb 28", "Y3", "Y4", "Kandy"),
+    ("Mar 1", "X2", "X4", "Delhi"),
+    ("Mar 1", "X1", "X3", "Kolkata"),
+]
 
 print("World Cup Team Elo Ratings:")
 wc_teams_elo = []
@@ -319,36 +421,44 @@ for team, rating, group in wc_teams_elo:
     print(f"  {team:25s}  Elo {rating:7.1f}  (Group {group})  {bar}")
 print()
 
-print("──── GROUP STAGE PREDICTIONS ────")
+print("──── GROUP STAGE PREDICTIONS (Match by Match) ────")
 print()
+
+import json
 
 group_points = defaultdict(lambda: defaultdict(int))
 group_wins = defaultdict(lambda: defaultdict(int))
+all_group_matches = {}
 
-for group, teams in WC_GROUPS.items():
-    print(f"╔══════════════════════════════════════════════╗")
-    print(f"║  GROUP {group}                                     ║")
-    print(f"╠══════════════════════════════════════════════╣")
+for group in ["A", "B", "C", "D"]:
+    teams = WC_GROUPS[group]
+    fixtures = GROUP_FIXTURES[group]
+    all_group_matches[group] = []
 
-    for i in range(len(teams)):
-        for j in range(i + 1, len(teams)):
-            t1, t2 = teams[i], teams[j]
-            winner, t1_prob, t2_prob = predict_match(t1, t2)
-            win_prob = max(t1_prob, t2_prob)
+    # Ensure all teams start at 0
+    for t in teams:
+        group_points[group][t] = 0
 
-            group_points[group][winner] += 2
-            group_wins[group][winner] += 1
+    print(f"╔════════════════════════════════════════════════════════╗")
+    print(f"║  GROUP {group}                                                ║")
+    print(f"╠════════════════════════════════════════════════════════╣")
 
-            for t in [t1, t2]:
-                if t not in group_points[group]:
-                    group_points[group][t] = 0
+    for date, t1, t2, venue in fixtures:
+        winner, t1_prob, t2_prob = predict_match(t1, t2)
+        win_prob = max(t1_prob, t2_prob)
 
-            print(f"║  {t1:20s} vs {t2:20s} ║")
-            print(f"║     → {winner} ({win_prob:.1%}){' ' * (38 - len(winner) - 8)}║")
+        group_points[group][winner] += 2
+        group_wins[group][winner] += 1
 
-    print(f"╠══════════════════════════════════════════════╣")
-    print(f"║  STANDINGS                                   ║")
+        all_group_matches[group].append({
+            "date": date, "team1": t1, "team2": t2, "venue": venue,
+            "winner": winner, "t1_prob": round(t1_prob * 100, 1), "t2_prob": round(t2_prob * 100, 1),
+        })
 
+        print(f"║  {date:6s}  {t1:20s} vs {t2:20s}  ║")
+        print(f"║          → {winner} ({win_prob:.1%}){' ' * max(0, 40 - len(winner) - 8)}  ║")
+
+    print(f"╠════════════════════════════════════════════════════════╣")
     standings = sorted(
         group_points[group].items(),
         key=lambda x: (x[1], group_wins[group].get(x[0], 0)),
@@ -357,12 +467,12 @@ for group, teams in WC_GROUPS.items():
     for rank, (team, pts) in enumerate(standings, 1):
         wins = group_wins[group].get(team, 0)
         marker = " ★" if rank <= 2 else ""
-        print(f"║  {rank}. {team:20s}  {pts} pts  ({wins}W){marker:5s}       ║")
-
-    print(f"╚══════════════════════════════════════════════╝")
+        print(f"║  {rank}. {team:22s}  {pts} pts  ({wins}W){marker:5s}           ║")
+    print(f"╚════════════════════════════════════════════════════════╝")
     print()
 
-print("──── SUPER 8 STAGE ────")
+# ── SUPER 8s with ICC pre-seeded X/Y system ──
+print("──── SUPER 8 STAGE (ICC Pre-Seeded X/Y System) ────")
 print()
 
 qualifiers = {}
@@ -374,40 +484,70 @@ for group in ["A", "B", "C", "D"]:
     )
     qualifiers[group] = [standings[0][0], standings[1][0]]
     print(f"Group {group} qualifiers: {qualifiers[group][0]}, {qualifiers[group][1]}")
-
 print()
 
-s8_group1 = [qualifiers["A"][0], qualifiers["B"][1], qualifiers["C"][0], qualifiers["D"][1]]
-s8_group2 = [qualifiers["A"][1], qualifiers["B"][0], qualifiers["C"][1], qualifiers["D"][0]]
+all_qualifiers = []
+for g in ["A", "B", "C", "D"]:
+    all_qualifiers.extend(qualifiers[g])
 
-print(f"Super 8 Group 1: {s8_group1}")
-print(f"Super 8 Group 2: {s8_group2}")
+# Assign pre-seeded teams to their fixed slots
+slot_to_team = {}
+for team in all_qualifiers:
+    if team in SUPER8_SEEDS:
+        slot_to_team[SUPER8_SEEDS[team]] = team
+
+# Fill empty slots with non-seeded qualifiers
+x_empty = [s for s in ["X1", "X2", "X3", "X4"] if s not in slot_to_team]
+y_empty = [s for s in ["Y1", "Y2", "Y3", "Y4"] if s not in slot_to_team]
+unassigned = [t for t in all_qualifiers if t not in slot_to_team.values()]
+for slot in x_empty:
+    if unassigned:
+        slot_to_team[slot] = unassigned.pop(0)
+for slot in y_empty:
+    if unassigned:
+        slot_to_team[slot] = unassigned.pop(0)
+
+x_teams = [slot_to_team.get(f"X{i}", "TBD") for i in range(1, 5)]
+y_teams = [slot_to_team.get(f"Y{i}", "TBD") for i in range(1, 5)]
+
+print(f"Super 8 Group X: {x_teams}")
+print(f"  Slots: " + ", ".join(f"{s}={slot_to_team[s]}" for s in ["X1", "X2", "X3", "X4"]))
+print(f"Super 8 Group Y: {y_teams}")
+print(f"  Slots: " + ", ".join(f"{s}={slot_to_team[s]}" for s in ["Y1", "Y2", "Y3", "Y4"]))
 print()
 
 s8_points = defaultdict(lambda: defaultdict(int))
 s8_wins_track = defaultdict(lambda: defaultdict(int))
+s8_all_matches = {"Super 8 Group X": [], "Super 8 Group Y": []}
 
-for s8_name, s8_teams in [("Super 8 Group 1", s8_group1), ("Super 8 Group 2", s8_group2)]:
-    print(f"╔══════════════════════════════════════════════╗")
-    print(f"║  {s8_name:43s} ║")
-    print(f"╠══════════════════════════════════════════════╣")
+for s8_name, s8_teams, prefix in [("Super 8 Group X", x_teams, "X"), ("Super 8 Group Y", y_teams, "Y")]:
+    for t in s8_teams:
+        s8_points[s8_name][t] = 0
 
-    for i in range(len(s8_teams)):
-        for j in range(i + 1, len(s8_teams)):
-            t1, t2 = s8_teams[i], s8_teams[j]
-            winner, t1_prob, t2_prob = predict_match(t1, t2)
-            win_prob = max(t1_prob, t2_prob)
+    print(f"╔════════════════════════════════════════════════════════╗")
+    print(f"║  {s8_name:53s} ║")
+    print(f"╠════════════════════════════════════════════════════════╣")
 
-            s8_points[s8_name][winner] += 2
-            s8_wins_track[s8_name][winner] += 1
-            for t in [t1, t2]:
-                if t not in s8_points[s8_name]:
-                    s8_points[s8_name][t] = 0
+    for date, slot1, slot2, venue in SUPER8_FIXTURE_TEMPLATE:
+        if not slot1.startswith(prefix):
+            continue
+        t1 = slot_to_team[slot1]
+        t2 = slot_to_team[slot2]
+        winner, t1_prob, t2_prob = predict_match(t1, t2)
+        win_prob = max(t1_prob, t2_prob)
 
-            print(f"║  {t1:20s} vs {t2:20s} ║")
-            print(f"║     → {winner} ({win_prob:.1%}){' ' * (38 - len(winner) - 8)}║")
+        s8_points[s8_name][winner] += 2
+        s8_wins_track[s8_name][winner] += 1
 
-    print(f"╠══════════════════════════════════════════════╣")
+        s8_all_matches[s8_name].append({
+            "date": date, "team1": t1, "team2": t2, "venue": venue,
+            "winner": winner, "t1_prob": round(t1_prob * 100, 1), "t2_prob": round(t2_prob * 100, 1),
+        })
+
+        print(f"║  {date:6s}  {t1:20s} vs {t2:20s}  ║")
+        print(f"║          → {winner} ({win_prob:.1%}){' ' * max(0, 40 - len(winner) - 8)}  ║")
+
+    print(f"╠════════════════════════════════════════════════════════╣")
     standings = sorted(
         s8_points[s8_name].items(),
         key=lambda x: (x[1], s8_wins_track[s8_name].get(x[0], 0)),
@@ -416,26 +556,20 @@ for s8_name, s8_teams in [("Super 8 Group 1", s8_group1), ("Super 8 Group 2", s8
     for rank, (team, pts) in enumerate(standings, 1):
         wins = s8_wins_track[s8_name].get(team, 0)
         marker = " ★" if rank <= 2 else ""
-        print(f"║  {rank}. {team:20s}  {pts} pts  ({wins}W){marker:5s}       ║")
-
-    print(f"╚══════════════════════════════════════════════╝")
+        print(f"║  {rank}. {team:22s}  {pts} pts  ({wins}W){marker:5s}           ║")
+    print(f"╚════════════════════════════════════════════════════════╝")
     print()
 
-s8_1_standings = sorted(
-    s8_points["Super 8 Group 1"].items(),
-    key=lambda x: (x[1], s8_wins_track["Super 8 Group 1"].get(x[0], 0)),
-    reverse=True,
-)
-s8_2_standings = sorted(
-    s8_points["Super 8 Group 2"].items(),
-    key=lambda x: (x[1], s8_wins_track["Super 8 Group 2"].get(x[0], 0)),
-    reverse=True,
-)
+# Semi-final matchups: X1st vs Y2nd, Y1st vs X2nd
+s8_x_standings = sorted(s8_points["Super 8 Group X"].items(),
+    key=lambda x: (x[1], s8_wins_track["Super 8 Group X"].get(x[0], 0)), reverse=True)
+s8_y_standings = sorted(s8_points["Super 8 Group Y"].items(),
+    key=lambda x: (x[1], s8_wins_track["Super 8 Group Y"].get(x[0], 0)), reverse=True)
 
-sf1_t1 = s8_1_standings[0][0]
-sf1_t2 = s8_2_standings[1][0]
-sf2_t1 = s8_2_standings[0][0]
-sf2_t2 = s8_1_standings[1][0]
+sf1_t1 = s8_x_standings[0][0]
+sf1_t2 = s8_y_standings[1][0]
+sf2_t1 = s8_y_standings[0][0]
+sf2_t2 = s8_x_standings[1][0]
 
 print("──── SEMI-FINALS ────")
 print()
@@ -443,15 +577,15 @@ print()
 sf1_winner, sf1_p1, sf1_p2 = predict_match(sf1_t1, sf1_t2)
 sf2_winner, sf2_p1, sf2_p2 = predict_match(sf2_t1, sf2_t2)
 
-print(f"Semi-Final 1: {sf1_t1} vs {sf1_t2}")
+print(f"Semi-Final 1 (Mar 4): {sf1_t1} vs {sf1_t2}")
 print(f"  → Winner: {sf1_winner} ({max(sf1_p1, sf1_p2):.1%})")
 print()
-print(f"Semi-Final 2: {sf2_t1} vs {sf2_t2}")
+print(f"Semi-Final 2 (Mar 5, Mumbai): {sf2_t1} vs {sf2_t2}")
 print(f"  → Winner: {sf2_winner} ({max(sf2_p1, sf2_p2):.1%})")
 print()
 
 print("══════════════════════════════════════════════")
-print("                   FINAL")
+print("              FINAL (Mar 8)")
 print("══════════════════════════════════════════════")
 print()
 
@@ -464,3 +598,49 @@ print()
 print(f"  🏆 PREDICTED CHAMPION: {final_winner}")
 print()
 print("══════════════════════════════════════════════")
+
+# ── Export JSON for visualiser ──
+print()
+print("Step 41: Exporting data for visualiser...")
+
+groups_json = {}
+for group in ["A", "B", "C", "D"]:
+    standings = sorted(
+        group_points[group].items(),
+        key=lambda x: (x[1], group_wins[group].get(x[0], 0)),
+        reverse=True,
+    )
+    groups_json[group] = {
+        "standings": [{"name": team, "pts": pts, "wins": group_wins[group].get(team, 0), "q": rank <= 2}
+                      for rank, (team, pts) in enumerate(standings, 1)],
+        "matches": all_group_matches[group],
+    }
+
+s8_json = []
+for s8_name in ["Super 8 Group X", "Super 8 Group Y"]:
+    standings = sorted(
+        s8_points[s8_name].items(),
+        key=lambda x: (x[1], s8_wins_track[s8_name].get(x[0], 0)),
+        reverse=True,
+    )
+    s8_json.append({
+        "title": s8_name,
+        "standings": [{"name": team, "pts": pts, "wins": s8_wins_track[s8_name].get(team, 0), "q": rank <= 2}
+                      for rank, (team, pts) in enumerate(standings, 1)],
+        "matches": s8_all_matches[s8_name],
+    })
+
+knockout_json = {
+    "sf1": {"date": "Mar 4", "venue": "TBD", "t1": sf1_t1, "t2": sf1_t2, "w": sf1_winner,
+            "p1": round(sf1_p1 * 100, 1), "p2": round(sf1_p2 * 100, 1)},
+    "sf2": {"date": "Mar 5", "venue": "Mumbai", "t1": sf2_t1, "t2": sf2_t2, "w": sf2_winner,
+            "p1": round(sf2_p1 * 100, 1), "p2": round(sf2_p2 * 100, 1)},
+    "final": {"date": "Mar 8", "venue": "Ahmedabad / Colombo", "t1": sf1_winner, "t2": sf2_winner,
+              "w": final_winner, "p1": round(f_p1 * 100, 1), "p2": round(f_p2 * 100, 1)},
+}
+
+with open("data/predictions.json", "w") as f:
+    json.dump({"groups": groups_json, "super8": s8_json, "knockouts": knockout_json}, f, indent=2)
+
+print("  ✓ Exported to data/predictions.json")
+print("Done!")

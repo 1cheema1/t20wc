@@ -255,6 +255,117 @@
             color: var(--blue);
         }
 
+        /* Match Fixture Rows */
+        .match-fixture {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: center;
+            padding: 12px 0;
+            font-size: 0.85rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            gap: 8px;
+        }
+
+        .match-fixture:last-child {
+            border-bottom: none;
+        }
+
+        .fixture-team {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .fixture-team.left {
+            justify-content: flex-end;
+            text-align: right;
+        }
+
+        .fixture-team.right {
+            justify-content: flex-start;
+        }
+
+        .fixture-team .name {
+            color: var(--text-muted);
+        }
+
+        .fixture-team.won .name {
+            color: var(--text);
+            font-weight: 500;
+        }
+
+        .fixture-prob {
+            font-size: 0.7rem;
+            color: var(--text-hidden);
+            font-variant-numeric: tabular-nums;
+        }
+
+        .fixture-team.won .fixture-prob {
+            color: var(--blue);
+        }
+
+        .fixture-vs {
+            color: var(--text-hidden);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-align: center;
+            min-width: 28px;
+        }
+
+        .fixture-date {
+            font-size: 0.7rem;
+            color: var(--text-hidden);
+            text-align: center;
+            padding: 8px 0 4px;
+            letter-spacing: 0.5px;
+        }
+
+        .fixture-venue {
+            font-size: 0.65rem;
+            color: var(--text-hidden);
+            text-align: center;
+            padding: 0 0 4px;
+        }
+
+        .match-toggle {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 10px;
+            margin-top: 8px;
+            cursor: pointer;
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            transition: color 0.2s;
+            user-select: none;
+        }
+
+        .match-toggle:hover {
+            color: var(--text);
+        }
+
+        .match-toggle .arrow {
+            transition: transform 0.3s;
+            font-size: 0.6rem;
+        }
+
+        .match-toggle.open .arrow {
+            transform: rotate(180deg);
+        }
+
+        .matches-list {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease;
+        }
+
+        .matches-list.open {
+            max-height: 2000px;
+        }
+
         @media (max-width: 600px) {
             h1 {
                 font-size: 2.2rem;
@@ -291,322 +402,166 @@
     </div>
 
     <script>
-        // Data extracted from the model run
-        const groupsData = {
-            "A": [
-                {
-                    "name": "India",
-                    "pts": 8,
-                    "wins": 4,
-                    "q": true
-                },
-                {
-                    "name": "Pakistan",
-                    "pts": 6,
-                    "wins": 3,
-                    "q": true
-                },
-                {
-                    "name": "Netherlands",
-                    "pts": 4,
-                    "wins": 2,
-                    "q": false
-                },
-                {
-                    "name": "United States of America",
-                    "pts": 2,
-                    "wins": 1,
-                    "q": false
-                },
-                {
-                    "name": "Namibia",
-                    "pts": 0,
-                    "wins": 0,
-                    "q": false
-                }
-            ],
-            "B": [
-                {
-                    "name": "Australia",
-                    "pts": 8,
-                    "wins": 4,
-                    "q": true
-                },
-                {
-                    "name": "Sri Lanka",
-                    "pts": 6,
-                    "wins": 3,
-                    "q": true
-                },
-                {
-                    "name": "Zimbabwe",
-                    "pts": 4,
-                    "wins": 2,
-                    "q": false
-                },
-                {
-                    "name": "Ireland",
-                    "pts": 2,
-                    "wins": 1,
-                    "q": false
-                },
-                {
-                    "name": "Oman",
-                    "pts": 0,
-                    "wins": 0,
-                    "q": false
-                }
-            ],
-            "C": [
-                {
-                    "name": "England",
-                    "pts": 8,
-                    "wins": 4,
-                    "q": true
-                },
-                {
-                    "name": "Nepal",
-                    "pts": 6,
-                    "wins": 3,
-                    "q": true
-                },
-                {
-                    "name": "West Indies",
-                    "pts": 4,
-                    "wins": 2,
-                    "q": false
-                },
-                {
-                    "name": "Scotland",
-                    "pts": 2,
-                    "wins": 1,
-                    "q": false
-                },
-                {
-                    "name": "Italy",
-                    "pts": 0,
-                    "wins": 0,
-                    "q": false
-                }
-            ],
-            "D": [
-                {
-                    "name": "New Zealand",
-                    "pts": 8,
-                    "wins": 4,
-                    "q": true
-                },
-                {
-                    "name": "South Africa",
-                    "pts": 6,
-                    "wins": 3,
-                    "q": true
-                },
-                {
-                    "name": "United Arab Emirates",
-                    "pts": 4,
-                    "wins": 2,
-                    "q": false
-                },
-                {
-                    "name": "Canada",
-                    "pts": 2,
-                    "wins": 1,
-                    "q": false
-                },
-                {
-                    "name": "Afghanistan",
-                    "pts": 0,
-                    "wins": 0,
-                    "q": false
-                }
-            ]
-        };
-        const super8Data = [
-            {
-                "title": "Super 8 Group 1",
-                "standings": [
-                    {
-                        "name": "India",
-                        "pts": 6,
-                        "wins": 3,
-                        "q": true
-                    },
-                    {
-                        "name": "England",
-                        "pts": 4,
-                        "wins": 2,
-                        "q": true
-                    },
-                    {
-                        "name": "South Africa",
-                        "pts": 2,
-                        "wins": 1,
-                        "q": false
-                    },
-                    {
-                        "name": "Sri Lanka",
-                        "pts": 0,
-                        "wins": 0,
-                        "q": false
-                    }
-                ]
-            },
-            {
-                "title": "Super 8 Group 2",
-                "standings": [
-                    {
-                        "name": "Australia",
-                        "pts": 6,
-                        "wins": 3,
-                        "q": true
-                    },
-                    {
-                        "name": "Pakistan",
-                        "pts": 4,
-                        "wins": 2,
-                        "q": true
-                    },
-                    {
-                        "name": "New Zealand",
-                        "pts": 2,
-                        "wins": 1,
-                        "q": false
-                    },
-                    {
-                        "name": "Nepal",
-                        "pts": 0,
-                        "wins": 0,
-                        "q": false
-                    }
-                ]
-            }
-        ];
-        const knockoutData = {
-            "sf1": {
-                "t1": "India",
-                "t2": "Pakistan",
-                "w": "India",
-                "p1": 73.0,
-                "p2": 27.0
-            },
-            "sf2": {
-                "t1": "Australia",
-                "t2": "England",
-                "w": "Australia",
-                "p1": 58.4,
-                "p2": 41.6
-            },
-            "final": {
-                "t1": "India",
-                "t2": "Australia",
-                "w": "India",
-                "p1": 63.7,
-                "p2": 36.3
-            }
-        };
+        // Load predictions from JSON generated by the model
+        fetch('data/predictions.json')
+            .then(r => r.json())
+            .then(data => render(data))
+            .catch(e => {
+                console.error('Failed to load predictions:', e);
+                document.getElementById('groups-container').innerHTML = '<p style="color:var(--text-muted)">Failed to load predictions. Run predict_t20wc.py first.</p>';
+            });
 
-        // Render Groups
-        const groupsContainer = document.getElementById('groups-container');
-        Object.entries(groupsData).forEach(([groupName, teams]) => {
-            let listHtml = teams.map((t, i) => `
-                <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
-                    <div class="team-info">
-                        <span class="rank">${i + 1}</span>
-                        <span class="name">${t.name}</span>
+        function renderFixtures(matches) {
+            return matches.map(m => `
+                <div class="fixture-date">${m.date} · ${m.venue}</div>
+                <div class="match-fixture">
+                    <div class="fixture-team left ${m.winner === m.team1 ? 'won' : ''}">
+                        <span class="fixture-prob">${m.t1_prob}%</span>
+                        <span class="name">${m.team1}</span>
                     </div>
-                    <div class="stats">
-                        <span class="pts">${t.pts}</span>
-                        <span class="pts-label">pts</span>
+                    <div class="fixture-vs">vs</div>
+                    <div class="fixture-team right ${m.winner === m.team2 ? 'won' : ''}">
+                        <span class="name">${m.team2}</span>
+                        <span class="fixture-prob">${m.t2_prob}%</span>
                     </div>
                 </div>
             `).join('');
+        }
 
-            groupsContainer.innerHTML += `
-            <div class="card">
-                <div class="card-header">
-                    <h3>Group ${groupName}</h3>
-                </div>
-                <div class="card-body">
-                    ${listHtml}
-                </div>
-            </div>`;
-        });
+        function render(data) {
+            const groupsData = data.groups;
+            const super8Data = data.super8;
+            const knockoutData = data.knockouts;
 
-        // Render Super 8s
-        let s8Html = super8Data.map(group => `
-            <div class="card">
-                <div class="card-header">
-                    <h3>${group.title}</h3>
-                </div>
-                <div class="card-body">
-                    ${group.standings.map((t, i) => `
-                        <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
-                            <div class="team-info">
-                                <span class="rank">${i + 1}</span>
-                                <span class="name">${t.name}</span>
-                            </div>
-                            <div class="stats">
-                                <span class="pts">${t.pts}</span>
-                                <span class="pts-label">pts</span>
-                            </div>
+            // Render Groups
+            const groupsContainer = document.getElementById('groups-container');
+            groupsContainer.innerHTML = '';
+            Object.entries(groupsData).forEach(([groupName, group]) => {
+                const teams = group.standings;
+                const matches = group.matches;
+                const groupId = `group-${groupName}-matches`;
+
+                let listHtml = teams.map((t, i) => `
+                    <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
+                        <div class="team-info">
+                            <span class="rank">${i + 1}</span>
+                            <span class="name">${t.name}</span>
                         </div>
-                    `).join('')}
-                </div>
-            </div>
-        `).join('');
-
-        // Render Knockouts
-        const createMatchCard = (title, match, isChampion = false) => `
-            <div class="card ${isChampion ? 'champion' : ''}">
-                <div class="card-header">
-                    <h3>${title}</h3>
-                </div>
-                <div class="card-body">
-                    <div class="match-team ${match.w === match.t1 ? 'winner' : 'eliminated'}">
-                        <div class="match-info">
-                            <span class="name">${match.t1}</span>
-                            <span class="prob">${match.p1.toFixed(1)}%</span>
+                        <div class="stats">
+                            <span class="pts">${t.pts}</span>
+                            <span class="pts-label">pts</span>
                         </div>
-                        <div class="bar-bg"><div class="bar-fill" data-width="${match.p1}%"></div></div>
                     </div>
-                    <div class="match-team ${match.w === match.t2 ? 'winner' : 'eliminated'}">
-                        <div class="match-info">
-                            <span class="name">${match.t2}</span>
-                            <span class="prob">${match.p2.toFixed(1)}%</span>
-                        </div>
-                        <div class="bar-bg"><div class="bar-fill" data-width="${match.p2}%"></div></div>
+                `).join('');
+
+                groupsContainer.innerHTML += `
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Group ${groupName}</h3>
                     </div>
-                </div>
-            </div>
-        `;
-
-        const bracketContainer = document.getElementById('bracket-container');
-        bracketContainer.innerHTML = `
-            <h2 class="section-title">Super 8 Stage</h2>
-            <div class="grid-2">
-                ${s8Html}
-            </div>
-            
-            <h2 class="section-title">Semi-Finals</h2>
-            <div class="grid-2">
-                ${createMatchCard('Semi-Final 1', knockoutData.sf1)}
-                ${createMatchCard('Semi-Final 2', knockoutData.sf2)}
-            </div>
-            
-            <h2 class="section-title" style="text-align: center; border: none; margin-bottom: 0;">World Cup Final</h2>
-            <div class="grid-1">
-                ${createMatchCard('Championship Final', knockoutData.final, true)}
-            </div>
-        `;
-
-        // Trigger animations after load
-        setTimeout(() => {
-            document.querySelectorAll('.bar-fill').forEach(bar => {
-                bar.style.width = bar.getAttribute('data-width');
+                    <div class="card-body">
+                        ${listHtml}
+                        <div class="match-toggle" onclick="toggleMatches('${groupId}', this)">
+                            <span>Match Predictions</span>
+                            <span class="arrow">▼</span>
+                        </div>
+                        <div class="matches-list" id="${groupId}">
+                            ${renderFixtures(matches)}
+                        </div>
+                    </div>
+                </div>`;
             });
-        }, 100);
 
+            // Render Super 8s
+            let s8Html = super8Data.map((group, gi) => {
+                const s8Id = `s8-${gi}-matches`;
+                return `
+                <div class="card">
+                    <div class="card-header">
+                        <h3>${group.title}</h3>
+                    </div>
+                    <div class="card-body">
+                        ${group.standings.map((t, i) => `
+                            <div class="team-row ${t.q ? 'qualified' : 'eliminated'}">
+                                <div class="team-info">
+                                    <span class="rank">${i + 1}</span>
+                                    <span class="name">${t.name}</span>
+                                </div>
+                                <div class="stats">
+                                    <span class="pts">${t.pts}</span>
+                                    <span class="pts-label">pts</span>
+                                </div>
+                            </div>
+                        `).join('')}
+                        <div class="match-toggle" onclick="toggleMatches('${s8Id}', this)">
+                            <span>Match Predictions</span>
+                            <span class="arrow">▼</span>
+                        </div>
+                        <div class="matches-list" id="${s8Id}">
+                            ${renderFixtures(group.matches)}
+                        </div>
+                    </div>
+                </div>
+            `}).join('');
+
+            // Render Knockouts
+            const createMatchCard = (title, match, isChampion = false) => `
+                <div class="card ${isChampion ? 'champion' : ''}">
+                    <div class="card-header">
+                        <h3>${title}${match.date ? ` · ${match.date}` : ''}</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="match-team ${match.w === match.t1 ? 'winner' : 'eliminated'}">
+                            <div class="match-info">
+                                <span class="name">${match.t1}</span>
+                                <span class="prob">${match.p1.toFixed(1)}%</span>
+                            </div>
+                            <div class="bar-bg"><div class="bar-fill" data-width="${match.p1}%"></div></div>
+                        </div>
+                        <div class="match-team ${match.w === match.t2 ? 'winner' : 'eliminated'}">
+                            <div class="match-info">
+                                <span class="name">${match.t2}</span>
+                                <span class="prob">${match.p2.toFixed(1)}%</span>
+                            </div>
+                            <div class="bar-bg"><div class="bar-fill" data-width="${match.p2}%"></div></div>
+                        </div>
+                        ${match.venue ? `<div style="font-size:0.7rem;color:var(--text-hidden);margin-top:12px;text-align:center;">${match.venue}</div>` : ''}
+                    </div>
+                </div>
+            `;
+
+            const bracketContainer = document.getElementById('bracket-container');
+            bracketContainer.innerHTML = `
+                <h2 class="section-title">Super 8 Stage</h2>
+                <div class="grid-2">
+                    ${s8Html}
+                </div>
+                
+                <h2 class="section-title">Semi-Finals</h2>
+                <div class="grid-2">
+                    ${createMatchCard('Semi-Final 1', knockoutData.sf1)}
+                    ${createMatchCard('Semi-Final 2', knockoutData.sf2)}
+                </div>
+                
+                <h2 class="section-title" style="text-align: center; border: none; margin-bottom: 0;">World Cup Final</h2>
+                <div class="grid-1">
+                    ${createMatchCard('Championship Final', knockoutData.final, true)}
+                </div>
+            `;
+
+            // Trigger bar animations
+            setTimeout(() => {
+                document.querySelectorAll('.bar-fill').forEach(bar => {
+                    bar.style.width = bar.getAttribute('data-width');
+                });
+            }, 100);
+        }
+
+        function toggleMatches(id, el) {
+            const list = document.getElementById(id);
+            list.classList.toggle('open');
+            el.classList.toggle('open');
+        }
     </script>
 </body>
 
