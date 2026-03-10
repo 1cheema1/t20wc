@@ -19,6 +19,7 @@ print(f"Loaded {len(df)} matches with results ({df['date'].min().date()} → {df
 print()
 
 ELO_START = 1000
+
 ELO_K = 32
 
 def elo_expected(rating_a, rating_b):
